@@ -727,6 +727,33 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
   </li>
 </ul>
 <h3>4.2.2 Labeling Systems</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Columna 1</th>
+      <th>Columna 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Iconos</td>
+      <td>Descripcion</td>
+    </tr>
+    <tr>
+      <td>imagen</td>
+      <td><strong>Perfil: </strong> Al seleccionar este icono le permitira al usuario poder ver y modificar sus datos segun sus necesidades.</td>
+    </tr>
+    <tr>
+      <td>imagen</td>
+      <td><strong>Carrito de compras: </strong>Al seleccionar este icono dentro de la aplicacion en el contexto del detalle del producto, dicho producto se agregara al carrito de compras del cliente. En el contexto de encontrarse en la pagina del catalogo de productos, al seleccionar este icono se le mostrará al cliente todos los productos almacenados dentro de su carrito de compras</td>
+    </tr>
+    <tr>
+      <td>imagen</td>
+      <td><strong>Notificaciones: </strong>Al seleccionar este icono se le mostrará al usuario su historial de notificaciones y las notificaciones nuevas dentro de la aplicación</td>
+    </tr>
+    
+  </tbody>
+</table>
 <h3>4.2.3 SEO Tags and Meta Tags</h3>
 <h3>4.2.4 Searching Systems</h3>
 <h3>4.2.5 Navigation Systems</h3>
