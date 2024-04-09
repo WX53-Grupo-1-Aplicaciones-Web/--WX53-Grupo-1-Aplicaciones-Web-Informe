@@ -203,8 +203,8 @@ en la integración de la tecnología y la artesanía en el mercado en línea.</p
 
 <h3>1.1.2 Perfiles de integrantes del equipo</h3>
 | Fotos   | Descripción   | 
-| ------- | ------------- | 
-| <img src="./imagenes/alexis.jpeg" width="200" height="200"> | Soy Santos Alexis Patazca Calderón, estudio Ingeniería de Software. Soy una persona responsable y soy respetuoso con mis compañeros de equipo, tengo buena comunicación con mis compañeros, me gusta seguir aprendiendo diversos lenguajes de programación para poder amplicar mis conocimientos. Tengo grandes expectativas en este curso y poder seguir aprendiendo. |
+
+| <img src="./imagenes/alexis.jpeg" width="200" height="200">  Soy Santos Alexis Patazca Calderón, estudio Ingeniería de Software. Soy una persona responsable y soy respetuoso con mis compañeros de equipo, tengo buena comunicación con mis compañeros, me gusta seguir aprendiendo diversos lenguajes de programación para poder amplicar mis conocimientos. Tengo grandes expectativas en este curso y poder seguir aprendiendo. 
 
 <p><strong>Alessandro Joaquin Bernardo Eusebio</strong></p>
 <img src="./imagenes/Bernardo.jpg" width="200" height="200">
