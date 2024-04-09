@@ -656,6 +656,9 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h1>CAPÍTULO IV: PRODUCT UX/UI DESIGN</h1>
 <h2>4.1 Style Guidelines</h2>
 <h3>4.1.1 General Style Guidelines</h3>
+<p>Procederemos a mostrar los elementos seleccionados para el diseño de nuestros sistemas.
+Con respecto a la paleta de colores elegimos los siguientes:</p>
+<img src="./imagenes/colores.png">
 <h3>4.1.2 Web Style Guidelines</h3>
 
 <h2>4.2 Information Architecture</h2>
