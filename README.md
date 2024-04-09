@@ -708,6 +708,24 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 
 <h2>4.2 Information Architecture</h2>
 <h3>4.2.1 Organization Systems</h3>
+<p>A continuación, explicaremos en qué grupos de información se aplicaron los distintos tipos de organización visual para ambos segmentos objetivo, así como también en cuáles se utiliza algún tipo de categorización.</p>
+<ul>
+  <li>
+    <strong>Lista de productos artesanales:</strong> El cliente podrá ver la página de catálogo donde se le mostrarán todos los productos, tanto genéricos como personalizables, que podrá adquirir a través de la página.
+  </li>
+  <li>
+    <strong>Detalles del producto:</strong> Si el cliente está interesado en uno de los productos del catálogo y lo selecciona, se le mostrará el detalle de dicho producto que contendrá sus características, el artesano que lo promueve y su precio.
+  </li>
+  <li>
+    <strong>Personalización del producto:</strong> Para los productos seleccionados, tendrán una opción de personalización de producto, lo que permitirá al cliente personalizar el producto que ha escogido, como el color, el diseño, materiales, detalles, entre otros.
+  </li>
+  <li>
+    <strong>Formulario de publicación:</strong> Cada artesano tendrá a su disposición el formulario de publicación de sus productos para promoverlos y ponerlos a la venta. El artesano podrá elegir si su producto será de venta genérica o se podrán hacer comisiones para un trabajo personalizado de dicho producto.
+  </li>
+  <li>
+    <strong>Chats con los artesanos:</strong> Los usuarios podrán comunicarse entre sí a través de la aplicación. Esto es necesario y facilitará la comunicación entre el cliente y el artesano, ya que así podrán coordinar mejor el trabajo personalizado que el cliente solicita.
+  </li>
+</ul>
 <h3>4.2.2 Labeling Systems</h3>
 <h3>4.2.3 SEO Tags and Meta Tags</h3>
 <h3>4.2.4 Searching Systems</h3>
