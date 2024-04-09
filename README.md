@@ -730,25 +730,22 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 <table>
   <thead>
     <tr>
-      <th>Columna 1</th>
-      <th>Columna 2</th>
+      <th>Iconos</th>
+      <th>Descripcion</th>
     </tr>
   </thead>
   <tbody>
+  
     <tr>
-      <td>Iconos</td>
-      <td>Descripcion</td>
-    </tr>
-    <tr>
-      <td>imagen</td>
+      <td><img src="./imagenes/user.png" width="80" height="80"></td>
       <td><strong>Perfil: </strong> Al seleccionar este icono le permitira al usuario poder ver y modificar sus datos segun sus necesidades.</td>
     </tr>
     <tr>
-      <td>imagen</td>
+      <td><img src="./imagenes/carrito.png" width="80" height="80"></td>
       <td><strong>Carrito de compras: </strong>Al seleccionar este icono dentro de la aplicacion en el contexto del detalle del producto, dicho producto se agregara al carrito de compras del cliente. En el contexto de encontrarse en la pagina del catalogo de productos, al seleccionar este icono se le mostrará al cliente todos los productos almacenados dentro de su carrito de compras</td>
     </tr>
     <tr>
-      <td>imagen</td>
+      <td><img src="./imagenes/notify.png" width="80" height="80"></td>
       <td><strong>Notificaciones: </strong>Al seleccionar este icono se le mostrará al usuario su historial de notificaciones y las notificaciones nuevas dentro de la aplicación</td>
     </tr>
     
