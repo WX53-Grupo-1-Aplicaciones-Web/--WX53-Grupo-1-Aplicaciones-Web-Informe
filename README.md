@@ -731,24 +731,22 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
   <thead>
     <tr>
       <th>Iconos</th>
-      <th>Descripcion</th>
+      <th>Descripción</th>
     </tr>
   </thead>
   <tbody>
-  
     <tr>
       <td><img src="./imagenes/user.png" width="80" height="80"></td>
-      <td><strong>Perfil: </strong> Al seleccionar este icono le permitira al usuario poder ver y modificar sus datos segun sus necesidades.</td>
+      <td><strong>Perfil:</strong> Al seleccionar este icono, el usuario puede ver y modificar sus datos según sus necesidades.</td>
     </tr>
     <tr>
       <td><img src="./imagenes/carrito.png" width="80" height="80"></td>
-      <td><strong>Carrito de compras: </strong>Al seleccionar este icono dentro de la aplicacion en el contexto del detalle del producto, dicho producto se agregara al carrito de compras del cliente. En el contexto de encontrarse en la pagina del catalogo de productos, al seleccionar este icono se le mostrará al cliente todos los productos almacenados dentro de su carrito de compras</td>
+      <td><strong>Carrito de compras:</strong> Al seleccionar este icono dentro de la aplicación, en el contexto del detalle del producto, dicho producto se agregará al carrito de compras del cliente. En el contexto de estar en la página del catálogo de productos, al seleccionar este icono se mostrarán todos los productos almacenados dentro de su carrito de compras.</td>
     </tr>
     <tr>
       <td><img src="./imagenes/notify.png" width="80" height="80"></td>
-      <td><strong>Notificaciones: </strong>Al seleccionar este icono se le mostrará al usuario su historial de notificaciones y las notificaciones nuevas dentro de la aplicación</td>
+      <td><strong>Notificaciones:</strong> Al seleccionar este icono, se mostrará al usuario su historial de notificaciones y las nuevas notificaciones dentro de la aplicación.</td>
     </tr>
-    
   </tbody>
 </table>
 <h3>4.2.3 SEO Tags and Meta Tags</h3>
