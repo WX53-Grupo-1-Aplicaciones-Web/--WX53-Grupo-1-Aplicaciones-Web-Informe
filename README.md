@@ -677,8 +677,8 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 
 <h3>4.1.2 Web Style Guidelines</h3>
 
-<p><strong>Tipografía</strong>
-Al elegir Arial para la tipografía de la aplicación web de Artisania, se mantiene la consistencia visual con la marca. La tipografía utilizada en la aplicación debe reflejar la identidad visual de la marca para fortalecer su reconocimiento y cohesión. Como Arial es una fuente comúnmente asociada con profesionalismo y modernidad, se alinea bien con la imagen contemporánea que Artisania desea proyectar. A continuacion se daran los formatos de tamaño, estilo y formato de letra a utilizar:</p>
+<h4><strong>Tipografía</strong><h4>
+<p>Al elegir Arial para la tipografía de la aplicación web de Artisania, se mantiene la consistencia visual con la marca. La tipografía utilizada en la aplicación debe reflejar la identidad visual de la marca para fortalecer su reconocimiento y cohesión. Como Arial es una fuente comúnmente asociada con profesionalismo y modernidad, se alinea bien con la imagen contemporánea que Artisania desea proyectar. A continuacion se daran los formatos de tamaño, estilo y formato de letra a utilizar:</p>
 <ul>
   <li>   Los botones con texto de la aplicación utilizarán el tamaño de letra 12 y estilo “Regular”.</li>
   <li>   Los títulos de la aplicación utilizarán el tamaño 16 en estilo “SemiBold”.</li>
@@ -690,6 +690,19 @@ Al elegir Arial para la tipografía de la aplicación web de Artisania, se manti
   <li>   Los textos medianos utilizarán el tamaño 22 en estilo “Regular”.</li>
   <li>   Los textos pequeños utilizarán el tamaño 15 en “Light”.</li>
 </ul>
+<h4><strong>Botones</strong><h4>
+  <p>Se utilizaran botones como el siguiente:</p>
+  <img src="./imagenes/boton.png">
+
+<h4><strong>Notificaciones</strong><h4>
+<p>Para las notificaciones durante el ingreso de datos o solicitudes se opta por el siguiente diseño:</p>
+  <img src="./imagenes/notificacionExito.png">
+  <img src="./imagenes/notificacionError.png">
+
+
+
+
+
 
 
 <h2>4.2 Information Architecture</h2>
