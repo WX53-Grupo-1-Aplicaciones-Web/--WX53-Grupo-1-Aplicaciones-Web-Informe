@@ -678,18 +678,19 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 <h3>4.1.2 Web Style Guidelines</h3>
 
 <p><strong>Tipografía</strong>
-Al elegir Arial para la tipografía de la aplicación web de Artisania, se mantiene la consistencia visual con la marca. La tipografía utilizada en la aplicación debe reflejar la identidad visual de la marca para fortalecer su reconocimiento y cohesión. Como Arial es una fuente comúnmente asociada con profesionalismo y modernidad, se alinea bien con la imagen contemporánea que Artisania desea proyectar. A continuacion se daran los formatos de tamaño, estilo y formato de letra a utilizar:
-·   Los botones con texto de la aplicación utilizarán el tamaño de letra 12 y estilo “Regular”.
-·   Los títulos de la aplicación utilizarán el tamaño 16 en estilo “SemiBold”.
-·   Los textos de la aplicación utilizarán el tamaño 14 en estilo “Regular”.
-·   Los botones con texto utilizarán el tamaño de letra 18 y estilo “Medium”.
-·   Los títulos utilizarán el tamaño 55 y estilo “Regular”.
-·   Los subtítulos utilizarán el tamaño 28 en estilo “Medium”.
-·   Los textos utilizarán el tamaño 18 en estilo “Regular”.
-·   Los textos medianos utilizarán el tamaño 22 en estilo “Regular”.
-·   Los textos pequeños utilizarán el tamaño 15 en “Light”.
+Al elegir Arial para la tipografía de la aplicación web de Artisania, se mantiene la consistencia visual con la marca. La tipografía utilizada en la aplicación debe reflejar la identidad visual de la marca para fortalecer su reconocimiento y cohesión. Como Arial es una fuente comúnmente asociada con profesionalismo y modernidad, se alinea bien con la imagen contemporánea que Artisania desea proyectar. A continuacion se daran los formatos de tamaño, estilo y formato de letra a utilizar:</p>
+<ul>
+  <li>·   Los botones con texto de la aplicación utilizarán el tamaño de letra 12 y estilo “Regular”.</li>
+  <li>·   Los títulos de la aplicación utilizarán el tamaño 16 en estilo “SemiBold”.</li>
+  <li>·   Los textos de la aplicación utilizarán el tamaño 14 en estilo “Regular”.</li>
+  <li>·   Los botones con texto utilizarán el tamaño de letra 18 y estilo “Medium”.</li>
+  <li>·   Los títulos utilizarán el tamaño 55 y estilo “Regular”.</li>
+  <li>·   Los subtítulos utilizarán el tamaño 28 en estilo “Medium”.</li>
+  <li>·   Los textos utilizarán el tamaño 18 en estilo “Regular”.</li>
+  <li>·   Los textos medianos utilizarán el tamaño 22 en estilo “Regular”.</li>
+  <li>·   Los textos pequeños utilizarán el tamaño 15 en “Light”.</li>
+</ul>
 
-</p>
 
 <h2>4.2 Information Architecture</h2>
 <h3>4.2.1 Organization Systems</h3>
