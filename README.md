@@ -229,6 +229,10 @@ En mis tiempos libres me gusta leer, ver películas, practicar deportes y experi
 Mi compromiso con el equipo es siempre ser participativo, estar al pendiente de las actividades, responder cualquier duda y aportar en lo que se pueda. 
 </p>
 
+<p><strong>Anderson Walter Macedo Calsina</strong></p>
+<img src="./imagenes/anderson.png" width="200" height="200">
+<p>Soy Anderson Walter Macedo Calsina, estudiante de la carrera de ing de software. Me gusta ayudar a los demás y colaborar para un trabajo en conjunto. Estoy dispuesto a esforzarme y estar comprometido en mis cursos y actividades designadas, orientando las soluciones a las diversas propuestas.</p>
+
 <h2>1.2 Solution Profilee</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>
 <h4>1.2.1.1. What?</h4>
