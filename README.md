@@ -793,6 +793,45 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 <h3>4.7.1 Class Diagrams</h3>
 <img src="./imagenes/diagramUML.png">
 <h3>4.7.2 Class Dictionary</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Atributo</th>
+      <th>Descripción</th>
+      <th>Tipo de Dato</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">Usuario</td>
+      <td>id</td>
+      <td>Identificador del usuario</td>
+      <td>int</td>
+    </tr>
+    <tr>
+      <td>nombre</td>
+      <td>Nombre del usuario</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>correo electrónico</td>
+      <td>Correo electrónico del usuario</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>contraseña</td>
+      <td>Contraseña del usuario</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>dirección</td>
+      <td>Dirección del usuario</td>
+      <td>string</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h2>4.8 Database Design</h2>
 <h3>4.8.1 Database Diagram</h3>
