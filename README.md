@@ -1098,9 +1098,11 @@ https://github.com/AnderMacedo
 <p>En esta sección abordaremos el despliegue de nuestro landing page, utilizamos GitHub.io, donde contiene lo siguiente. </p>
 
 <p>Para eso nos vamos a nuestro respositorio</p>
-<img src="./imagenes/repositorio-landing.png" width="200" height="200">
+<img src="./imagenes/repositorio-landing.png" width="900" height="200">
 <p>Nos vamos al branch master</p>
+<img src="./imagenes/rama-master.png" width="650" height="400">
 
+<img src="./imagenes/github-landing.png" width="650" height="400">
 <p>• images: Carpeta donde se aloja las imágenes utilizadas en el landing page.</p>
 <p>• styles.css: Archivo que contiene los estilos que ayudaran a que el landing page visualmente se encuentre ordenado y atractivo.</p>
 <p>• index.html: Archivo que contiene la estructura del landing page por secciones.</p>
