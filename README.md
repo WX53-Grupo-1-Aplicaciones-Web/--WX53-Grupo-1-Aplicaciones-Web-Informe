@@ -1029,6 +1029,10 @@ Este apartado nos será de mucha utilidad para facilitar que los actuales y futu
 <img src="./imagenes/css.png" width="80" height="80">
 
 <h3>5.1.2 Source Code Management</h3>
+
+<p>Para el manejo y organización de las diferentes modificaciones de nuestro proyecto, se creo una organización del startup en GitHub, donde quedará evidenciado el registro de nuestros avances y visualizar los cambios realizados por cada miembro del equipo.</p>
+<p><strong>Organization URL: </strong>https://github.com/WX53-Grupo-1-Aplicaciones-Web </p>
+
 <h3>5.1.3 Source Code Style Guide & Conventions</h3>
 <h3>5.1.4 Software Deployment Configuration</h3>
 <h2>5.2 Product Implementation & Deployment</h2>
