@@ -829,6 +829,142 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
       <td>Dirección del usuario</td>
       <td>string</td>
     </tr>
+    <tr>
+      <td rowspan="5">Cliente</td>
+      <td>id</td>
+      <td>Identificador del cliente</td>
+      <td>int</td>
+    </tr>
+    <tr>
+      <td>nombre</td>
+      <td>Nombre del cliente</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>correo electrónico</td>
+      <td>Correo electrónico del cliente</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>contraseña</td>
+      <td>Contraseña del cliente</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>dirección</td>
+      <td>Dirección del cliente</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <th>Clase</th>
+      <th>Atributo</th>
+      <th>Descripción</th>
+      <th>Tipo de Dato</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">Artesano</td>
+      <td>id</td>
+      <td>Identificador del artesano</td>
+      <td>int</td>
+    </tr>
+    <tr>
+      <td>nombre</td>
+      <td>Nombre del artesano</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>correo electrónico</td>
+      <td>Correo electrónico del artesano</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>contraseña</td>
+      <td>Contraseña del artesano</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>dirección</td>
+      <td>Dirección del artesano</td>
+      <td>string</td>
+    </tr>
+
+    <tr>
+      <td rowspan="4">Personalización</td>
+      <td>id</td>
+      <td>Identificador de personalización</td>
+      <td>int</td>
+    </tr>
+    <tr>
+      <td>descripción</td>
+      <td>Descripción de la personalización</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>costo adicional</td>
+      <td>Costo adicional por la personalización</td>
+      <td>float</td>
+    </tr>
+    <tr>
+      <td>estado</td>
+      <td>Estado de la personalización (activa/inactiva)</td>
+      <td>boolean</td>
+    </tr>
+
+    <tr>
+      <td rowspan="6">Producto</td>
+      <td>id</td>
+      <td>Identificador del producto</td>
+      <td>int</td>
+    </tr>
+    <tr>
+      <td>nombre</td>
+      <td>Nombre del producto</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>descripción</td>
+      <td>Descripción del producto</td>
+      <td>string</td>
+    </tr>
+    <tr>
+      <td>precio</td>
+      <td>Precio del producto</td>
+      <td>float</td>
+    </tr>
+    <tr>
+      <td>cantidad en stock</td>
+      <td>Cantidad disponible en stock</td>
+      <td>int</td>
+    </tr>
+    <tr>
+      <td>categoría</td>
+      <td>Categoría a la que pertenece el producto</td>
+      <td>Categoría</td>
+    </tr>
+
+    <tr>
+      <td rowspan="4">Chat</td>
+      <td>id</td>
+      <td>Identificador del chat</td>
+      <td>int</td>
+    </tr>
+    <tr>
+      <td>mensajes</td>
+      <td>Lista de mensajes en el chat</td>
+      <td>array de Mensaje</td>
+    </tr>
+    <tr>
+      <td>fecha/hora de inicio</td>
+      <td>Fecha y hora de inicio del chat</td>
+      <td>datetime</td>
+    </tr>
+    <tr>
+      <td>fecha/hora de finalización</td>
+      <td>Fecha y hora de finalización del chat</td>
+      <td>datetime</td>
+    </tr>
   </tbody>
 </table>
 
