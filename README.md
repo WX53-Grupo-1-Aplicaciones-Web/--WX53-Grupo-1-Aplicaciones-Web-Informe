@@ -988,23 +988,23 @@ Este apartado nos será de mucha utilidad para facilitar que los actuales y futu
 
 <p><strong>• Meet: </strong>Es un servicio de videoconferencia desarollado por Google. Esta plataforma nos sirvió de ayuda para realizar las reuniones virtuales con todos los integrantes del grupo y también poder compartir.</p>
 <p><strong>Link: </strong> https://workspace.google.com/products/meet/ </p>
-<img src="./imagenes/meet.png" width="50" height="50">
+<img src="./imagenes/meet.png" width="80" height="80">
 
 <p><strong>• Uxpressia: </strong>Es una herramienta en línea para el mapeo de la trayectoria del cliente donde se puede realizar los User Personas, el Customer Journey Map, Empathy map. Ya que cuenta con plantillas y nos facilita el desarrollo.</p>
 <p><strong>Link: </strong> https://uxpressia.com/ </p>
-<img src="./imagenes/uxpressia.png" width="50" height="50">
+<img src="./imagenes/uxpressia.png" width="80" height="80">
 
 <p><strong>• Miro: </strong>Miro es un espacio de trabajo donde se desarrolla de forma sencilla e intuitiva y permite dar estructuras para poder visualizar las ideas y tenerlas organizadas, ha sido empleado para algunos escenarios.</p>
 <p><strong>Link: </strong> https://miro.com/es/ </p>
-<img src="./imagenes/miro.png" width="50" height="50">
+<img src="./imagenes/miro.png" width="80" height="80">
 
 <p><strong>• Figma: </strong>Es un editor de gráficos y una herramienta de generación de prototipos, con su enfoque en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows. Nos ha servido para realizar los wireframes, mockups.</p>
 <p><strong>Link: </strong> https://www.figma.com/ </p>
-<img src="./imagenes/figma.png" width="50" height="50">
+<img src="./imagenes/figma.png" width="80" height="80">
 
 <p><strong>• Trello: </strong>Trello nos es de utilidad para organizar y tener un registro de las tareas que faltar por desarrollar, que se están realizando y ya están realizadas. De esta manera, podemos tener un listado de cómo se está llevando a cabo el desarrollo de las diferentes actividades que quedan por desarrollar en equipo.</p>
 <p><strong>Link: </strong> Trello: https://trello.com/ </p>
-<img src="./imagenes/trello.png" width="50" height="50">
+<img src="./imagenes/trello.png" width="80" height="80">
 
 <h3>5.1.2 Source Code Management</h3>
 <h3>5.1.3 Source Code Style Guide & Conventions</h3>
