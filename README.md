@@ -292,6 +292,13 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <p>-Plataforma de contacto con los artesanos para poder crear una artesania que el cliente no encuentre dentro del sitio.</p>
 
 <h4>1.2.2.3 Lean UX Hypothesis Statements</h4>
+<p>En esta sección validamos los supuestos planteados anteriormente con la intención de afianzar la idea y los conocimientos sobre nuestros segmentos. A continuación, mostraremos hipótesis realizadas por cada usuario.</p>
+<h4>Artesanos:</h4>
+<p>- Creemos que implementando una función que permita cargar, subir y editar imágenes de productos de manera sencilla, entonces los artesanos podrán mostrar sus productos de forma más atractiva, lo que podría aumentar el interés de los clientes y las ventas.</p>
+<p>- Creemos que brindar una plataforma de contacto directo con los clientes, permitiendo ofrecer detalles específicos sobre los productos y sus precios, entonces los artesanos podrán establecer una comunicación más efectiva con los clientes, lo que podría conducir a un aumento en las conversiones y en la satisfacción del cliente.</p>
+<h4>Clientes:</h4>
+<p>- Creemos que si creamos una interfaz de usuario fácil de navegar, que permita a los clientes encontrar rápidamente las artesanías deseadas, entonces los clientes estarán más inclinados a explorar y realizar compras en la plataforma, lo que podría aumentar la retención de usuarios y las tasas de conversión.</p>
+<p>- Creemos que facilitar el contacto directo con los artesanos, permitiendo a los clientes solicitar artesanías personalizadas que no estén disponibles en el sitio, entonces aumentará la satisfacción del cliente al ofrecer una experiencia de compra más personalizada y exclusiva. Esto podría llevar a un aumento en las ventas y en la fidelidad del cliente.</p>
 <h4>1.2.2.4 Lean UX Canvas</h4>
 <img src="./imagenes/ArtisaniaCanva.png">
 
