@@ -830,7 +830,7 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
       <td>string</td>
     </tr>
     <tr>
-      <td rowspan="5">Cliente</td>
+      <td rowspan="5">Cliente (Usuario)</td>
       <td>id</td>
       <td>Identificador del cliente</td>
       <td>int</td>
@@ -856,15 +856,7 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
       <td>string</td>
     </tr>
     <tr>
-      <th>Clase</th>
-      <th>Atributo</th>
-      <th>Descripción</th>
-      <th>Tipo de Dato</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="5">Artesano</td>
+      <td rowspan="5">Artesano (Usuario)</td>
       <td>id</td>
       <td>Identificador del artesano</td>
       <td>int</td>
@@ -889,7 +881,6 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
       <td>Dirección del artesano</td>
       <td>string</td>
     </tr>
-
     <tr>
       <td rowspan="4">Personalización</td>
       <td>id</td>
@@ -911,7 +902,6 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
       <td>Estado de la personalización (activa/inactiva)</td>
       <td>boolean</td>
     </tr>
-
     <tr>
       <td rowspan="6">Producto</td>
       <td>id</td>
@@ -941,9 +931,8 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
     <tr>
       <td>categoría</td>
       <td>Categoría a la que pertenece el producto</td>
-      <td>Categoría</td>
+      <td>string</td>
     </tr>
-
     <tr>
       <td rowspan="4">Chat</td>
       <td>id</td>
@@ -953,7 +942,7 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
     <tr>
       <td>mensajes</td>
       <td>Lista de mensajes en el chat</td>
-      <td>array de Mensaje</td>
+      <td>array de string</td>
     </tr>
     <tr>
       <td>fecha/hora de inicio</td>
