@@ -1033,6 +1033,49 @@ Este apartado nos será de mucha utilidad para facilitar que los actuales y futu
 <p>Para el manejo y organización de las diferentes modificaciones de nuestro proyecto, se creo una organización del startup en GitHub, donde quedará evidenciado el registro de nuestros avances y visualizar los cambios realizados por cada miembro del equipo.</p>
 <p><strong>Organization URL: </strong>https://github.com/WX53-Grupo-1-Aplicaciones-Web </p>
 
+<table>
+  <tr>
+    <th>Alumno </th>
+    <th>Correo </th>
+    <th>Usuario de Github </th>
+  </tr>
+  <tr>
+    <td><strong>Alessandro Bernardo</strong></td>
+    <td>u202113640@upc.edu.pe </td>
+    <td>AlessandroBernardoEusebio
+https://github.com/AlessandroBernardoEusebio 
+</td>
+  </tr>
+  <tr>
+    <td><strong>Santos Patazca</strong></td>
+    <td>U20201c269@upc.edu.pe </td>
+    <td>SantosPatazca
+https://github.com/SantosPatazca 
+</td>
+  </tr>
+  <tr>
+    <td><strong>Nicolas Cortes</strong></td>
+    <td>u202016311@upc.edu.pe </td>
+    <td>Mrkonik16  
+    https://github.com/Mrkonik16 
+</td>
+  </tr>
+  <tr>
+    <td><strong>Franz La Torre</strong></td>
+    <td>u202012378@upc.edu.pe</td>
+    <td>FranzJairLTV
+https://github.com/FranzJairLTV 
+</td>
+  </tr>
+  <tr>
+    <td><strong>Anderson Macedo</strong></td>
+    <td>u20201c179@upc.edu.pe</td>
+    <td>AnderMacedo
+https://github.com/AnderMacedo 
+</td>
+  </tr>
+</table>
+
 <h3>5.1.3 Source Code Style Guide & Conventions</h3>
 <h3>5.1.4 Software Deployment Configuration</h3>
 <h2>5.2 Product Implementation & Deployment</h2>
