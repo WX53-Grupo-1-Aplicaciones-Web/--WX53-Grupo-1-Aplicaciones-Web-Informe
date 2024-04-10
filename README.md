@@ -774,6 +774,8 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 
 <h2>4.3 Landing Page UI Design</h2>
 <h3>4.3.1 Landing Page Wireframe</h3>
+<img src="./imagenes/landingPage.png">
+
 <h3>4.3.2 Landing Page Mock-up</h3>
 
 <h2>4.4 Web Applications UX/UI Design</h2>
