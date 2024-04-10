@@ -1016,13 +1016,17 @@ Este apartado nos será de mucha utilidad para facilitar que los actuales y futu
 
 <p><strong>• Webstorm: </strong>Nos proporcionó herramientas eficientes, aitomatizando el trabajo y simplificando las actividades, ayudando a manejar nuestro trabajo</p>
 <p><strong>Link: </strong> WebStorm </p>
+<img src="./imagenes/webstorm.png" width="80" height="80">
 
 <p><strong>• GitHub: </strong>Nos ayuda a tener un desarrollo colaborativo para almacenar nuestros proyectos. Se realizó la creación de la organización y de los repositorios de código para colaborar con los otros desarrolladores.</p>
 <p><strong>Link: </strong> https://github.com/ </p>
+<img src="./imagenes/github.png" width="80" height="80">
 
 <p><strong>• HTML: </strong>Es un lenguaje de etiquetas, que sirvió para la creación del Landing Page.</p>
+<img src="./imagenes/html.png" width="80" height="80">
 
 <p><strong>• CSS: </strong>Es para el diseño de los documentos HTML y XML. Ayuda para dar una mejor visión a las páginas web. Fue utilizado para el Landing page.</p>
+<img src="./imagenes/css.png" width="80" height="80">
 
 <h3>5.1.2 Source Code Management</h3>
 <h3>5.1.3 Source Code Style Guide & Conventions</h3>
