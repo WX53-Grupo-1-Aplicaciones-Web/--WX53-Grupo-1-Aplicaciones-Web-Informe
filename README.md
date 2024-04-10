@@ -1094,6 +1094,19 @@ https://github.com/AnderMacedo
 <p>Estas buenas practicas nos ayuda a mantener legibilidad en nuestro código, esto también es de ayuda para otra personas puedan comprender el manejo de nuestro proyecto.</p>
 
 <h3>5.1.4 Software Deployment Configuration</h3>
+
+<p>En esta sección abordaremos el despliegue de nuestro landing page, utilizamos GitHub.io, donde contiene lo siguiente. </p>
+
+<p>Para eso nos vamos a nuestro respositorio</p>
+<img src="./imagenes/Bernardo.jpg" width="100" height="50">
+<p>Nos vamos al branch master</p>
+
+<p>• images: Carpeta donde se aloja las imágenes utilizadas en el landing page.</p>
+<p>• styles.css: Archivo que contiene los estilos que ayudaran a que el landing page visualmente se encuentre ordenado y atractivo.</p>
+<p>• index.html: Archivo que contiene la estructura del landing page por secciones.</p>
+
+<p><strong>Link: https://github.com/WX53-Grupo-1-Aplicaciones-Web/WX53-Grupo-1-Aplicaciones-Web-LandingPage/tree/master</strong></p>
+
 <h2>5.2 Product Implementation & Deployment</h2>
 <h3>5.2.1.1 Sprint Backlog 1</h3>
 <h3>5.2.1.2 User Interface & Execution</h3>
