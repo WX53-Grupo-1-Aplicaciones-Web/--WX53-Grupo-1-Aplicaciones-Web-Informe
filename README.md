@@ -788,6 +788,8 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 
 <h2>4.4 Web Applications UX/UI Design</h2>
 <h3>4.4.1 Web Applications Wireframes</h3>
+<img src="./imagenes/webWireframes.png">
+
 <h3>4.4.2 Web Applications Wireflow Diagrams</h3>
 <h3>4.4.2 Web Applications Mock-ups</h3>
 <h3>4.4.3 Web Applications User Flow Diagrams</h3>
