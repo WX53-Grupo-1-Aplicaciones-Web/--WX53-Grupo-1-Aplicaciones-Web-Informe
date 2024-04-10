@@ -393,6 +393,9 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
   </tr>
 </table>
 <h3>2.1.2 Estrategias y tácticas frente a competidores</h3>
+<p>- Nos centraremos en crear una app dirigida a los artesanos y amantes de productos artesanales, en el cual podran descubrir, explorar y adquirir dichos productos, con el objetivo de ser la principal aplicacion de artesania del mercado en línea.</p>
+<p>- Ofreceremos características únicas en la plataforma que sean valoradas por los usuarios, como una interfaz más intuitiva o un sistema de contacto con funciones adicionales.</p>
+<p>- Priorizar la experiencia del usuario en la plataforma, asegurándose de que sea fácil de navegar tanto para artesanos como para clientes.</p>
 
 <h2>2.2 Entrevistas</h2>
 <h3>2.2.1 Diseño de entrevistas</h3>
