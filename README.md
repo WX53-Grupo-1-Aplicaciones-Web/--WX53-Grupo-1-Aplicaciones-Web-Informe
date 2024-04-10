@@ -791,7 +791,7 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 
 <h2>4.7 Software Object-Oriented Design</h2>
 <h3>4.7.1 Class Diagrams</h3>
-<img src="./imagenes/diagramaUML.png">
+<img src="./imagenes/diagramUML.png">
 <h3>4.7.2 Class Dictionary</h3>
 
 <h2>4.8 Database Design</h2>
