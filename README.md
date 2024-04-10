@@ -750,6 +750,11 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
   </tbody>
 </table>
 <h3>4.2.3 SEO Tags and Meta Tags</h3>
+<p>A continuación se presentaran los SEO tags y Meta tags para el proyecto</p>
+>'Etiqueta de Título (<title>):'
+>'Meta Charset (<meta charset="UTF-8">):'
+>'Meta Viewport (<meta name="viewport" content="...">):'
+
 <h3>4.2.4 Searching Systems</h3>
 <h3>4.2.5 Navigation Systems</h3>
 
