@@ -795,10 +795,23 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
   </tbody>
 </table>
 <h3>4.2.3 SEO Tags and Meta Tags</h3>
-<p>A continuación se presentaran los SEO tags y Meta tags para el proyecto</p>
->'Etiqueta de Título (<title>):'
->'Meta Charset (<meta charset="UTF-8">):'
->'Meta Viewport (<meta name="viewport" content="...">):'
+<p>Para mejorar la visibilidad y el posicionamiento de nuestro sitio web en los motores de búsqueda, implementamos una estrategia sólida de SEO (Search Engine Optimization) que incluye el uso adecuado de etiquetas SEO y meta etiquetas. Estas etiquetas desempeñan un papel crucial en la optimización del contenido para que sea más accesible y relevante para los motores de búsqueda, lo que a su vez aumenta la probabilidad de que nuestro sitio web aparezca en los resultados de búsqueda relevantes para nuestros usuarios.</p>
+    
+<h3>Etiquetas SEO Principales Utilizadas:</h3>
+    <ol>
+        <li><strong>Title Tag (etiqueta de título):</strong> Cada página de nuestro sitio web cuenta con un título único y descriptivo que captura la esencia del contenido de esa página. Estos títulos están optimizados con palabras clave relevantes para mejorar su visibilidad en los resultados de búsqueda.</li>
+        <li><strong>Meta Description Tag (etiqueta de descripción meta):</strong> Para complementar el título, cada página también incluye una meta descripción que proporciona un resumen conciso del contenido de la página. Estas descripciones están diseñadas para ser informativas y atractivas para los usuarios, lo que puede aumentar la tasa de clics en los resultados de búsqueda.</li>
+        <li><strong>Meta Keywords Tag (etiqueta de palabras clave meta):</strong> Aunque el uso de meta palabras clave ha disminuido en importancia en los últimos años, aún las utilizamos de manera estratégica para identificar las palabras clave principales relacionadas con el contenido de la página. Esto ayuda a los motores de búsqueda a comprender mejor el tema y la relevancia del contenido.</li>
+        <li><strong>Canonical Tag (etiqueta canónica):</strong> En casos donde tenemos múltiples URL que muestran el mismo contenido o contenido similar, utilizamos etiquetas canónicas para indicar a los motores de búsqueda la URL preferida que deben indexar y mostrar en los resultados de búsqueda.</li>
+    </ol>
+    
+<h3>Otros Aspectos Relevantes:</h3>
+    <ul>
+        <li><strong>Etiquetas Alt en Imágenes:</strong> Cada imagen en nuestro sitio web incluye una etiqueta alt descriptiva que ayuda a los motores de búsqueda a comprender el contenido de la imagen. Esto también mejora la accesibilidad para usuarios con discapacidades visuales.</li>
+        <li><strong>Etiquetas Heading (H1, H2, H3, etc.):</strong> Utilizamos etiquetas de encabezado de manera jerárquica para estructurar el contenido de nuestras páginas web. Esto no solo mejora la legibilidad y la experiencia del usuario, sino que también proporciona pistas adicionales a los motores de búsqueda sobre la relevancia y la organización del contenido.</li>
+    </ul>
+    
+<p>Nuestra estrategia de etiquetado SEO y meta tags está diseñada para garantizar que nuestro sitio web sea fácilmente indexado y clasificado por los motores de búsqueda, lo que aumenta su visibilidad y accesibilidad para nuestros usuarios objetivo.</p>
 
 <h3>4.2.4 Searching Systems</h3>
 <h3>4.2.5 Navigation Systems</h3>
