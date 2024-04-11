@@ -1,7 +1,7 @@
 ![upc](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 # **Tabla de Contenido**
 
-- [Registro de Versiones](#registro-de-versiones)dd
+- [Registro de Versiones](#registro-de-versiones)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#Capítulo-I-Introducción)
@@ -531,7 +531,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <th>Título</th>
       <th>Descripción</th>
       <th>Criterios de Aceptación</th>
-      <th>Story Points</th>
     </tr>
   </thead>
   <tbody>
@@ -546,7 +545,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Entonces</strong> debe poder registrar una cuenta nueva proporcionando un nombre de usuario, correo electrónico y contraseña válidos.</p>
         <p><strong>Entonces</strong> debe poder iniciar sesión con las credenciales previamente registradas.</p>
       </td>
-      <td>3</td>
     </tr>
     <tr>
       <td>2</td>
@@ -558,7 +556,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Cuando</strong> ingrese a Artisania y seleccione el apartado de catálogo,</p>
         <p><strong>Entonces</strong> se le mostrara una amplia variedad de productos disponibles para su exploración.</p>
       </td>
-      <td>5</td>
     </tr>
     <tr>
       <td>3</td>
@@ -571,7 +568,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Entonces</strong> debería tener la opción de personalizar aspectos como el color, tamaño y diseño según sus preferencias individuales.</p>
         <p><strong>Entonces</strong> después de realizar las personalizaciones deseadas, debería poder previsualizar cómo se verá el producto personalizado antes de confirmar su pedido.</p>
       </td>
-      <td>3</td>
     </tr>
     <tr>
       <td>4</td>
@@ -584,7 +580,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Entonces</strong> seleccionara la opcion de comunicarse con un artesano.</p>
         <p><strong>Entonces</strong> se mostrara un cuadro de dialogo donde el usuario y artesano podran entablar comunicacion.</p>
       </td>
-      <td>8</td>
     </tr>
     <tr>
      <td>5</td>
@@ -596,7 +591,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Cuando</strong> seleccione la opcion comunicarse con el artesano y no este dispobible,</p>
         <p><strong>Entonces</strong> se le mostrará al usuario la información de contacto del artesano, como un número de teléfono o correo electrónico, para que pueda comunicarse directamente con él y discutir posibles personalizaciones fuera de la plataforma.</p>
      </td>
-    <td>5</td>
     </tr>
     <tr>
       <td>6</td>
@@ -609,7 +603,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Entonces</strong> se le mostrara un formulario para iniciar el proceso de reembolso.</p>
         <p><strong>Entonces</strong> debera esperar respuesta de su solicitud de reembolso.</p>
       </td>
-      <td>2</td>
     </tr>
     <tr>
       <td>7</td>
@@ -621,7 +614,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Cuando</strong> seleccione un producto dentro de la plataforma,</p>
         <p><strong>Entonces</strong> podra observar un apartado de comentarios donde tiene la opcion de colocar el suyo.</p>
       </td>
-      <td>3</td>
     </tr>
     <tr>
       <td>8</td>
@@ -633,7 +625,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Cuando</strong> seleccione la opcion de pagar,</p>
         <p><strong>Entonces</strong> podra observar un apartado donde pueda seleccionar su metodo de pago.</p>
       </td>
-      <td>5</td>
     </tr>
    <tr>
       <td>9</td>
@@ -645,7 +636,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Cuando</strong> seleccione la opcion de publicar articulos,</p>
         <p><strong>Entonces</strong> se le mostrara un formulario registrar los productos que ofrece.</p>
       </td>
-      <td>2</td>
     </tr>
    <tr>
       <td>10</td>
@@ -657,7 +647,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Cuando</strong> seleccione el apartado de notificaciones,</p>
         <p><strong>Entonces</strong> se le mostraran las solicitudes de confección que le han pedido.</p>
       </td>
-      <td>2</td>
     </tr>
     <tr>
       <td>11</td>
@@ -669,7 +658,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
         <p><strong>Cuando</strong> seleccione la opcion de comunicarse con el cliente,</p>
         <p><strong>Entonces</strong> se le mostraran un chat donde podra entablar comunicacion directa con el cliente.</p>
       </td>
-      <td>2</td>
     </tr>
    
     <tr>
@@ -677,9 +665,23 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 </table>
 <h2>3.3 Impact Mapping</h2>
 <img src="./imagenes/ImpactMapArtisania.jpg">
-<h2>3.4 Product Backlog</h2>
+
 <h2>3.3 Impact Mapping</h2>
 <h2>3.4 Product Backlog</h2>
+<table>
+  <tr><th>#Orden</th> <th>User Story ID</th> <th>Titulo</th> <th>Descripcion</th> <th>Story Points</th></tr>
+  <tr><th>1</th> <td>EP01</td> <td>Autenticacion de usuario</td> <td>Como usuario nuevo, quiero poder registrarme e iniciar sesion en Artisania</td> <th>3</th></tr>
+  <tr><th>2</th> <td>EP02</td> <td>Exploracion de productos artesanales</td> <td>Como usuario, quiero poder explorar una amplia variedad de productos artesanales de alta calidad.</td> <th>5</th></tr>
+  <tr><th>3</th> <td>EP03</td> <td>Personalizacion de productos</td> <td>Como usuario, quiero tener la opción de personalizar ciertos productos según mis preferencias individuales, como el color, tamaño o diseño.</td> <th>3</th></tr>
+  <tr><th>4</th> <td>EP04</td> <td>Comunicacion con artesanos</td> <td>Como usuario, quiero poder comunicarme directamente con los artesanos para discutir las opciones de personalización.</td> <th>8</th></tr>
+  <tr><th>5</th> <td>EP05</td> <td>Acceso a informacion de contacto de artesanos</td> <td>Como usuario, quiero poder encontrar información de contacto adicional de los artesanos para comunicarme con ellos en caso de que no se encuentren disponibles dentro de la plataforma.</td> <th>5</th></tr>
+  <tr><th>6</th> <td>EP06</td> <td>Devolucion de producto</td> <td>Como usuario, quiero tener la tranquilidad de saber que si el producto no cumple con mis expectativas, puedo devolverlo y obtener un reembolso o un reemplazo</td> <th>2</th></tr>
+  <tr><th>7</th> <td>EP07</td> <td>Comentarios sobre los productos personalizados</td> <td>Como usuario, quiero poder dejar comentarios y reseñas sobre los productos y la experiencia de personalización para ayudar a otros usuarios en sus decisiones de compra</td> <th>3</th></tr>
+  <tr><th>8</th> <td>EP08</td> <td>Metodos de pago</td> <td>Como usuario, quiero poder realizar el pago de mis compras de manera segura y conveniente utilizando diferentes métodos de pago, como tarjetas de crédito, transferencias bancarias o plataformas de pago en línea.</td> <th>5</th></tr>
+  <tr><th>9</th> <td>EP09</td> <td>Muestra de trabajo del artesano</td> <td>Como artesano, quiero poder mostrar mi trabajo y habilidades, para que los clientes interesados puedan conocer mi estilo y experiencia.</td> <th>2</th></tr>
+  <tr><th>10</th> <td>EP10</td> <td>Notificacion de solicitud de trabajo</td> <td>Como artesano, deseo recibir notificaciones instantáneas cuando un cliente solicite un producto personalizado, para poder comunicarme rápidamente con el cliente y entender sus necesidades específicas.</td> <th>2</th></tr>
+  <tr><th>11</th> <td>EP11</td> <td>Gestor de pedidos</td> <td>Como artesano, me gustaría tener la opción de gestionar mis pedidos y comunicaciones con los clientes directamente desde la plataforma del marketplace, para así tener un registro organizado de todas las transacciones y requerimientos de personalización.</td> <th>2</th></tr>
+</table>
 
 <h1>CAPÍTULO IV: PRODUCT UX/UI DESIGN</h1>
 <h2>4.1 Style Guidelines</h2>
