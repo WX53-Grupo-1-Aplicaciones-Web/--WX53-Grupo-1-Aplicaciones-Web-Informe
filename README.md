@@ -809,6 +809,7 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 
 <h3>4.4.2 Web Applications Wireflow Diagrams</h3>
 <h3>4.4.2 Web Applications Mock-ups</h3>
+<img src="./imagenes/mockUp.png">
 <h3>4.4.3 Web Applications User Flow Diagrams</h3>
 
 <h2>4.5 Web Applications Prototyping</h2>
