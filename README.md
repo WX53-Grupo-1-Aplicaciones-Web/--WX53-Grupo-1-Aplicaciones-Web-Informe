@@ -1368,6 +1368,9 @@ Anderson Walter Macedo Calsina - u20201c179
 <h3>5.2.1.6 Services Documentation Evidence for Sprint Review.</h3>
 <p>Debido a que en este desarrollo de sprint, se ha realizado el landing page y estamos en etapa de diseño, aun no se puede documentar.</p>
 <h3>5.2.1.7 Software Deployment Evidence for Sprint Review.</h3>
-El deployment de nuestro landing se ha desarrollado en Github.
+<p>El deployment de nuestro landing se ha desarrollado en Github.</p>
 <img src="./imagenes/deployment.png" width="500" height="200">
 <h3>5.2.1.8 Team Collaboration Insights during Sprint.</h3>
+<p>A continuación se mostrará el insight del respositorio de nuestro equipo</p>
+<img src="./imagenes/colaboration1.png" width="600" height="300">
+<img src="./imagenes/colaboration2.png" width="600" height="300">
