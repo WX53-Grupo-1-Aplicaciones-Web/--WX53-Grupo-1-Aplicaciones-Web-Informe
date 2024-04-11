@@ -150,8 +150,8 @@
     <tr>
         <td>2.0</td>
         <td>8/04/2024</td>
-        <td>Fila 10, Celda 3</td>
-        <td>Fila 10, Celda 4</td>
+        <td>Santos Alexis Patazca Calderón</td>
+        <td>Wireframes y mock ups de la aplicacion web</td>
     </tr>
     <tr>
         <td>2.1</td>
