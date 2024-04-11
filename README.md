@@ -1,4 +1,5 @@
-![upc](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+<img src="./imagenes/caratula.jpg"">
+
 # **Tabla de Contenido**
 
 - [Registro de Versiones](#registro-de-versiones)
