@@ -529,7 +529,20 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h4>Segmento Artesano</h4>
 <img src="./imagenes/As-Is-Artesano.png">
 
-<h2>2.3 Needfinding</h2>
+<h2>2.4 Ubiquitous language</h2>
+<p>A continuación presentamos el conjunto de términos y conceptos comunes utilizados para el proyecto.</p>
+<ul>
+        <li><strong>Usuario:</strong> Cualquier persona que accede a la plataforma para comprar productos artesanales o interactuar con artesanos.</li>
+        <li><strong>Artesano:</strong> Un individuo que crea productos artesanales y los ofrece en la plataforma para la venta o personalización.</li>
+        <li><strong>Producto Artesanal:</strong> Un artículo hecho a mano, único y de alta calidad, ofrecido en el marketplace por un artesano.</li>
+        <li><strong>Marketplace:</strong> La plataforma web donde los usuarios pueden comprar productos artesanales y comunicarse con artesanos.</li>
+        <li><strong>Personalización:</strong> La capacidad del cliente para especificar ciertas características o detalles del producto artesanal según sus preferencias.</li>
+        <li><strong>Acuerdo de Personalización:</strong> Un acuerdo entre el cliente y el artesano sobre los detalles específicos de cómo se personalizará el producto, incluyendo cambios en el diseño, materiales utilizados, etc.</li>
+        <li><strong>Comunicación en Plataforma:</strong> La función que permite a los usuarios comunicarse entre sí dentro de la plataforma, facilitando la negociación y el acuerdo de personalización.</li>
+        <li><strong>Pedido Personalizado:</strong> Un pedido realizado por un cliente que incluye detalles de personalización acordados con el artesano.</li>
+        <li><strong>Transacción:</strong> El proceso de compra y venta de productos artesanales a través de la plataforma, incluyendo el pago y la entrega.</li>
+        <li><strong>Perfil de Usuario:</strong> La sección de la plataforma donde los usuarios pueden ver información sobre ellos mismos, sus pedidos pasados, preferencias de personalización, etc.</li>
+    </ul>
 
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
 <h2>3.1 To-Be Scenario Mapping</h2>
