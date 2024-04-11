@@ -469,6 +469,12 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 
 <h2>2.3 Needfinding</h2>
 <h3>2.3.1 User Personas</h3>
+<h4>Segmento Cliente</h4>
+<img src="./imagenes/UserPersonaCliente.png">
+
+<h4>Segmento Artesano</h4>
+<img src="./imagenes/UserPersonaArtesano.png">
+
 <h3>2.3.2 User Task Matrix</h3>
 
 <table>
