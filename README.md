@@ -85,6 +85,9 @@
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [CONCLUSIONES](#CONCLUSIONES)
+- [BIBLIOGRAFIA](#BIBLIOGRAFIA)
+- [ANEXOS](#ANEXOS)
+
 
 <h1>REGISTRO DE VERSIONES</h1>
 <table>
@@ -1409,6 +1412,9 @@ Nuestra atención se ha centrado en la creación de un entorno que celebre la ar
 
 <h1>ANEXOS</h1>
 <p><strong>Link del Organización en GitHub: </strong> [https://github.com/](https://github.com/orgs/WX53-Grupo-1-Aplicaciones-Web/repositories) </p>
+<p><strong>Link del Landing Page: </strong> [https://wx53-grupo-1-aplicaciones-web.github.io/WX53-Grupo-1-Aplicaciones-Web-LandingPage) </p>
+<p><strong>Link del prototipo de la aplicacion web: </strong> [https://www.figma.com/proto/cZPikSVh2IUneJO4yE9j7p/Untitled?type=design&node-id=10-3&t=JeTSq8uP0acEEYqg-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=10%3A2) </p>
+
 
 <h3>Reunión de equipo</h3>
 <p><strong>Fecha: </strong> 25/03/2024 </p>
