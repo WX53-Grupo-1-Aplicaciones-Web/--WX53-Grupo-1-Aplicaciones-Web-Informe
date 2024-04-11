@@ -862,6 +862,7 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 <img src="./imagenes/userflow4.png">
 
 <h2>4.5 Web Applications Prototyping</h2>
+<p>Enlace al prototipo de la aplicación web: https://www.figma.com/proto/cZPikSVh2IUneJO4yE9j7p/Untitled?type=design&node-id=0-1&t=JeTSq8uP0acEEYqg-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=10%3A2 </p>
 
 <h2>4.6 Domain-Driven Software Architecture</h2>
 <h3>4.6.1 Software Architecture Context Diagram</h3>
