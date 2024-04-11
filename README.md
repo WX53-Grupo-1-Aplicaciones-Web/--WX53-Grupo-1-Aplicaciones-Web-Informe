@@ -1309,6 +1309,8 @@ Anderson Walter Macedo Calsina - u20201c179
 <h3>5.2.1.4 Testing Suite Evidence for Sprint Review.</h3>
 <p>Como nos encontramos en una etapa de diseño de la pagina web, aun no podemos realizar los respectivos Tests. Pero se están realizando las validaciones para ir mejorando en nuetra pagina web</p>
 <h3>5.2.1.5 Execution Evidence for Sprint Review.</h3>
+Para este primer sprint se desarrolló y se logró desplegar el Landing Page
+
 <h3>5.2.1.6 Services Documentation Evidence for Sprint Review.</h3>
 <h3>5.2.1.7 Software Deployment Evidence for Sprint Review.</h3>
 <h3>5.2.1.8 Team Collaboration Insights during Sprint.</h3>
