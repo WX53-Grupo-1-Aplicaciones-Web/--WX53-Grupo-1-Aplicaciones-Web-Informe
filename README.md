@@ -84,7 +84,7 @@
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [CONCLUSIONES](#6-CONCLUSIONES)
+- [CONCLUSIONES](CONCLUSIONES)
 
 <h1>REGISTRO DE VERSIONES</h1>
 <table>
