@@ -84,6 +84,7 @@
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
+- [CONCLUSIONES](#6-CONCLUSIONES)
 
 <h1>REGISTRO DE VERSIONES</h1>
 <table>
@@ -1390,6 +1391,9 @@ Anderson Walter Macedo Calsina - u20201c179
 <img src="./imagenes/colaboration1.png" width="600" height="300">
 <img src="./imagenes/colaboration2.png" width="600" height="300">
 
+<h1>CONCLUSIONES</h1>
+<p>Desde el diseño y lanzamiento de nuestro atractivo landing page, hasta la meticulosa planificación de los user flows, wireframes y mockups de la aplicación web, hemos establecido una sólida base para ofrecer una experiencia inigualable tanto para artesanos como para clientes.
+Nuestra atención se ha centrado en la creación de un entorno que celebre la artesanía y fomente la conexión entre creadores y consumidores. La capacidad de personalización de productos y la comunicación directa entre artesanos y clientes dentro de la plataforma son aspectos clave que diferencian a Artisania de otros marketplaces convencionales.</p>
 <h1>BIBLIOGRAFIA</h1>
 <p>ComexPerú. (2024, 8 de marzo). Más de 416,000 peruanos trabajan en artesanía. ¿Cómo se encuentra el sector? Sociedad de Comercio Exterior del Perú. https://www.comexperu.org.pe/articulo/mas-de-416000-peruanos-trabajan-en-artesania-como-se-encuentra-el-sector  [Fecha de consulta 25/03/2024]</p>
 <p>Andina. (2024, 11 de abril). Más de 1,200 artesanos venden en línea a través de Artesanías del Perú. Agencia Andina. https://andina.pe/agencia/noticia-mas-1200-artesanos-venden-linea-a-traves-artesanias-del-peru-948996.aspx [Fecha de consulta 24/03/2024]</p>
