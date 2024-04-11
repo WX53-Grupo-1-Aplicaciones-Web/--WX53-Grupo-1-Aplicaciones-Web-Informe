@@ -1278,6 +1278,32 @@ Anderson Walter Macedo Calsina - u20201c179
 </table>
 
 <h3>5.2.1.3 Development Evidence for Sprint Review.</h3>
+
+<table>
+   <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit ed on (Date)</th>
+  </tr>
+  <tr>
+    <th>https://wx53-grupo-1-aplicaciones-web.github.io/WX53-Grupo-1-Aplicaciones-Web-LandingPage/#testimonios</th>
+    <th>master</th>
+    <th>6f67858543c636c8407db09f1a13c869f6dee608</th>
+    <th>"Archivos del landing page”</th>
+    <th>09/04/2024</th>
+  </tr>
+  <tr>
+    <th>https://wx53-grupo-1-aplicaciones-web.github.io/WX53-Grupo-1-Aplicaciones-Web-LandingPage/#testimonios</th>
+    <th>master</th>
+    <th>09098632a1a27f122d918d78efaf5b65037ee5c8</th>
+    <th>"Section Contacto”</th>
+    <th>09/04/2024</th>
+  </tr>
+  
+</table>
+
 <h3>5.2.1.4 Testing Suite Evidence for Sprint Review.</h3>
 <h3>5.2.1.5 Execution Evidence for Sprint Review.</h3>
 <h3>5.2.1.6 Services Documentation Evidence for Sprint Review.</h3>
