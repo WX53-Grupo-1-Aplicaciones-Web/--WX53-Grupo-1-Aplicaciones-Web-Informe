@@ -1376,3 +1376,16 @@ Anderson Walter Macedo Calsina - u20201c179
 <p>A continuación se mostrará el insight del respositorio de nuestro equipo</p>
 <img src="./imagenes/colaboration1.png" width="600" height="300">
 <img src="./imagenes/colaboration2.png" width="600" height="300">
+
+<h1>BIBLIOGRAFIA</h1>
+<p>ComexPerú. (2024, 8 de marzo). Más de 416,000 peruanos trabajan en artesanía. ¿Cómo se encuentra el sector? Sociedad de Comercio Exterior del Perú. https://www.comexperu.org.pe/articulo/mas-de-416000-peruanos-trabajan-en-artesania-como-se-encuentra-el-sector  [Fecha de consulta 25/03/2024]</p>
+<p>Andina. (2024, 11 de abril). Más de 1,200 artesanos venden en línea a través de Artesanías del Perú. Agencia Andina. https://andina.pe/agencia/noticia-mas-1200-artesanos-venden-linea-a-traves-artesanias-del-peru-948996.aspx [Fecha de consulta 24/03/2024]</p>
+<p>El Peruano. (2024, sin fecha). Fortalecerán desarrollo del sector artesanía. El Peruano. https://www.elperuano.pe/noticia/208103-fortaleceran-desarrollo-del-sector-artesania [Fecha de consulta 24/03/2024]</p>
+
+<h1>ANEXOS</h1>
+<p><strong>Link del Organización en GitHub: </strong> [https://github.com/](https://github.com/orgs/WX53-Grupo-1-Aplicaciones-Web/repositories) </p>
+
+<h3>Reunión de equipo</h3>
+<p><strong>Fecha: </strong> 25/03/2024 </p>
+<p><strong>Plataforma: </strong> Meet </p>
+<img src="./imagenes/reunion.png" width="600" height="300">
