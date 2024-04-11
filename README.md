@@ -1120,7 +1120,74 @@ https://github.com/AnderMacedo
 <p><strong>Link: https://github.com/WX53-Grupo-1-Aplicaciones-Web/WX53-Grupo-1-Aplicaciones-Web-LandingPage/tree/master</strong></p>
 
 <h2>5.2 Product Implementation & Deployment</h2>
-<h3>5.2.1.1 Sprint Backlog 1</h3>
-<h3>5.2.1.2 User Interface & Execution</h3>
-<h3>5.2.1.3 Team Collaboration Insights</h3>
+<h3>5.2.1 Sprint 1</h3>
+<p>En el primer sprint se desarrolló y se desplegó la Landing Page.</p>
 
+<h3>5.2.1.1 Sprint Planning 1</h3>
+<table>
+  <tr>
+    <th>Sprint # </th>
+    <th>Sprint 1 </th>
+  </tr>
+  <tr>
+    <td><strong>Sprint Planning Background</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <th>2024/03/22</th>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>22:00 PM</th>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <th>Meet</th>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <th>Alessandro Bernardo </th>
+  </tr>
+  <tr>
+    <th>Attendess (to planning meeting)</th>
+    <th>Alessandro Joaquin Bernardo Eusebio - u202113640
+Santos Alexis Patazca Calderón - U20201c269
+Nicolas Andres Cortes Hidalgo - u202016311
+Franz Jair La Torre Valle - u202012378
+Anderson Walter Macedo Calsina - u20201c179
+ </th>
+  </tr>
+  <tr>
+    <th>Sprint 0 Review Summary</th>
+    <th>There was no previous sprint</th>
+  </tr>
+  <tr>
+    <th>Sprint 0 Retrospective Summary</th>
+    <th>There was no previous sprint</th>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <th>Se creó la organización de nuestro starup en Githun y el repositorio de landing page, que fue desarrollado y desplegado.</th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <th>2 semanas </th>
+  </tr>
+  <tr>
+    <th>Sum of Story Point</th>
+    <th>5</th>
+  </tr>
+</table>
+
+<h3>5.2.1.2 Sprint Backlog 1</h3>
+<h3>5.2.1.3 Development Evidence for Sprint Review.</h3>
+<h3>5.2.1.4 Testing Suite Evidence for Sprint Review.</h3>
+<h3>5.2.1.5 Execution Evidence for Sprint Review.</h3>
+<h3>5.2.1.6 Services Documentation Evidence for Sprint Review.</h3>
+<h3>5.2.1.7 </h3>
+<h3>5.2.1.8 </h3>
