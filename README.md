@@ -465,6 +465,13 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <p><strong>Link del video: </strong> https://youtu.be/epkIDnPpWUE</p>
 <p>Aleshka Fernandez, estudiante de arte y diseño, se encuentra inmersa en su tesis colaborando con artesanos de la región Amazonas. Aunque ella encuentra fácil el uso de dispositivos, no todos los artesanos con los que interactúa tienen la misma facilidad, debido a diferencias generacionales o limitaciones de acceso en esas zonas. Los artesanos de Amazonas forman parte de la organización CITE Utcubamba, que utiliza su plataforma y redes sociales como medios, aunque esta estrategia no resulta tan rentable debido a limitaciones de alcance. Las ferias organizadas ocasionalmente resultan un poco más rentables, pero no son una solución diaria. Aleshka está a favor de la personalización de productos y considera esta idea como innovadora.</p>
 
+<h4></h4>
+<h4>Nombre: Horacio Beraldo</h4>
+<img src="./imagenes/Evidencia entrevista.png" width = "400" height = "200">
+
+<p><strong>Link del video: </strong> https://drive.google.com/file/d/1CkB0Xcq_ffSSS3H1r92ltidGMveA7wvQ/view?usp=sharing</p>
+<p>Horacio Beraldo es un artesano de 26 años, que entro a este negocio por decision propia al haberse retirado su padre debido a la edad y su propia decision de querer continuar el legado de su familia, ya que se trata de un negocio familiar y que ha pasado por generaciones. Horacio tiene un puesto en un centro comercial dedicado a la venta de productos artesanales. Cuenta que tiene problemas a la hora de generar ingresos debido a que estos son totalmente dependientes del flujo de clientes que Horacio obtenga, por lo que, al ser estos productos no tan populares, no puede generar ganancias altas de forma constante. A pesar de no ser del todo joven, Horacio se siente bastante comodo con la utilizacion de dispositivos electronicos para la promocion de su negocio, ademas, considera que la personalizacion de productos segun necesidades de sus clientes le permitira crear productos que sean ventas seguras.</p>
+
 <h3>2.2.3 Análisis de entrevistas</h3>
 
 <h2>2.3 Needfinding</h2>
