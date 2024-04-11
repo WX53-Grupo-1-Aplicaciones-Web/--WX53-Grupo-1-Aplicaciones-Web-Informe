@@ -1303,8 +1303,8 @@ Anderson Walter Macedo Calsina - u20201c179
     <th>Sección de personalización de productos</th>
     <th>Como usuario, quiero que la landing page tenga la sección de la personalización de productos.</th>
     <th> hours</th>
-    <th></th>
-    <th></th>
+    <th>Franz</th>
+    <th>Done</th>
   </tr>
   <tr>
     <th>US-05</th>
