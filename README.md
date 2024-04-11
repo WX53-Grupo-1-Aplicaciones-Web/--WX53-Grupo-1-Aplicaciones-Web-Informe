@@ -815,6 +815,17 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 <img src="./imagenes/webWireframes.png">
 
 <h3>4.4.2 Web Applications Wireflow Diagrams</h3>
+<h4>Cliente:</h4>
+<h4>Use goal 1</h4>
+<img src="./imagenes/wflow1.png">
+<h4>Use goal 2</h4>
+<img src="./imagenes/wflow2.png">
+<h4>Use goal 3</h4>
+<img src="./imagenes/wflow3.png">
+<h4>Artesano:</h4>
+<h4>Use goal 4</h4>
+<img src="./imagenes/wflow4.png">
+
 <h3>4.4.2 Web Applications Mock-ups</h3>
 <img src="./imagenes/mockUp.png">
 <h3>4.4.3 Web Applications User Flow Diagrams</h3>
