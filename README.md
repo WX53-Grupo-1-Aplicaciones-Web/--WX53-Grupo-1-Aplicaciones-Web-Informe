@@ -87,6 +87,14 @@
 - [CONCLUSIONES](#CONCLUSIONES)
 - [BIBLIOGRAFIA](#BIBLIOGRAFIA)
 - [ANEXOS](#ANEXOS)
+- 
+<h1>Project Report Collaboration Insights</h1>
+<p><strong>URL de la organizacion de github: </strong>https://github.com/WX53-Grupo-1-Aplicaciones-Web</p>
+<p>Presentamos los analíticos de colaboracion y los gráficos de commits realizados durante la elaboracion del proyecto. Debido a un cambio de repositorios del proyecto a los repositorios de la organizacion, la colaboracion de algunos miembros podría no verse reflejada, sin embargo afirmamos que todos los miembros del equipo trabajaron conjuntamente. </p>
+<p>Para la elaboración del proyecto programamos reuniones semanales para acordar, repartir partes del informe y revisar avances del proyecto en general de forma puntual.</p>
+
+<img src="./imagenes/commits.png">
+<img src="./imagenes/insight.png">
 
 
 <h1>REGISTRO DE VERSIONES</h1>
