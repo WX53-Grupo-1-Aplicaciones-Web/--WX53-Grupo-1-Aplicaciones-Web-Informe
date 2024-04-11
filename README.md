@@ -814,8 +814,16 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 <p>Nuestra estrategia de etiquetado SEO y meta tags está diseñada para garantizar que nuestro sitio web sea fácilmente indexado y clasificado por los motores de búsqueda, lo que aumenta su visibilidad y accesibilidad para nuestros usuarios objetivo.</p>
 
 <h3>4.2.4 Searching Systems</h3>
+<p class="justificado">Los sistemas de búsqueda son esenciales para permitir a los usuarios encontrar y descubrir características y funcionalidades relevantes en nuestro sitio web. Para una experiencia de usuario eficiente, hemos implementado un sistema de búsqueda simple pero efectivo:</p>
+<img src="./imagenes/searching.png"/>
+<ul>
+  <li><strong>Lupa de Búsqueda:</strong> Permite a los usuarios buscar rápidamente cualquier tema de su interés.</li>
+  <li><strong>Perfil de Usuario:</strong> Representado por el icono del usuario, proporciona acceso al perfil del usuario para editar información o iniciar sesión.</li>
+</ul>
 <h3>4.2.5 Navigation Systems</h3>
-
+<p class="justificado">Nuestra aplicación cuenta con un sistema de navegación claro y definido para garantizar una experiencia fluida para los usuarios.</p>
+<img src="./imagenes/navigation.png"/>
+<p class="justificado">El sistema de navegación de nuestra aplicación web está diseñado para ofrecer a los usuarios una experiencia intuitiva y fluida. Con iconos claramente identificados en la parte superior, los usuarios pueden acceder fácilmente a las funciones principales de la aplicación.</p>
 <h2>4.3 Landing Page UI Design</h2>
 <h3>4.3.1 Landing Page Wireframe</h3>
 <img src="./imagenes/landingPage.png">
