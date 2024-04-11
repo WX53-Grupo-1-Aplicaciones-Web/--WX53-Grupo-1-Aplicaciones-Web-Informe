@@ -651,7 +651,7 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
     <tr>
       <td>11</td>
       <td>EP11</td>
-      <td>Notificacion de solicitud de trabajo</td>
+      <td>Gestor de pedidos solicitados</td>
       <td>Como artesano, me gustaría tener la opción de gestionar mis pedidos y comunicaciones con los clientes directamente desde la plataforma del marketplace, para así tener un registro organizado de todas las transacciones y requerimientos de personalización.</td>
      <td>
         <p><strong>Dado que</strong> el artesano entablar comunicacion con el cliente,</p>
@@ -680,7 +680,7 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
   <tr><th>8</th> <td>EP08</td> <td>Metodos de pago</td> <td>Como usuario, quiero poder realizar el pago de mis compras de manera segura y conveniente utilizando diferentes métodos de pago, como tarjetas de crédito, transferencias bancarias o plataformas de pago en línea.</td> <th>5</th></tr>
   <tr><th>9</th> <td>EP09</td> <td>Muestra de trabajo del artesano</td> <td>Como artesano, quiero poder mostrar mi trabajo y habilidades, para que los clientes interesados puedan conocer mi estilo y experiencia.</td> <th>2</th></tr>
   <tr><th>10</th> <td>EP10</td> <td>Notificacion de solicitud de trabajo</td> <td>Como artesano, deseo recibir notificaciones instantáneas cuando un cliente solicite un producto personalizado, para poder comunicarme rápidamente con el cliente y entender sus necesidades específicas.</td> <th>2</th></tr>
-  <tr><th>11</th> <td>EP11</td> <td>Gestor de pedidos</td> <td>Como artesano, me gustaría tener la opción de gestionar mis pedidos y comunicaciones con los clientes directamente desde la plataforma del marketplace, para así tener un registro organizado de todas las transacciones y requerimientos de personalización.</td> <th>2</th></tr>
+  <tr><th>11</th> <td>EP11</td> <td>Gestor de pedidos solicitados</td> <td>Como artesano, me gustaría tener la opción de gestionar mis pedidos y comunicaciones con los clientes directamente desde la plataforma del marketplace, para así tener un registro organizado de todas las transacciones y requerimientos de personalización.</td> <th>2</th></tr>
 </table>
 
 <h1>CAPÍTULO IV: PRODUCT UX/UI DESIGN</h1>
