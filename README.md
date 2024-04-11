@@ -95,69 +95,69 @@
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Fila 1, Celda 2</td>
-        <td>Fila 1, Celda 3</td>
-        <td>Fila 1, Celda 4</td>
+        <td>22/03/2024</td>
+        <td>Nicolas Andres Cortes Hidalgo</td>
+        <td>Inicio capitulo 1</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Fila 2, Celda 2</td>
-        <td>Fila 2, Celda 3</td>
-        <td>Fila 2, Celda 4</td>
+        <td>25/03/2024</td>
+        <td>Anderson Walter Macedo Calsina</td>
+        <td>Avance capitulo 1 entrevistas</td>
     </tr>
     <tr>
         <td>1.3</td>
-        <td>Fila 3, Celda 2</td>
-        <td>Fila 3, Celda 3</td>
-        <td>Fila 3, Celda 4</td>
+        <td>26/03/2024</td>
+        <td>Santos Alexis Patazca Calderón</td>
+        <td>Registro de entrevistas</td>
     </tr>
     <tr>
         <td>1.4</td>
-        <td>Fila 4, Celda 2</td>
-        <td>Fila 4, Celda 3</td>
-        <td>Fila 4, Celda 4</td>
+        <td>01/04/2024</td>
+        <td>Franz Jair La Torre Valle</td>
+        <td>Inicio del capitulo 2</td>
     </tr>
     <tr>
         <td>1.5</td>
-        <td>Fila 5, Celda 2</td>
-        <td>Fila 5, Celda 3</td>
-        <td>Fila 5, Celda 4</td>
+        <td>02/04/2024</td>
+        <td>Alessandro Joaquin Bernardo Eusebio</td>
+        <td>Needfinding</td>
     </tr>
     <tr>
         <td>1.6</td>
-        <td>Fila 6, Celda 2</td>
-        <td>Fila 6, Celda 3</td>
-        <td>Fila 6, Celda 4</td>
+        <td>03/04/2024</td>
+        <td>Nicolas Andres Cortes Hidalgo</td>
+        <td>Creacion del capiutlo 3</td>
     </tr>
     <tr>
         <td>1.7</td>
-        <td>Fila 7, Celda 2</td>
-        <td>Fila 7, Celda 3</td>
-        <td>Fila 7, Celda 4</td>
+        <td>05/04/2024</td>
+        <td>Anderson Walter Macedo Calsina</td>
+        <td>User stories</td>
     </tr>
     <tr>
         <td>1.8</td>
-        <td>Fila 8, Celda 2</td>
-        <td>Fila 8, Celda 3</td>
-        <td>Fila 8, Celda 4</td>
+        <td>02/04/2024</td>
+        <td>Santos Alexis Patazca Calderón</td>
+        <td>Creacion del capitulo 4</td>
     </tr>
     <tr>
         <td>1.9</td>
-        <td>Fila 9, Celda 2</td>
-        <td>Fila 9, Celda 3</td>
-        <td>Fila 9, Celda 4</td>
+        <td>07/05/2024</td>
+        <td>Franz Jair La Torre Valle</td>
+        <td>Confirmacion de estilos</td>
     </tr>
     <tr>
         <td>2.0</td>
-        <td>Fila 10, Celda 2</td>
+        <td>8/04/2024</td>
         <td>Fila 10, Celda 3</td>
         <td>Fila 10, Celda 4</td>
     </tr>
     <tr>
         <td>2.1</td>
-        <td>Fila 11, Celda 2</td>
-        <td>Fila 11, Celda 3</td>
-        <td>Fila 11, Celda 4</td>
+        <td>10/04/2024</td>
+        <td>Alessandro Joaquin Bernardo Eusebio</td>
+        <td>Creacion del landing page</td>
     </tr>
 </table>
 
