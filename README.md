@@ -175,6 +175,8 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
         <td><strong>TB1:</strong>
             <p><strong>Alessandro Joaquin Bernardo Eusebio.-</strong> Propuse la idea de la startup como punto de partida para la investigación de mercado y la elaboración del needfinding en la fase inicial del proyecto. También participé en la creación de los repositorios necesarios, colaboré en la realización del informe y contribuí en la elaboración del landing page, así como en la creación de los wireframes y mockups correspondientes, incluyendo los flujos de navegación.</p>
             <p><strong>Nicolas Andres Cortes Hidalgo.-</strong> Me encargue de lo que es la creacion de todo el Lean UX Process, ademas de la creacion del User Task Matrix y el Product Backlog. Contribui en uno de los videos del apartado de la realizacion de entrevistas. Por ultimo, hice modificaciones en el informe de acuerdo a los avanzes que he ido realizando de los apartados que se me fueron asignados.</p>
+            <p><strong>Anderson Walter Macedo Calsina.-</strong> Me encargue de elaborar los Hypothesis Statements para validar los supuestos planteados anteriormente. Ademas elabore las estrategias y tácticas frente a competidores para lograr los objetivos que hemos planteados.</p>
+
         </td>
         <td> </td>
     </tr>
