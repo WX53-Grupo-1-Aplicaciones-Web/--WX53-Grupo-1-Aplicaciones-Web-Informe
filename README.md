@@ -768,7 +768,7 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
     <strong>Formulario de publicación:</strong> Cada artesano tendrá a su disposición el formulario de publicación de sus productos para promoverlos y ponerlos a la venta. El artesano podrá elegir si su producto será de venta genérica o se podrán hacer comisiones para un trabajo personalizado de dicho producto.
   </li>
   <li>
-    <strong>Chats con los artesanos:</strong> Los usuarios podrán comunicarse entre sí a través de la aplicación. Esto es necesario y facilitará la comunicación entre el cliente y el artesano, ya que así podrán coordinar mejor el trabajo personalizado que el cliente solicita.
+    <strong>Publicación de productos:</strong> Los artesanos podrán publicar los productos que desean promocionar dentro de la plataforma, además que tendran acceso a la opcion de hacer su producto personalizable donde podran añadir sus propios parametros.
   </li>
 </ul>
 <h3>4.2.2 Labeling Systems</h3>
