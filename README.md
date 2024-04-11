@@ -474,6 +474,13 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <p><strong>Link del video: </strong> https://drive.google.com/file/d/1CkB0Xcq_ffSSS3H1r92ltidGMveA7wvQ/view?usp=sharing</p>
 <p>Horacio Beraldo es un artesano de 26 años, que entro a este negocio por decision propia al haberse retirado su padre debido a la edad y su propia decision de querer continuar el legado de su familia, ya que se trata de un negocio familiar y que ha pasado por generaciones. Horacio tiene un puesto en un centro comercial dedicado a la venta de productos artesanales. Cuenta que tiene problemas a la hora de generar ingresos debido a que estos son totalmente dependientes del flujo de clientes que Horacio obtenga, por lo que, al ser estos productos no tan populares, no puede generar ganancias altas de forma constante. A pesar de no ser del todo joven, Horacio se siente bastante comodo con la utilizacion de dispositivos electronicos para la promocion de su negocio, ademas, considera que la personalizacion de productos segun necesidades de sus clientes le permitira crear productos que sean ventas seguras.</p>
 
+<h4>Cliente</h4>
+<h4>Nombre: Andrea Joselyn Garcia Moscoso</h4>
+<img src="./imagenes/EntrevistaClienteAndrea.jpg" width="400" height="200">
+
+<p><strong>Link del video: </strong> https://youtu.be/4RcdxQvFTBI</p>
+<p>Andrea es una estudiante universitaria, ella usa principalmente su celular computadora y tablet en su rutina cotidiana y es facil para ella hacer uso de esos dispositivos. Nos comenta que compra productos artensanales con frecuencia para regalos o para ella misma. Tambien nos cuenta que tuvo una experiencia en general no muy positiva, ya que es algo dificil encontrar y contactar con vendedores confiables. Ella considera que los productos en las paginas deberian tener mayor detalle en su descripcion y una mejor vision del producto. Le agradaria la idea de poder personalizar los productos que compra en linea dependiendo de lo que ella necesite en ese momento. Por ultimo, señala que las plataformas deberian enfocarse mas en la comunicacion con el cliente, deben contar con una amplia variedad de productos, y facilitar la busqueda y ubicacion en la aplicacion, asi como se debe ofrecer seguridad al momento de realizar las compras y envios de los productos.</p>
+
 <h3>2.2.3 Análisis de entrevistas</h3>
 
 <h2>2.3 Needfinding</h2>
