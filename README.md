@@ -485,6 +485,14 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <p>Andrea es una estudiante universitaria, ella usa principalmente su celular computadora y tablet en su rutina cotidiana y es facil para ella hacer uso de esos dispositivos. Nos comenta que compra productos artensanales con frecuencia para regalos o para ella misma. Tambien nos cuenta que tuvo una experiencia en general no muy positiva, ya que es algo dificil encontrar y contactar con vendedores confiables. Ella considera que los productos en las paginas deberian tener mayor detalle en su descripcion y una mejor vision del producto. Le agradaria la idea de poder personalizar los productos que compra en linea dependiendo de lo que ella necesite en ese momento. Por ultimo, señala que las plataformas deberian enfocarse mas en la comunicacion con el cliente, deben contar con una amplia variedad de productos, y facilitar la busqueda y ubicacion en la aplicacion, asi como se debe ofrecer seguridad al momento de realizar las compras y envios de los productos.</p>
 
 <h3>2.2.3 Análisis de entrevistas</h3>
+<p>A continuación mostraremos un analisis de las entrevistas recopiladas sobre aspectos que consideramos importantes para el proyecto.</p>
+<p>Aqui mostramos el nivel de confianza de todos nuestros entrevistados al hacer transacciones en linea, podemos observar que la mayoria no tiene confianzas en estas transacciones.</p>
+<img src="./imagenes/confianza.png">
+<p>Este grafico representa los departamentos que mas visitan nuestros entrevistados del segmento de clientes.</p>
+<img src="./imagenes/departamentos.png">
+<p>Aqui mostramos las aplicaciones que mas utilizan los artesanos entrevistados para su actividad de venta de sus productos artesanales.</p>
+<img src="./imagenes/aplicaciones.png">
+
 
 <h2>2.3 Needfinding</h2>
 <h3>2.3.1 User Personas</h3>
