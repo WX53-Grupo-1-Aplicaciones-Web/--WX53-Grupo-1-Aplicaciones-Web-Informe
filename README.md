@@ -816,19 +816,29 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 
 <h3>4.4.2 Web Applications Wireflow Diagrams</h3>
 <h4>Cliente:</h4>
-<h4>Use goal 1</h4>
+<h4>Use goal 1: Como usuario deseo poder cambiar mi contraseña dentro de la plataforma</h4>
 <img src="./imagenes/wflow1.png">
-<h4>Use goal 2</h4>
+<h4>Use goal 2: Como usuario deseo poder actualizar mis datos personales</h4>
 <img src="./imagenes/wflow2.png">
-<h4>Use goal 3</h4>
+<h4>Use goal 3: Como usuario deseo poder adquirir algun producto y personalizarlo con las caractersticas que yo desee</h4>
 <img src="./imagenes/wflow3.png">
 <h4>Artesano:</h4>
-<h4>Use goal 4</h4>
+<h4>Use goal 4: Como artesano, deseo poder publicar mi producto, escojer si este producto se puede personalizar y escojer mis parametros de personalización</h4>
 <img src="./imagenes/wflow4.png">
 
 <h3>4.4.2 Web Applications Mock-ups</h3>
 <img src="./imagenes/mockUp.png">
 <h3>4.4.3 Web Applications User Flow Diagrams</h3>
+<h4>Cliente:</h4>
+<h4>Use goal 1: Como usuario deseo poder cambiar mi contraseña dentro de la plataforma</h4>
+<img src="./imagenes/userflow1.png">
+<h4>Use goal 2: Como usuario deseo poder actualizar mis datos personales</h4>
+<img src="./imagenes/userflow2.png">
+<h4>Use goal 3: Como usuario deseo poder adquirir algun producto y personalizarlo con las caractersticas que yo desee</h4>
+<img src="./imagenes/userflow3.png">
+<h4>Artesano:</h4>
+<h4>Use goal 4: Como artesano, deseo poder publicar mi producto, escojer si este producto se puede personalizar y escojer mis parametros de personalización</h4>
+<img src="./imagenes/userflow4.png">
 
 <h2>4.5 Web Applications Prototyping</h2>
 
