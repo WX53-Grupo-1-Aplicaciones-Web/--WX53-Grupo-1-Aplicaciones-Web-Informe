@@ -1185,6 +1185,91 @@ Anderson Walter Macedo Calsina - u20201c179
 </table>
 
 <h3>5.2.1.2 Sprint Backlog 1</h3>
+
+<table>
+   <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+   <tr>
+    <th>User Story</th>
+    <th></th>
+    <th>Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title </th>
+    <th>Description</th>
+    <th>Estimation(Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / InProcess / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <th>US-01</th>
+    <th>Visualizar una landing page intuitiva</th>
+    <th>W-01</th>
+    <th>Diseño </th>
+    <th>Como visitante, quiero ver una landing page intuitiva, atractiva y sencilla para que pueda entender rápidamente el propósito del sitio web.</th>
+    <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-02</th>
+    <th>Visualizar una sección sobre quienes somos</th>
+    <th>W-02</th>
+    <th>Sección quienes somos</th>
+    <th>Como visitante, quiero ver una sección en el landing page que hable sobre la startup para saber la misión y visión.</th>
+    <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-03</th>
+    <th>Visualizar sección servicios que ofrecemos</th>
+    <th>W-03</th>
+    <th>Sección los servicios que ofrecemos</th>
+    <th>Como usuario, quiero que la landing page tenga una sección para saber todo lo que ofrece el startup.</th>
+    <th>2 hours</th>
+    <th>Santos</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-04</th>
+    <th>Visualizacion de personalización de productos</th>
+    <th>W-04</th>
+    <th>Sección de personalización de productos</th>
+    <th>Como usuario, quiero que la landing page tenga la sección de la personalización de productos.</th>
+    <th> hours</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>US-05</th>
+    <th>Visualización de testimonios</th>
+    <th>W-05</th>
+    <th>Sección testimonios</th>
+    <th>Como usuario, quiero que la landing page tenga la sección de testimonios</th>
+    <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-06</th>
+    <th>Contacto</th>
+    <th>W-06</th>
+    <th>Contacto de la startup</th>
+    <th>Como usuario, quiero poder comunicarme con el startup.</th>
+    <th>1 hours</th>
+    <th>Santos</th>
+    <th>Done</th>
+  </tr>
+
+
+</table>
+
 <h3>5.2.1.3 Development Evidence for Sprint Review.</h3>
 <h3>5.2.1.4 Testing Suite Evidence for Sprint Review.</h3>
 <h3>5.2.1.5 Execution Evidence for Sprint Review.</h3>
