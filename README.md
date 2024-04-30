@@ -1450,20 +1450,20 @@ Anderson Walter Macedo Calsina - u20201c179
  </th>
   </tr>
   <tr>
-    <th>Sprint 0 Review Summary</th>
-    <th>Correcciones y término del desarrollo de las tareas que corresponden al Sprint 1y faltó mayor organización </th>
+    <th>Sprint 1 Review Summary</th>
+    <th>Correcciones y término del desarrollo de las tareas que corresponden al Sprint 1 </th>
   </tr>
   <tr>
-    <th>Sprint 0 Retrospective Summary</th>
-    <th>There was no previous sprint</th>
+    <th>Sprint 1 Retrospective Summary</th>
+    <th>Ciertas faltas de organización en el equipo</th>
   </tr>
   <tr>
     <th>Sprint Goal & User Stories</th>
     <th></th>
   </tr>
   <tr>
-    <th>Sprint 1 Goal</th>
-    <th>Se creó la organización de nuestro starup en Githun y el repositorio de landing page, que fue desarrollado y desplegado.</th>
+    <th>Sprint 2 Goal</th>
+    <th>Se creó el repositorio de Front end de nuestra aplicación y se llegó a desplegar el proyecto </th>
   </tr>
   <tr>
     <th>Sprint 1 Velocity</th>
