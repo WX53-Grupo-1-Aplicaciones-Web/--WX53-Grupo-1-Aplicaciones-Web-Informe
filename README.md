@@ -1466,7 +1466,7 @@ Anderson Walter Macedo Calsina - u20201c179
     <th>Se creó el repositorio de Front end de nuestra aplicación y se llegó a desplegar el proyecto </th>
   </tr>
   <tr>
-    <th>Sprint 1 Velocity</th>
+    <th>Sprint 2 Velocity</th>
     <th>2 semanas </th>
   </tr>
   <tr>
@@ -1474,6 +1474,170 @@ Anderson Walter Macedo Calsina - u20201c179
     <th>5</th>
   </tr>
 </table>
+<h3>5.2.2.2 Sprint Backlog 2</h3>
+<table>
+   <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+   <tr>
+    <th>User Story</th>
+    <th></th>
+    <th>Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title </th>
+    <th>Description</th>
+    <th>Estimation(Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / InProcess / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <th>US-01</th>
+    <th>Visualizar la vista de creacion de cuenta</th>
+    <th>W-01</th>
+    <th>Crear cuenta </th>
+    <th>Como usuario nuevo que desea utilizar el servicio,
+      Quiero poder crear una cuenta en el sitio web o aplicación,
+      Para acceder a todas las funcionalidades y personalizar mi experiencia según mis preferencias y necesidades.</th>
+    <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-02</th>
+    <th>Visualizar la vista de inicio de sesion</th>
+    <th>W-02</th>
+    <th>Iniciar sesion</th>
+    <th>Como usuario nuevo que desea utilizar el servicio,
+      Quiero poder ver la opción de iniciar sesión en el sitio web o aplicación,
+      Para acceder a todas las funcionalidades y personalizar mi experiencia según mis preferencias y necesidades.</th>
+    <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-03</th>
+    <th>Visualizar la vista de cambio de contraseña</th>
+    <th>W-03</th>
+    <th>Cambio de contraseña</th>
+    <th>Como usuario que desea cambiar mi contraseña,
+      Quiero poder ver la opción para cambiar mi contraseña en el sitio web o aplicación,
+      Para poder actualizar mi contraseña de manera segura y acceder a mi cuenta con la nueva información de inicio de sesión.</th>
+    <th>2 hours</th>
+    <th>Santos</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-04</th>
+    <th>Visualizar la vista del catalogo de productos</th>
+    <th>W-04</th>
+    <th>Catalogo de productos</th>
+    <th>Como usuario interesado en explorar los productos disponibles,
+      Quiero poder ver el catálogo de productos en el sitio web o aplicación,
+      Para buscar y explorar los productos disponibles, ver sus detalles y tomar decisiones de compra informadas.
+      
+      </th>
+    <th>2 hours</th>
+    <th>Franz</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-05</th>
+    <th>Visualizacion de la vista de informacion de perfil</th>
+    <th>W-05</th>
+    <th>Informacion de perfil</th>
+    <th>Como usuario registrado en el sitio web o aplicación,
+      Quiero poder ver mi información de perfil,
+      Para revisar y actualizar mis detalles personales, preferencias y configuraciones de cuenta.</th>
+    <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-06</th>
+    <th>Visualización de apartado de cambio de información de perfil</th>
+    <th>W-06</th>
+    <th>Edicion de perfil</th>
+    <th>Como usuario registrado en el sitio web o aplicación,
+      Quiero acceder al apartado donde puedo cambiar mi información de perfil,
+      Para poder actualizar y modificar mis datos personales, preferencias y configuraciones de cuenta según sea necesario.
+      
+      </th>
+    <th>1 hours</th>
+    <th>Anderson</th>
+    <th>Done</th>
+  </tr>
+
+  <tr>
+    <th>US-07</th>
+    <th>Visualización del detalle del producto</th>
+    <th>W-06</th>
+    <th>Detalle del producto</th>
+    <th>Como usuario interesado en un producto específico,
+      Quiero poder ver los detalles completos del producto en el sitio web o aplicación,
+      Para obtener información detallada sobre sus características, especificaciones, precios y opciones de compra.
+      </th>
+    <th>1 hours</th>
+    <th>Nicolas</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-08</th>
+    <th>Visualización del apartado para publicar un producto</th>
+    <th>W-06</th>
+    <th>Publicación del producto</th>
+    <th>Como usuario que desea vender un producto,
+      Quiero acceder al apartado donde puedo publicar un nuevo producto para la venta,
+      Para poder agregar los detalles del producto, como imágenes, descripción, precio y otras especificaciones, y hacer que esté disponible para que otros usuarios lo vean y compren.</th>
+    <th>1 hours</th>
+    <th>Franz</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-09</th>
+    <th>Visualizacion del apartado de compra de producto</th>
+    <th>W-06</th>
+    <th>Compra y personalizacion del producto</th>
+    <th>Como usuario interesado en comprar un producto,
+      Quiero acceder al apartado de compra en el sitio web o aplicación,
+      Para poder revisar las opciones de compra disponibles, agregar el producto deseado al carrito y completar la transacción de compra.</th>
+    <th>1 hours</th>
+    <th>Santos</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-10</th>
+    <th>Visualizacion del apartado para crear parametros de personalizacion de producto</th>
+    <th>Agregar parametros de personalizacion</th>
+    <th>Contacto de la startup</th>
+    <th>Como usuario que desea personalizar un producto,
+      Quiero acceder al apartado donde puedo establecer parámetros de personalización,
+      Para poder seleccionar opciones como tamaño, color, material u otras características específicas del producto que deseo comprar.
+      </th>
+    <th>1 hours</th>
+    <th>Nicolas</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-011</th>
+    <th>Visualizacion del apartado de acuerdo de adiquisicion del producto entre cliente y artesano</th>
+    <th>W-06</th>
+    <th>Acuerdo de compra</th>
+    <th>CComo usuario que está en proceso de adquirir un producto personalizado,
+      Quiero acceder al apartado donde puedo revisar y aceptar los términos del acuerdo de adquisición,
+      Para formalizar el acuerdo con el artesano sobre los detalles personalizados del producto, los plazos de entrega, el precio acordado y otras condiciones relevantes antes de completar la compra.</th>
+    <th>1 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+
+
+</table>
+
 
 
 <h1>CONCLUSIONES</h1>
