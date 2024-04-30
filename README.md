@@ -1412,6 +1412,70 @@ Anderson Walter Macedo Calsina - u20201c179
 <img src="./imagenes/colaboration1.png" width="600" height="300">
 <img src="./imagenes/colaboration2.png" width="600" height="300">
 
+<h3>5.2.2 Sprint 2</h3>
+<p>En el segundo sprint se desarrolló y se desplegó el Front end de nuestra aplicación web.</p>
+<h3>5.2.2.1 Sprint planning 2</h3>
+<table>
+  <tr>
+    <th>Sprint # </th>
+    <th>Sprint 2 </th>
+  </tr>
+  <tr>
+    <td><strong>Sprint Planning Background</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <th>2024/04/22</th>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>22:00 PM</th>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <th>Meet</th>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <th>Alessandro Bernardo </th>
+  </tr>
+  <tr>
+    <th>Attendess (to planning meeting)</th>
+    <th>Alessandro Joaquin Bernardo Eusebio - u202113640
+Santos Alexis Patazca Calderón - U20201c269
+Nicolas Andres Cortes Hidalgo - u202016311
+Franz Jair La Torre Valle - u202012378
+Anderson Walter Macedo Calsina - u20201c179
+ </th>
+  </tr>
+  <tr>
+    <th>Sprint 0 Review Summary</th>
+    <th>Correcciones y término del desarrollo de las tareas que corresponden al Sprint 1y faltó mayor organización </th>
+  </tr>
+  <tr>
+    <th>Sprint 0 Retrospective Summary</th>
+    <th>There was no previous sprint</th>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <th>Se creó la organización de nuestro starup en Githun y el repositorio de landing page, que fue desarrollado y desplegado.</th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <th>2 semanas </th>
+  </tr>
+  <tr>
+    <th>Sum of Story Point</th>
+    <th>5</th>
+  </tr>
+</table>
+
+
 <h1>CONCLUSIONES</h1>
 <p>Desde el diseño y lanzamiento de nuestro atractivo landing page, hasta la meticulosa planificación de los user flows, wireframes y mockups de la aplicación web, hemos establecido una sólida base para ofrecer una experiencia inigualable tanto para artesanos como para clientes.
 Nuestra atención se ha centrado en la creación de un entorno que celebre la artesanía y fomente la conexión entre creadores y consumidores. La capacidad de personalización de productos y la comunicación directa entre artesanos y clientes dentro de la plataforma son aspectos clave que diferencian a Artisania de otros marketplaces convencionales.</p>
