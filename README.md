@@ -1539,7 +1539,6 @@ Anderson Walter Macedo Calsina - u20201c179
     <th>Como usuario interesado en explorar los productos disponibles,
       Quiero poder ver el catálogo de productos en el sitio web o aplicación,
       Para buscar y explorar los productos disponibles, ver sus detalles y tomar decisiones de compra informadas.
-      
       </th>
     <th>2 hours</th>
     <th>Franz</th>
@@ -1565,7 +1564,6 @@ Anderson Walter Macedo Calsina - u20201c179
     <th>Como usuario registrado en el sitio web o aplicación,
       Quiero acceder al apartado donde puedo cambiar mi información de perfil,
       Para poder actualizar y modificar mis datos personales, preferencias y configuraciones de cuenta según sea necesario.
-      
       </th>
     <th>1 hours</th>
     <th>Anderson</th>
