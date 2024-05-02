@@ -1895,9 +1895,9 @@ Anderson Walter Macedo Calsina - u20201c179
 </p>
 
 <h3>5.2.2.5 Software Deployment Evidence for Sprint Review</h3>
-<p>El deployment de nuestro landing se ha desarrollado en Github.</p>
-<img src="./imagenes/Repositorio.png" width="400" height="500">
-<img src="./imagenes/Contenido.png" width="400" height="500">
+<p>El deployment de nuestro Front-end se ha desarrollado en Github.</p>
+<img src="./imagenes/Repositorio.png" width="600" height="200">
+<img src="./imagenes/Contenido.png" width="500" height="500">
 
 <h3>5.2.2.6 Services Documentation Evidence for Sprint Review</h3>
 
