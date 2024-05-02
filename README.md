@@ -1173,7 +1173,7 @@ Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y
 
 <h2>4.8 Database Design</h2>
 <h3>4.8.1 Database Diagram</h3>
-<img src="./imagenes/DiagramaBDArtisania.png">
+<img src="./imagenes/diagramaBD2.png">
 
 
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
