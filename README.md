@@ -172,6 +172,79 @@
         <td>Alessandro Joaquin Bernardo Eusebio</td>
         <td>Creacion del landing page</td>
     </tr>
+  <tr>
+        <td>3.0</td>
+        <td>17/04/2024</td>
+        <td>Alessandro Joaquin Bernardo Eusebio</td>
+        <td>Creacion del login</td>
+    </tr>
+  <tr>
+        <td>3.1</td>
+        <td>18/04/2024</td>
+        <td>Santos Alexis Patazca Calderón</td>
+        <td>Creacion del registro de usuarios</td>
+    </tr>
+  <tr>
+        <td>3.2</td>
+        <td>10/04/2024</td>
+        <td>Anderson Walter Macedo Calsina</td>
+        <td>Creacion de la sección de actualización de contraseña/td>
+    </tr>
+  <tr>
+        <td>3.3</td>
+        <td>10/04/2024</td>
+        <td>Nicolas Andres Cortes Hidalgo</td>
+        <td>Creacion del Catálogo</td>
+    </tr>
+  <tr>
+        <td>3.4</td>
+        <td>10/04/2024</td>
+        <td>Franz Jair La Torre Valle</td>
+        <td>Creacion del landing page</td>
+    </tr>
+  <tr>
+        <td>3.5</td>
+        <td>10/04/2024</td>
+        <td>Alessandro Joaquin Bernardo Eusebio</td>
+        <td>Creacion de la informacion del perfil/td>
+    </tr>
+  <tr>
+        <td>3.6</td>
+        <td>10/04/2024</td>
+        <td>Santos Alexis Patazca Calderón</td>
+        <td>Creacion de la edición del perfil</td>
+    </tr>
+  <tr>
+        <td>3.7</td>
+        <td>10/04/2024</td>
+        <td>Anderson Walter Macedo Calsina</td>
+        <td>Creacion del detalle del producto</td>
+    </tr>
+  <tr>
+        <td>3.8</td>
+        <td>10/04/2024</td>
+        <td>Nicolas Andres Cortes Hidalgo</td>
+        <td>Creacion de la publicacion del producto</td>
+    </tr>
+    <tr>
+        <td>3.9</td>
+        <td>10/04/2024</td>
+        <td>Franz Jair La Torre Valle</td>
+        <td>Creacion de la sección de compra</td>
+    </tr>
+    <tr>
+        <td>3.11</td>
+        <td>10/04/2024</td>
+        <td>Alessandro Joaquin Bernardo Eusebio</td>
+        <td>Creacion de la vista de parametros de personalizacion</td>
+    </tr>
+    <tr>
+        <td>3.12</td>
+        <td>10/04/2024</td>
+        <td>Santos Alexis Patazca Calderón</td>
+        <td>Creacion del acuerdo de adquisición</td>
+    </tr>
+  
 </table>
 
 <h1>STUDENT OUTCOME</h1>
