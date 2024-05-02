@@ -1895,9 +1895,10 @@ Anderson Walter Macedo Calsina - u20201c179
 </p>
 
 <h3>5.2.2.5 Software Deployment Evidence for Sprint Review</h3>
-<p>El deployment de nuestro Front-end se ha desarrollado en Github.</p>
-<img src="./imagenes/Repositorio.png" width="600" height="200">
-<img src="./imagenes/Contenido.png" width="500" height="500">
+<p>El deployment de nuestro Front-end se ha desarrollado en Firebase</p>
+<img src="./imagenes/deployFirebase.png" >
+<img src="./imagenes/deployFirebase2.png" >
+<p>Enlace al proyecto desplegado: https://grupo-1-artisania-deployment.web.app </p>
 
 <h3>5.2.2.6 Services Documentation Evidence for Sprint Review</h3>
 
