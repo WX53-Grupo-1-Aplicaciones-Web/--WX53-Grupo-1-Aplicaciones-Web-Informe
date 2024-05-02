@@ -1730,7 +1730,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>ab157b7</td>
         <td>docs: initial project setup</td>
-        <td>1</td>
+        <td>Creación del proyecto y de repositorio</td>
         <td>22/04/2024</td>
     </tr>
     <tr>
@@ -1738,7 +1738,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>cd2df8a</td>
         <td>chore: Organizar estructura del proyecto</td>
-        <td>2</td>
+        <td>Estructurar el proyecto para organizar mejor las pantallas</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
@@ -1746,7 +1746,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>a787622</td>
         <td>feat: Agregar barra de herramientas al proyecto</td>
-        <td>3</td>
+        <td>Creación de componente Toolbar general</td>
         <td>24/04/2024</td>
     </tr>
         <tr>
@@ -1754,7 +1754,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>a26559b</td>
         <td>feat: Agregar barra de busqueda</td>
-        <td>4</td>
+        <td>Creación de componente de barra de búsqueda</td>
         <td>24/04/2024</td>
     </tr>
         <tr>
@@ -1762,7 +1762,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>fc14a88</td>
         <td>feat: Agregar productos al catalogo de vista falsa (sin API)</td>
-        <td>5</td>
+        <td>Creación de componente de catálogo de productos</td>
         <td>25/04/2024</td>
     </tr>
         <tr>
@@ -1770,7 +1770,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>fadb202</td>
         <td>feat: Agregar v1 Detalle del producto (Sin API)</td>
-        <td>6</td>
+        <td>Creación de componente de detalle de producto</td>
         <td>25/04/2024</td>
     </tr>
         <tr>
@@ -1778,7 +1778,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>e70a368</td>
         <td>Create the-footer.component.vue</td>
-        <td>7</td>
+        <td>Creación de componente Footer general</td>
         <td>25/04/2024</td>
     </tr>
         <tr>
@@ -1786,7 +1786,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>c9e2f6d</td>
         <td>Create reset-password.component.vue</td>
-        <td>8</td>
+        <td>Creación de componente para cambiar contraseña si se requiere</td>
         <td>25/04/2024</td>
     </tr>
       </tr>
@@ -1795,7 +1795,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>122d6da</td>
         <td>Create the-login.component.vue</td>
-        <td>9</td>
+        <td>Creación de componente para iniciar sesión</td>
         <td>25/04/2024</td>
     </tr>
       </tr>
@@ -1804,7 +1804,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>e80ef0b</td>
         <td>Create the-register.component.vue</td>
-        <td>10</td>
+        <td>Creación de componente de registro de usuarios</td>
         <td>25/04/2024</td>
     </tr>
       </tr>
@@ -1813,7 +1813,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>c8b0adf</td>
         <td>Create parameters.component.vue</td>
-        <td>11</td>
+        <td>Creación de componente de parámetros para los productos de la web</td>
         <td>26/04/2024</td>
     </tr>
           </tr>
@@ -1822,7 +1822,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>80665e7</td>
         <td>feat: Estructurar fakeAPI</td>
-        <td>12</td>
+        <td>Creación de FakeAPI en db.json para artesano y cliente</td>
         <td>27/04/2024</td>
     </tr>
           </tr>
@@ -1830,8 +1830,8 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
         <td>main</td>
         <td>8cfddbd</td>
-        <td>feat: Agregar seccion de compra de prodctos</td>
-        <td>13</td>
+        <td>feat: Agregar seccion de compra de productos</td>
+        <td>Creación de componente compra de productos para el flujo de la web</td>
         <td>29/04/2024</td>
     </tr>
           </tr>
@@ -1840,7 +1840,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>344750b</td>
         <td>feat: actualizacion db.json</td>
-        <td>14</td>
+        <td>Actualización de archivo db.json para agregar la validación de usuarios registrados</td>
         <td>29/04/2024</td>
     </tr>
            </tr>
@@ -1849,7 +1849,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>fb6d93c</td>
         <td>feat: Agregar información de perfil</td>
-        <td>15</td>
+        <td>Creación de componente para la información de usuarios en su perfil</td>
         <td>30/04/2024</td>
     </tr>
            </tr>
@@ -1858,7 +1858,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>c8bf507</td>
         <td>feat: Agregar edición de perfil</td>
-        <td>16</td>
+        <td>Creación de componente para editar la información de los usuarios</td>
         <td>30/04/2024</td>
     </tr>
            </tr>
@@ -1867,7 +1867,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>15b2600</td>
         <td>feat: Actualización de rutas</td>
-        <td>17</td>
+        <td>Actualizar rutas para un correcto flujo de la web y mejor identificación</td>
         <td>30/04/2024</td>
     </tr>
            </tr>
@@ -1876,7 +1876,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>ed1aed4</td>
         <td>Uso de API para product catalog y product detail</td>
-        <td>18</td>
+        <td>Utilizar el API para almacenar los productos y brindar la descripción de estos mismos</td>
         <td>01/05/2024</td>
     </tr>
           <tr>
@@ -1884,7 +1884,7 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>main</td>
         <td>930c967</td>
         <td>feat: flujo de publicacion de producto</td>
-        <td>19</td>
+        <td>Desarrollar el flujo de la publicación de un producto desde sus detalles, precio y categorización</td>
         <td>02/05/2024</td>
     </tr>
 </table>
