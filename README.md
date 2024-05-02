@@ -1901,6 +1901,8 @@ Anderson Walter Macedo Calsina - u20201c179
 <h3>5.2.2.5 Software Deployment Evidence for Sprint Review</h3>
 <p>El proyecto se trabajo en un repositorio dentro de nuestra organización</p>
 <img src="./imagenes/repoFront.png" >
+<p>Enlace al repositorio del proyecto: https://github.com/WX53-Grupo-1-Aplicaciones-Web/WX53-Grupo-1-Aplicaciones-Web-FrontEnd</p>
+
 <p>El deployment de nuestro Front-end se ha desarrollado en Firebase</p>
 <img src="./imagenes/deployFirebase.png" >
 <img src="./imagenes/deployFirebase2.png" >
