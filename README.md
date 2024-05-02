@@ -1905,9 +1905,9 @@ Anderson Walter Macedo Calsina - u20201c179
   Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para Artisania. Empezamos con la creación de la plataforma principal en Vue. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin de optimizar el tiempo y los recursos. Debido a esto, la participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo:
 </p>
 
-<img src="./imagenes/Contributors1.png" width="600" height="300">
-<img src="./imagenes/Contributors2.png" width="600" height="300">
-<img src="./imagenes/Insights.png" width="600" height="300">
+<img src="./imagenes/Contributors1.png" width="600" height="350">
+<img src="./imagenes/Contributors2.png" width="600" height="350">
+<img src="./imagenes/Insights.png" width="600" height="150">
 <img src="./imagenes/Traffic.png" width="600" height="300">
 
 <h1>CONCLUSIONES</h1>
