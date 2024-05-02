@@ -1656,3 +1656,15 @@ Nuestra atención se ha centrado en la creación de un entorno que celebre la ar
 <p><strong>Fecha: </strong> 25/03/2024 </p>
 <p><strong>Plataforma: </strong> Meet </p>
 <img src="./imagenes/reunion.png" width="600" height="300">
+
+<h3>5.2.2.3 Development Evidence for Sprint Review</h3>
+
+<h3>5.2.2.4 Testing Suite Evidence for Sprint Review</h3>
+
+<h3>5.2.2.5 Software Deployment Evidence for Sprint Review</h3>
+
+<h3>5.2.2.6 Services Documentation Evidence for Sprint Review</h3>
+
+<h3>5.2.2.7 Execution Evidence for Sprint Review</h3>
+
+<h3>5.2.2.8 Team Collaboration Insights during Sprint</h3>
