@@ -1901,7 +1901,14 @@ Anderson Walter Macedo Calsina - u20201c179
 <h3>5.2.2.7 Execution Evidence for Sprint Review</h3>
 
 <h3>5.2.2.8 Team Collaboration Insights during Sprint</h3>
+<p align="justify">
+  Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para Artisania. Empezamos con la creación de la plataforma principal en Vue. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin de optimizar el tiempo y los recursos. Debido a esto, la participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo:
+</p>
 
+<img src="./imagenes/Contributors1.png" width="600" height="300">
+<img src="./imagenes/Contributors2.png" width="600" height="300">
+<img src="./imagenes/Insights.png" width="600" height="300">
+<img src="./imagenes/Traffic.png" width="600" height="300">
 
 <h1>CONCLUSIONES</h1>
 <p>Desde el diseño y lanzamiento de nuestro atractivo landing page, hasta la meticulosa planificación de los user flows, wireframes y mockups de la aplicación web, hemos establecido una sólida base para ofrecer una experiencia inigualable tanto para artesanos como para clientes.
