@@ -1901,8 +1901,20 @@ Anderson Walter Macedo Calsina - u20201c179
 <p>Enlace al proyecto desplegado: https://grupo-1-artisania-deployment.web.app </p>
 
 <h3>5.2.2.6 Services Documentation Evidence for Sprint Review</h3>
+Debido a que estamos en la etapa de desarrollo del frontend de la aplicación web. No se está aplicando el servicio de Apis para la demostración de los datos, en su lugar se esta haciendo uso de una fake API.
 
 <h3>5.2.2.7 Execution Evidence for Sprint Review</h3>
+<img src="./imagenes/1.png">
+<img src="./imagenes/2.png">
+<img src="./imagenes/3.png">
+<img src="./imagenes/4.png">
+<img src="./imagenes/5.png">
+<img src="./imagenes/6.png">
+<img src="./imagenes/7.png">
+<img src="./imagenes/8.png">
+<img src="./imagenes/9.png">
+<img src="./imagenes/10.png">
+<img src="./imagenes/11.png">
 
 <h3>5.2.2.8 Team Collaboration Insights during Sprint</h3>
 <p align="justify">
