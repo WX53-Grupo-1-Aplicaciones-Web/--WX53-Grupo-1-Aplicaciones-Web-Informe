@@ -1714,6 +1714,193 @@ Anderson Walter Macedo Calsina - u20201c179
 
 </table>
 
+<h3>5.2.2.3 Development Evidence for Sprint Review</h3>
+<h4>Tabla de resumen de commits</h4>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>ab157b7</td>
+        <td>docs: initial project setup</td>
+        <td>1</td>
+        <td>22/04/2024</td>
+    </tr>
+    <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>cd2df8a</td>
+        <td>chore: Organizar estructura del proyecto</td>
+        <td>2</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>a787622</td>
+        <td>feat: Agregar barra de herramientas al proyecto</td>
+        <td>3</td>
+        <td>24/04/2024</td>
+    </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>a26559b</td>
+        <td>feat: Agregar barra de busqueda</td>
+        <td>4</td>
+        <td>24/04/2024</td>
+    </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>fc14a88</td>
+        <td>feat: Agregar productos al catalogo de vista falsa (sin API)</td>
+        <td>5</td>
+        <td>25/04/2024</td>
+    </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>fadb202</td>
+        <td>feat: Agregar v1 Detalle del producto (Sin API)</td>
+        <td>6</td>
+        <td>25/04/2024</td>
+    </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>e70a368</td>
+        <td>Create the-footer.component.vue</td>
+        <td>7</td>
+        <td>25/04/2024</td>
+    </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>c9e2f6d</td>
+        <td>Create reset-password.component.vue</td>
+        <td>8</td>
+        <td>25/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>122d6da</td>
+        <td>Create the-login.component.vue</td>
+        <td>9</td>
+        <td>25/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>e80ef0b</td>
+        <td>Create the-register.component.vue</td>
+        <td>10</td>
+        <td>25/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>c8b0adf</td>
+        <td>Create parameters.component.vue</td>
+        <td>11</td>
+        <td>26/04/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>80665e7</td>
+        <td>feat: Estructurar fakeAPI</td>
+        <td>12</td>
+        <td>27/04/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>8cfddbd</td>
+        <td>feat: Agregar seccion de compra de prodctos</td>
+        <td>13</td>
+        <td>29/04/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>344750b</td>
+        <td>feat: actualizacion db.json</td>
+        <td>14</td>
+        <td>29/04/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>fb6d93c</td>
+        <td>feat: Agregar información de perfil</td>
+        <td>15</td>
+        <td>30/04/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>c8bf507</td>
+        <td>feat: Agregar edición de perfil</td>
+        <td>16</td>
+        <td>30/04/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>15b2600</td>
+        <td>feat: Actualización de rutas</td>
+        <td>17</td>
+        <td>30/04/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>ed1aed4</td>
+        <td>Uso de API para product catalog y product detail</td>
+        <td>18</td>
+        <td>01/05/2024</td>
+    </tr>
+          <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+        <td>930c967</td>
+        <td>feat: flujo de publicacion de producto</td>
+        <td>19</td>
+        <td>02/05/2024</td>
+    </tr>
+</table>
+
+<h3>5.2.2.4 Testing Suite Evidence for Sprint Review</h3>
+<p align="justify">
+  Dado que estamos en la fase de diseño del prototipo de la aplicación web, aún no es posible llevar a cabo pruebas exhaustivas. Sin embargo, estamos evaluando diversas herramientas y metodologías para garantizar que, una vez implementada, nuestra aplicación web sea robusta y libre de errores.
+</p>
+
+<h3>5.2.2.5 Software Deployment Evidence for Sprint Review</h3>
+
+<h3>5.2.2.6 Services Documentation Evidence for Sprint Review</h3>
+
+<h3>5.2.2.7 Execution Evidence for Sprint Review</h3>
+
+<h3>5.2.2.8 Team Collaboration Insights during Sprint</h3>
 
 
 <h1>CONCLUSIONES</h1>
@@ -1734,15 +1921,3 @@ Nuestra atención se ha centrado en la creación de un entorno que celebre la ar
 <p><strong>Fecha: </strong> 25/03/2024 </p>
 <p><strong>Plataforma: </strong> Meet </p>
 <img src="./imagenes/reunion.png" width="600" height="300">
-
-<h3>5.2.2.3 Development Evidence for Sprint Review</h3>
-
-<h3>5.2.2.4 Testing Suite Evidence for Sprint Review</h3>
-
-<h3>5.2.2.5 Software Deployment Evidence for Sprint Review</h3>
-
-<h3>5.2.2.6 Services Documentation Evidence for Sprint Review</h3>
-
-<h3>5.2.2.7 Execution Evidence for Sprint Review</h3>
-
-<h3>5.2.2.8 Team Collaboration Insights during Sprint</h3>
