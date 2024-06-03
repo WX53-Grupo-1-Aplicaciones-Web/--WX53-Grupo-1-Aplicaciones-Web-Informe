@@ -244,6 +244,54 @@
         <td>Santos Alexis Patazca Calderón</td>
         <td>Creacion del acuerdo de adquisición</td>
     </tr>
+     <tr>
+        <td>4.1</td>
+        <td>27/04/2024</td>
+        <td>Alessandro Joaquin Bernardo Eusebio/td>
+        <td>Creacion del repositorio del backend</td>
+    </tr>
+    <tr>
+        <td>4.2</td>
+        <td>28/04/2024</td>
+        <td>Nicolas Andres Cortes Hidalgo</td>
+        <td>Configuracion del proyecto para MySql</td>
+    </tr>
+    <tr>
+        <td>4.3</td>
+        <td>28/04/2024</td>
+        <td>Franz Jair La Torre Valle</td>
+        <td>Creacion de la entidad Customer</td>
+    </tr>
+    <tr>
+        <td>4.4</td>
+        <td>29/04/2024</td>
+        <td>Anderson Walter Macedo Calsina</td>
+        <td>Creacion de la entidad Craftman</td>
+    </tr>
+    <tr>
+        <td>4.5</td>
+        <td>29/04/2024</td>
+        <td>Santos Alexis Patazca Calderón</td>
+        <td>Creacion de la entidad Customization</td>
+    </tr>
+    <tr>
+        <td>4.6</td>
+        <td>30/04/2024</td>
+        <td>Alessandro Joaquin Bernardo Eusebio</td>
+        <td>Creacion de la entidad Order</td>
+    </tr>
+    <tr>
+        <td>4.7</td>
+        <td>30/04/2024</td>
+        <td>Nicolas Andres Cortes Hidalgo</td>
+        <td>Creacion de la entidad Product</td>
+    </tr>
+    <tr>
+        <td>4.8</td>
+        <td>31/04/2024</td>
+        <td>Franz Jair La Torre Valle</td>
+        <td>Creacion de las pruebas unitarias de la capa Domain</td>
+    </tr>
   
 </table>
 
