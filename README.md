@@ -1,4 +1,4 @@
-<img src="./imagenes/caratulaTP.jpg">
+<img src="./imagenes/caratulaTB2.png">
 
 # **Tabla de Contenido**
 
