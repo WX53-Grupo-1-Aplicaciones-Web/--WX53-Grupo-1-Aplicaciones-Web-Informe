@@ -2281,7 +2281,95 @@ Anderson Walter Macedo Calsina - u20201c179
 
 <h3>5.3. Validation Interviews</h3>
 <h3>5.3.1. Evaluaciones según heurísticas.</h3>
+<h3>UX Heuristics &amp; Principles Evaluation</h3> 
+<p>Usability – Inclusive Design – Information Architecture</p> 
+<p>CARRERA : Ingeniería de Software
+  <br> CURSO : Aplicaciones Web<br> 
+  SECCIÓN : WX53
+  <br> PROFESORES : Todos
+  <br> AUDITOR : Artisania
+  <br> CLIENTE(S) : ArtCollab
+</p> <h3>TAREAS A EVALUAR:</h3> 
+<p>El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+  
+</p>
+<ol> 
+   <li>1.-El usuario inicia sesion, se registra y recupera su contraseña</li>
+   <li>2.-El usuario publica una nueva historia y agrega series a la historia</li> 
+   <li>3.-El usuario edita el contenido de una historia, como el contenido y las series.</li> 
+   <li>4.-El usuario busca artistas, contacta con ellos e inicia una sala de chats</li> 
+   <li>5.-El usuario del tipo ilustrador edita su perfil</li> 
+   <li>6.-El usuario del tipo escritor edita su perfil</li> 
+   <li>7.-El usuario busca un libro segun su popularidad y género</li> 
+   <li>8.-El usuario edita el perfil de cuenta</li> 
+   <li>9.-El usuario visualiza las comisiones obtenidas por cada historia</li> 
+   <li>10.-El usuario visualiza los planes de suscripción</li> 
+   <li>11.-Elusuario visualiza el sistema de monetización</li> 
 
+  </ol> 
+  <h3>ESCALA DE SEVERIDAD:</h3> 
+  <p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p> 
+  <table> 
+    <thead> 
+      <tr> 
+        <th>Nivel</th> 
+        <th>Descripción</th> 
+      </tr> 
+    </thead> 
+    <tbody> 
+      <tr> 
+        <td>1</td> 
+        <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td> 
+      </tr> 
+      <tr> 
+        <td>2</td> 
+        <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td> 
+      </tr> 
+      <tr> 
+        <td>3</td> 
+        <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td> </tr> 
+        <tr> 
+          <td>4</td> 
+          <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td> 
+        </tr> 
+      </tbody> 
+    </table> 
+    <h3>RESUMEN DE PROBLEMAS</h3> 
+    <table> 
+      <thead> 
+        <tr> 
+          <th># Problema</th> 
+          <th>Descripción del problema</th>
+           <th>Escala de severidad</th> 
+           <th>Heurística/Principio violada(o)</th> 
+        </tr> </thead> 
+        <tbody> 
+          <tr> 
+            <td>1</td> 
+            <td>El usuario no recibe retroalimentación clara sobre el estado de su sesión, registro o recuperación de contraseña.</td> 
+            <td>3</td> 
+            <td>Visibilidad del estado del sistema</td> 
+          </tr> 
+          <tr> 
+            <td>2</td> 
+            <td>La interfaz para publicar una nueva historia y agregar series no es consistente con el resto de la aplicación.</td> 
+            <td>2</td> 
+            <td>Consistencia y estándares</td> 
+          </tr> 
+        </tbody> 
+      </table>
+        <h3>DESCRIPCIÓN DE PROBLEMAS</h3> 
+        <ol> 
+          <li> 
+            <p><strong>Problema</strong>: El usuario no recibe retroalimentación clara sobre el estado de su sesión, registro o recuperación de contraseña.<br> 
+              <strong>Escala de severidad</strong>: 3 - Problema mayor<br> 
+              <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+              <strong>Descripción</strong>: El sistema debe mantener a los usuarios informados sobre lo que está sucediendo, a través de retroalimentación apropiada dentro de un tiempo razonable.</p> 
+            </li> 
+            <li> <p><strong>Problema</strong>: La interfaz para publicar una nueva historia y agregar series no es consistente con el resto de la aplicación.<br> 
+              <strong>Escala de severidad</strong>: 2 - Problema menor<br> <strong>Principio violado</strong>: Consistencia y estándares<br> <strong>Descripción</strong>: Los usuarios no deberían tener que adivinar si diferentes palabras, situaciones o acciones significan lo mismo. Seguir las convenciones de la plataforma.</p> 
+            </li> 
+          </ol>
 
 
 <h1>CONCLUSIONES</h1>
