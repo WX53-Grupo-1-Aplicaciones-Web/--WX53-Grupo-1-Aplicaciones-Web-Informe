@@ -2294,17 +2294,17 @@ Anderson Walter Macedo Calsina - u20201c179
   
 </p>
 <ol> 
-   <li>1.-El usuario inicia sesion, se registra y recupera su contraseña</li>
-   <li>2.-El usuario publica una nueva historia y agrega series a la historia</li> 
-   <li>3.-El usuario edita el contenido de una historia, como el contenido y las series.</li> 
-   <li>4.-El usuario busca artistas, contacta con ellos e inicia una sala de chats</li> 
-   <li>5.-El usuario del tipo ilustrador edita su perfil</li> 
-   <li>6.-El usuario del tipo escritor edita su perfil</li> 
-   <li>7.-El usuario busca un libro segun su popularidad y género</li> 
-   <li>8.-El usuario edita el perfil de cuenta</li> 
-   <li>9.-El usuario visualiza las comisiones obtenidas por cada historia</li> 
-   <li>10.-El usuario visualiza los planes de suscripción</li> 
-   <li>11.-Elusuario visualiza el sistema de monetización</li> 
+   <li>El usuario inicia sesion, se registra y recupera su contraseña</li>
+   <li>El usuario publica una nueva historia y agrega series a la historia</li> 
+   <li>El usuario edita el contenido de una historia, como el contenido y las series.</li> 
+   <li>El usuario busca artistas, contacta con ellos e inicia una sala de chats</li> 
+   <li>El usuario del tipo ilustrador edita su perfil</li> 
+   <li>El usuario del tipo escritor edita su perfil</li> 
+   <li>El usuario busca un libro segun su popularidad y género</li> 
+   <li>El usuario edita el perfil de cuenta</li> 
+   <li>El usuario visualiza las comisiones obtenidas por cada historia</li> 
+   <li>El usuario visualiza los planes de suscripción</li> 
+   <li>Elusuario visualiza el sistema de monetización</li> 
 
   </ol> 
   <h3>ESCALA DE SEVERIDAD:</h3> 
