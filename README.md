@@ -2050,7 +2050,7 @@ Anderson Walter Macedo Calsina - u20201c179
     <th>5</th>
   </tr>
 </table>
-<h3>5.2.3.2 Sprint Backlog 2</h3>
+<h3>5.2.3.2 Sprint Backlog 3</h3>
 <table>
    <tr>
     <th>Sprint #</th>
