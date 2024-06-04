@@ -2346,29 +2346,33 @@ Anderson Walter Macedo Calsina - u20201c179
         <tbody> 
           <tr> 
             <td>1</td> 
-            <td>El usuario no recibe retroalimentación clara sobre el estado de su sesión, registro o recuperación de contraseña.</td> 
-            <td>3</td> 
-            <td>Visibilidad del estado del sistema</td> 
+            <td>Al entrar al perfil del usuario logeado, no se puede observar un boton de editar perfil pese a estar documentado en los user flows.</td> 
+            <td>4</td> 
+            <td>Visibility of system status: Se viola esta heurística al no brindar información esperada por el usuario, ni siquiera existe un proceso de logeo ya que directamente el proyecto inicia con el perfil de "flor_salvador_01"</td> 
           </tr> 
           <tr> 
             <td>2</td> 
-            <td>La interfaz para publicar una nueva historia y agregar series no es consistente con el resto de la aplicación.</td> 
-            <td>2</td> 
-            <td>Consistencia y estándares</td> 
+            <td>No es deducible la forma de cerrar sesion en la plataforma</td> 
+            <td>4</td> 
+            <td>Visibility of system status: Se viola esta heuristica debido a que al no poder cambiar de perfil de forma convencional, no podemos edifat la informacion del usuario de este tipo</td> 
           </tr> 
         </tbody> 
       </table>
         <h3>DESCRIPCIÓN DE PROBLEMAS</h3> 
         <ol> 
           <li> 
-            <p><strong>Problema</strong>: El usuario no recibe retroalimentación clara sobre el estado de su sesión, registro o recuperación de contraseña.<br> 
-              <strong>Escala de severidad</strong>: 3 - Problema mayor<br> 
+            <p><strong>Problema</strong>: La vista del perfil no tiene implementado un boton de edicion de perfil<br> 
+              <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
               <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
-              <strong>Descripción</strong>: El sistema debe mantener a los usuarios informados sobre lo que está sucediendo, a través de retroalimentación apropiada dentro de un tiempo razonable.</p> 
+              <strong>Descripción</strong>: A la falta de este elemento, o almenos a su escasa visibilidad, no podemos completar el flujo de edicion de perfil</p> 
             </li> 
-            <li> <p><strong>Problema</strong>: La interfaz para publicar una nueva historia y agregar series no es consistente con el resto de la aplicación.<br> 
-              <strong>Escala de severidad</strong>: 2 - Problema menor<br> <strong>Principio violado</strong>: Consistencia y estándares<br> <strong>Descripción</strong>: Los usuarios no deberían tener que adivinar si diferentes palabras, situaciones o acciones significan lo mismo. Seguir las convenciones de la plataforma.</p> 
-            </li> 
+            <li> 
+              <p><strong>Problema</strong>: El usuario no puede cerrar sesión de forma convencional, por lo que no se puede completar el user flow de cambio de edicion de perfil<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: El sistema debe mantener a los usuarios informados sobre lo que está sucediendo, a través de retroalimentación apropiada dentro de un tiempo razonable.</p> 
+                <img src="./imagenes/heuflow5.png" width="600" height="300">
+              </li>
           </ol>
 
 
