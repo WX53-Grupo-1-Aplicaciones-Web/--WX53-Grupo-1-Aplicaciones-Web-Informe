@@ -2245,6 +2245,21 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>4/05/2024</td>
     </tr>
 </table>
+<h3>5.2.2.4 Testing Suite Evidence for Sprint Review</h3>
+<p align="justify">
+A continuacion se muestra las pruebas unitarias a las validaciones del dominio de la entidad Customer:
+
+<p>Prueba unitaria que valida que se muestre una excepción si se intenta registrar un customer con un email ya usado</p>
+<img src="./imagenes/Ctest1.png" width="600" height="300">
+<p>Prueba que retorna verdadero si se registra un customer con un email nuev</p>
+<img src="./imagenes/Ctest2.png" width="600" height="300">
+<p>Prueba que retorna un Assert Equal del mensaje de excepcion por registrar un customer con un email con un formato incorrecto</p>
+<img src="./imagenes/Ctest3.png" width="600" height="300">
+<p>Prueba que retorna un Assert Equal del mensaje de excepcion por registrar un customer con un telefono con un formato incorrecto</p>
+<img src="./imagenes/Ctest4.png" width="600" height="300">
+<p>Depuracion de las pruebas</p>
+<img src="./imagenes/Ctest5.png" width="600" height="300">
+
 
 <h1>CONCLUSIONES</h1>
 <p>TB1: Desde el diseño y lanzamiento de nuestro atractivo landing page, hasta la meticulosa planificación de los user flows, wireframes y mockups de la aplicación web, hemos establecido una sólida base para ofrecer una experiencia inigualable tanto para artesanos como para clientes.
