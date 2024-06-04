@@ -1987,6 +1987,264 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <img src="./imagenes/Contributors2.png" width="600" height="350">
 <img src="./imagenes/Insights.png" width="600" height="150">
 <img src="./imagenes/Traffic.png" width="600" height="300">
+<h3>5.2.3 Sprint 3</h3>
+<p>En el segundo sprint se desarrolló el BackEnd basado en nuestras entidades para nuestra aplicacion web.</p>
+<h3>5.2.3.1 Sprint planning 3</h3>
+
+<table>
+  <tr>
+    <th>Sprint # </th>
+    <th>Sprint 3 </th>
+  </tr>
+  <tr>
+    <td><strong>Sprint Planning Background</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <th>2024/05/22</th>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>20:00 PM</th>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <th>Meet</th>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <th>Alessandro Bernardo </th>
+  </tr>
+  <tr>
+    <th>Attendess (to planning meeting)</th>
+    <th>Alessandro Joaquin Bernardo Eusebio - u202113640
+Santos Alexis Patazca Calderón - U20201c269
+Nicolas Andres Cortes Hidalgo - u202016311
+Franz Jair La Torre Valle - u202012378
+Anderson Walter Macedo Calsina - u20201c179
+ </th>
+  </tr>
+  <tr>
+    <th>Sprint 2 Review Summary</th>
+    <th>Correcciones y término del desarrollo de las tareas que corresponden al Sprint 2 </th>
+  </tr>
+  <tr>
+    <th>Sprint 2 Retrospective Summary</th>
+    <th>Ciertas faltas de organización en el equipo</th>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Sprint 3 Goal</th>
+    <th>Se creó el repositorio del Backend y se llego a implementar las solicitudes http para nuestras entidades </th>
+  </tr>
+  <tr>
+    <th>Sprint 3 Velocity</th>
+    <th>2 semanas </th>
+  </tr>
+  <tr>
+    <th>Sum of Story Point</th>
+    <th>5</th>
+  </tr>
+</table>
+<h3>5.2.2.2 Sprint Backlog 2</h3>
+<table>
+   <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+   <tr>
+    <th>User Story</th>
+    <th></th>
+    <th>Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title </th>
+    <th>Description</th>
+    <th>Estimation(Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / InProcess / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <th>US-01</th>
+    <th>Creacion de cuenta dentro de la plataforma</th>
+    <th>W-01</th>
+    <th>Registro de Clientes </th>
+    <th>Como un cliente nuevo que desea realizar compras en el sitio,
+      Quiero poder registrarme en la plataforma proporcionando mi información básica,
+      Para acceder a todas las funcionalidades, realizar compras y personalizar mi experiencia.</th>
+      <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-02</th>
+    <th>Postear productos dentro de la plataforma</th>
+    <th>W-02</th>
+    <th>Gestión de Productos</th>
+    <th>Como artesano que desea dar a conocer sus productos,
+      Quiero poder agregar, editar y eliminar productos en la plataforma,
+      Para mantener el catálogo de productos actualizado y relevante para mis clientes.</th>
+      <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-03</th>
+    <th>Gestion de la personalizacion de productos</th>
+    <th>W-03</th>
+    <th>Personalización de Productos</th>
+    <th>Como  cliente registrado,
+      Quiero poder personalizar los productos según mis preferencias antes de comprarlos,
+      Para: obtener productos únicos y adaptados a mis gustos y necesidades.</th>
+      <th>2 hours</th>
+    <th>Santos</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-04</th>
+    <th>Creacion de los artesanos dentro de la plataforma</th>
+    <th>W-04</th>
+    <th>Registro de artesanos</th>
+    <th>Como artesano interesado en vender mis productos,
+      Quiero poder registrarme en la plataforma y crear un perfil,
+      Para ofrecer mis productos personalizados y llegar a más clientes.
+    </th>
+    <th>2 hours</th>
+    <th>Franz</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-05</th>
+    <th>Gestion de los pedidos de los clientes</th>
+    <th>W-05</th>
+    <th>Informacion de perfil</th>
+    <th>Como cliente registrado,
+      Quiero poder realizar pedidos de productos y hacer seguimiento del estado de mis pedidos,
+      Para asegurarme de que mis compras se procesen y entreguen correctamente.</th>
+    <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-06</th>
+    <th>Realizacion de pruebas unitarias al dominio></th>
+    <th>W-06</th>
+    <th>Validación de Reglas de Negocio</th>
+    <th>Como desarrollador del backend,
+      Quiero validar las reglas de negocio en el dominio (como precios, inventarios y descuentos),
+      Para asegurar que todas las operaciones se realicen de acuerdo a las políticas establecidas y evitar errores.
+    </th>
+    <th>1 hours</th>
+    <th>Anderson</th>
+    <th>Done</th>
+  </tr>
+
+  <tr>
+    <th>US-07</th>
+    <th>Documentar nuestra API para su uso correcto</th>
+    <th>W-06</th>
+    <th>Documentación del API</th>
+    <th>Como desarrollador del frontend,
+      Quiero disponer de una documentación clara y completa del API del backend,
+      Para integrar el frontend con el backend de manera eficiente y sin errores.
+    </th>
+    <th>1 hours</th>
+    <th>Nicolas</th>
+    <th>Done</th>
+  </tr>
+</table>
+
+<h3>5.2.2.3 Development Evidence for Sprint Review</h3>
+<h4>Tabla de resumen de commits</h4>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+        <td>main</td>
+        <td>ab157b7</td>
+        <td>docs: initial project setup</td>
+        <td>Creación del proyecto y de repositorio</td>
+        <td>28/05/2024</td>
+    </tr>
+    <tr>
+      <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+      <td>main</td>
+        <td>cd2df8a</td>
+        <td>chore: Organizar estructura del proyecto</td>
+        <td>Estructurar los archivos del proyecto para trabajar con las capas de API, Domain y Data</td>
+        <td>28/05/2024</td>
+    </tr>
+    <tr>
+      <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+      <td>main</td>
+        <td>a787622</td>
+        <td>feat: Agregar la entidad Customer</td>
+        <td>Se agrego la entidad customer al proyecto, con sus respectivas solicitudes http y validaciones</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>feat/product</td>
+        <td>a26559b</td>
+        <td>feat: Agregar la entidad Product</td>
+        <td>Se agrego la entidad product al proyecto, con sus respectivas solicitudes http y validaciones</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>feat/Artisan</td>
+        <td>fc14a88</td>
+        <td>feat: Agregar la entidad Artisan</td>
+        <td>Se agrego la entidad artisan al proyecto, con sus respectivas solicitudes http y validaciones</td>
+        <td>30/05/2024</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>feat/Order</td>
+        <td>fadb202</td>
+        <td>feat: Agregar la entidad Order</td>
+        <td>Se agrego la entidad Order al proyecto, con sus respectivas solicitudes http y validaciones</td>
+        <td>30/05/2024</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>feat/Personalization</td>
+        <td>e70a368</td>
+        <td>feat: Agregar la entidad Personalization</td>
+        <td>Se agrego la entidad Personalization al proyecto, con sus respectivas solicitudes http y validaciones</td>
+        <td>31/05/2024</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>main</td>
+        <td>c9e2f6d</td>
+        <td>Test: Implementacion de los test al Dominio de nuestras entidades</td>
+        <td>Se creo el proyecto 2.Data.Test donde se colocaron las pruebas unitarias de nuestras validaciones y reglas de negoocio</td>
+        <td>31/05/2024</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>main</td>
+        <td>122d6da</td>
+        <td>docs: Documentacion del API</td>
+        <td>Se implementó la documentación del API </td>
+        <td>4/05/2024</td>
+    </tr>
+</table>
 
 <h1>CONCLUSIONES</h1>
 <p>TB1: Desde el diseño y lanzamiento de nuestro atractivo landing page, hasta la meticulosa planificación de los user flows, wireframes y mockups de la aplicación web, hemos establecido una sólida base para ofrecer una experiencia inigualable tanto para artesanos como para clientes.
