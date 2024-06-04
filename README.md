@@ -2050,7 +2050,7 @@ Anderson Walter Macedo Calsina - u20201c179
     <th>5</th>
   </tr>
 </table>
-<h3>5.2.3.2 Sprint Backlog 3</h3>
+<h3>5.2.2.2 Sprint Backlog 2</h3>
 <table>
    <tr>
     <th>Sprint #</th>
@@ -2245,20 +2245,43 @@ Anderson Walter Macedo Calsina - u20201c179
         <td>4/05/2024</td>
     </tr>
 </table>
-<h3>5.2.2.4 Testing Suite Evidence for Sprint Review</h3>
-<p align="justify">
-A continuacion se muestra las pruebas unitarias a las validaciones del dominio de la entidad Customer:
 
-<p>Prueba unitaria que valida que se muestre una excepción si se intenta registrar un customer con un email ya usado</p>
-<img src="./imagenes/Ctest1.png" width="600" height="300">
-<p>Prueba que retorna verdadero si se registra un customer con un email nuev</p>
-<img src="./imagenes/Ctest2.png" width="600" height="300">
-<p>Prueba que retorna un Assert Equal del mensaje de excepcion por registrar un customer con un email con un formato incorrecto</p>
-<img src="./imagenes/Ctest3.png" width="600" height="300">
-<p>Prueba que retorna un Assert Equal del mensaje de excepcion por registrar un customer con un telefono con un formato incorrecto</p>
-<img src="./imagenes/Ctest4.png" width="600" height="300">
-<p>Depuracion de las pruebas</p>
-<img src="./imagenes/Ctest5.png" width="600" height="300">
+<h3>5.2.3.4 Testing Suite Evidence for Sprint Review.</h3>
+<p align="justify">
+  A continuacion se muestra las pruebas unitarias a las validaciones del dominio de la entidad Customer:
+  
+  <p>Prueba unitaria que valida que se muestre una excepción si se intenta registrar un customer con un email ya usado</p>
+  <img src="./imagenes/Ctest1.png" width="600" height="300">
+  <p>Prueba que retorna verdadero si se registra un customer con un email nuev</p>
+  <img src="./imagenes/Ctest2.png" width="600" height="300">
+  <p>Prueba que retorna un Assert Equal del mensaje de excepcion por registrar un customer con un email con un formato incorrecto</p>
+  <img src="./imagenes/Ctest3.png" width="600" height="300">
+  <p>Prueba que retorna un Assert Equal del mensaje de excepcion por registrar un customer con un telefono con un formato incorrecto</p>
+  <img src="./imagenes/Ctest4.png" width="600" height="300">
+  <p>Depuracion de las pruebas</p>
+  <img src="./imagenes/Ctest5.png" width="600" height="300">
+<h3>5.2.3.5 Execution Evidence for Sprint Review</h3>
+
+<h3>5.2.3.6. Services Documentation Evidence for Sprint Review</h3>
+<p>Para este entregable se implementó para el backend las siguientes tablas:</p>
+<p>Se adjunta las capturas de las tablas dado que los enpoints de los servicios se encuentran en desarrollo. </p>
+
+<p>Artisans:</p>
+<img src="./imagenes/Csql1.png" width="600" height="300">
+<p>Customers:</p>
+<img src="./imagenes/Csql2.png" width="600" height="300">
+<p>Products:</p>
+<img src="./imagenes/Csql3.png" width="600" height="300">
+
+
+
+
+<h3>5.2.3.7. Software Deployment Evidence for Sprint Review</h3>
+<h3>5.2.3.8. Team Collaboration Insights during Sprint.</h3>
+
+<h3>5.3. Validation Interviews</h3>
+<h3>5.3.1. Evaluaciones según heurísticas.</h3>
+
 
 
 <h1>CONCLUSIONES</h1>
