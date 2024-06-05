@@ -2356,6 +2356,18 @@ Anderson Walter Macedo Calsina - u20201c179
             <td>4</td> 
             <td>Visibility of system status: Se viola esta heuristica debido a que al no poder cambiar de perfil de forma convencional, no podemos edifat la informacion del usuario de este tipo</td> 
           </tr> 
+          <tr> 
+            <td>3</td> 
+            <td>Cuando ingreso a la pagina se puede visualizar el botón para poder iniciar sesión y también dentro está el registrarme, pero no se puede observar el recuperar contraseña. </td> 
+            <td>4</td> 
+            <td>Visibility of system status: Debdo a que no se puede visualizar el “recuperar contraseña”, el sistema no está mostrando toda la información detallada para el usuario.</td> 
+          </tr> 
+          <tr> 
+            <td>4</td> 
+            <td>Existe el botón publish, y se puede escribir las historias y los detalles necesarios, pero no se puede visualizar lo guardado, ni se visualiza la publicación.</td> 
+            <td>4</td> 
+            <td>Visibility of system status: No se puede visualizar lo guardado ni la publicación, después del clic al botón “publish”, el sistema no esta retroalimentando el resultado del usuario.</td> 
+          </tr> 
         </tbody> 
       </table>
         <h3>DESCRIPCIÓN DE PROBLEMAS</h3> 
@@ -2372,6 +2384,18 @@ Anderson Walter Macedo Calsina - u20201c179
                 <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
                 <strong>Descripción</strong>: El sistema debe mantener a los usuarios informados sobre lo que está sucediendo, a través de retroalimentación apropiada dentro de un tiempo razonable.</p> 
                 <img src="./imagenes/heuflow5.png" width="600" height="300">
+              </li>
+          <li> 
+              <p><strong>Problema</strong>: La vista del login no cuenta con un boton de recuperar contraseña.<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: La falta de un botón de recuperar contraseña el usuario se encontraría en diversos desafíos para volver ingresar, esto generaría frustración al usuario. Además, aun no se puede cerrar sesión del anterior perfil.</p> 
+              </li>
+              <li> 
+              <p><strong>Problema</strong>: En la vista de "Mis Historias" no se puede visualizar lo que se ha guardado.<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: La falta de visibilidad de historia guardadas en la vista de “Mis Historias”, esto generaría muchos problemas para la experiencia del usuario. Cuando el autor quiera acceder a sus historias para editar no podrá visualizar lo que ha guardado.</p> 
               </li>
           </ol>
 
