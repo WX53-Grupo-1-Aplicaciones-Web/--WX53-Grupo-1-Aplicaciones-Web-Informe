@@ -2368,6 +2368,18 @@ Anderson Walter Macedo Calsina - u20201c179
             <td>4</td> 
             <td>Visibility of system status: No se puede visualizar lo guardado ni la publicación, después del clic al botón “publish”, el sistema no esta retroalimentando el resultado del usuario.</td> 
           </tr> 
+          <tr> 
+            <td>5</td> 
+            <td>Problemas en la edición del contenido de una historia, no se guardan los cambios que se realizan</td> 
+            <td>4</td> 
+            <td>Visibility of system status: Los usuarios no pueden revisar ni confirmar sus cambios antes de publicarlos, y no reciben la respuesta esperada del sistema.</td> 
+          </tr>
+          <tr> 
+            <td>6</td> 
+            <td>Problemas en la búsqueda y contacto con artistas, e inicio de sala de chats, ademas de no funcionar las funcionalidades indicadas</td> 
+            <td>4</td> 
+            <td>Visibility of system status: Las funcionalidades no operan como se espera, impidiendo la interacción efectiva con los artistas.</td> 
+          </tr> 
         </tbody> 
       </table>
         <h3>DESCRIPCIÓN DE PROBLEMAS</h3> 
@@ -2396,7 +2408,20 @@ Anderson Walter Macedo Calsina - u20201c179
                 <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
                 <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
                 <strong>Descripción</strong>: La falta de visibilidad de historia guardadas en la vista de “Mis Historias”, esto generaría muchos problemas para la experiencia del usuario. Cuando el autor quiera acceder a sus historias para editar no podrá visualizar lo que ha guardado.</p> 
-                <img src="./imagenes/heuflow2.png" width="600" height="300">
+                <img src="./imagenes/heuristica#3.jpg" width="600" height="300">
+              </li>
+          <li> 
+              <p><strong>Problema</strong>: Edición del contenido de una historia<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: Los usuarios no pueden acceder a la Vista Previa del capítulo, guardar los cambios, ni ver reflejadas sus ediciones, lo que les impide usar correctamente el sistema y generar frustracion al no poder ejecutar dichas acciones.</p> 
+              </li>
+              <li> 
+              <p><strong>Problema</strong>: Búsqueda y contacto con artistas, inicio de sala de chats<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: Los usuarios no pueden elegir el artista seleccionado a voluntad. Los botones de "Delete the room" y "Start a New Chat" no funcionan, y no se pueden enviar mensajes en el chat, lo cual impide la interacción con los artistas.</p> 
+                <img src="./imagenes/heuristica#4.jpg" width="600" height="300">
               </li>
           </ol>
 
