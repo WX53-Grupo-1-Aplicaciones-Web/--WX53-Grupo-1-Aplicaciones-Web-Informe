@@ -2408,7 +2408,7 @@ Anderson Walter Macedo Calsina - u20201c179
                 <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
                 <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
                 <strong>Descripción</strong>: La falta de visibilidad de historia guardadas en la vista de “Mis Historias”, esto generaría muchos problemas para la experiencia del usuario. Cuando el autor quiera acceder a sus historias para editar no podrá visualizar lo que ha guardado.</p> 
-                <img src="./imagenes/heuristica#3.jpg" width="600" height="300">
+                <img src="./imagenes/heuflow2.png" width="600" height="300">
               </li>
           <li> 
               <p><strong>Problema</strong>: Edición del contenido de una historia<br> 
@@ -2421,7 +2421,7 @@ Anderson Walter Macedo Calsina - u20201c179
                 <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
                 <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
                 <strong>Descripción</strong>: Los usuarios no pueden elegir el artista seleccionado a voluntad. Los botones de "Delete the room" y "Start a New Chat" no funcionan, y no se pueden enviar mensajes en el chat, lo cual impide la interacción con los artistas.</p> 
-                <img src="./imagenes/heuristica#4.jpg" width="600" height="300">
+                <img src="./imagenes/heuristica3.png" width="600" height="300">
               </li>
           </ol>
 
