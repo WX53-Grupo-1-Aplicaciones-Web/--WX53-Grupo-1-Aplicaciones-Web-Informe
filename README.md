@@ -2396,6 +2396,7 @@ Anderson Walter Macedo Calsina - u20201c179
                 <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
                 <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
                 <strong>Descripción</strong>: La falta de visibilidad de historia guardadas en la vista de “Mis Historias”, esto generaría muchos problemas para la experiencia del usuario. Cuando el autor quiera acceder a sus historias para editar no podrá visualizar lo que ha guardado.</p> 
+                <img src="./imagenes/heuflow2.png" width="600" height="300">
               </li>
           </ol>
 
