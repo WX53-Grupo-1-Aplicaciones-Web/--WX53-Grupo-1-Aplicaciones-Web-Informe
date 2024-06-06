@@ -2416,7 +2416,25 @@ Anderson Walter Macedo Calsina - u20201c179
             <td>Problemas en la búsqueda y contacto con artistas, e inicio de sala de chats, ademas de no funcionar las funcionalidades indicadas</td> 
             <td>4</td> 
             <td>Visibility of system status: Las funcionalidades no operan como se espera, impidiendo la interacción efectiva con los artistas.</td> 
-          </tr> 
+          </tr>
+          <tr> 
+            <td>7</td> 
+            <td>Al momento de querer solamente visualizar los detalles de una historia publicada se debe presionar en editar de todos modos, sin tener la necesidad de hacer cambios</td> 
+            <td>3</td> 
+            <td>Usability: El problema descrito afecta directamente la experiencia del usuario al introducir una fricción innecesaria en la interacción con el sistema. La obligación de presionar en "Editar" para visualizar los detalles de una historia publicada sin la necesidad de hacer cambios sugiere una falta de claridad en la interfaz de usuario</td> 
+          </tr>
+          <tr> 
+            <td>8</td> 
+            <td>En la sección de suscripción se muestra un apartado de paquetes de monedas donde existe información insuficiente para su uso</td> 
+            <td>3</td> 
+            <td>Usability: Los usuarios necesitan comprender claramente qué están comprando y cuáles son los beneficios de cada paquete de monedas. Debido a que la falta de información adecuada puede llevar a la confusión y a que los usuarios tomen decisiones incorrectas o abandonen la suscripción por falta de confianza en el producto</td> 
+          </tr>
+          <tr> 
+            <td>9</td> 
+            <td>En la sección de monetización la interfaz es poco atractiva y existe un botón que no tiene funcionalidad</td> 
+            <td>4</td> 
+            <td>Usability: Una interfaz poco atractiva puede afectar la facilidad con la que los usuarios interactúan con el sistema. Además, la presencia de un botón sin funcionalidad es una violación directa de la heurística</td> 
+          </tr>
         </tbody> 
       </table>
         <h3>DESCRIPCIÓN DE PROBLEMAS</h3> 
