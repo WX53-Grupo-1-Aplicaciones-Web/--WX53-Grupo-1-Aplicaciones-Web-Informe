@@ -2478,6 +2478,27 @@ Anderson Walter Macedo Calsina - u20201c179
                 <strong>Descripción</strong>: Los usuarios no pueden elegir el artista seleccionado a voluntad. Los botones de "Delete the room" y "Start a New Chat" no funcionan, y no se pueden enviar mensajes en el chat, lo cual impide la interacción con los artistas.</p> 
                 <img src="./imagenes/heuristica3.png" width="600" height="300">
               </li>
+          <li> 
+            <p><strong>Problema</strong>: Los detalles de la historia se observan solo al momento de editar.<br> 
+              <strong>Escala de severidad</strong>: 3 - Problema mayor.<br> 
+              <strong>Heurística violada</strong>: Usabilidad.<br> 
+              <strong>Descripción</strong>: Puesto que se ingresa a un apartado de edición, corremos el riesgo de realizar cambios involuntarios solo por observar el estado de la publicación.</p>
+              <img src="./imagenes/Heurística 7.png" width="600" height="300">
+          </li>
+          <li>
+            <p><strong>Problema</strong>: Los paquetes de monedas solo tienen una breve descripción.<br> 
+              <strong>Escala de severidad</strong>: 3 - Problema mayor.<br> 
+              <strong>Heurística violada</strong>: Usabilidad.<br> 
+              <strong>Descripción</strong>: Al momento de querer realizar una compra se corre el riesgo de confusión de los usuarios, evitando las ganancias de la plataforma.</p> 
+              <img src="./imagenes/Heurística 8.png" width="600" height="300">
+          </li>
+          <li>
+            <p><strong>Problema</strong>: La visualización de monetización es básica y existe un botón inoperante.<br>
+              <strong>Escala de severidad</strong>: 4 - Problema muy grave.<br>
+              <strong>Heurística violada</strong>: Usabilidad.<br>
+              <strong>Descripción</strong>: Una característica muy necesaria en todas las plataformas es su interfaz y la buena combinación de heurísticas de diseño.</p>
+              <img src="./imagenes/Heurística 9.png" width="600" height="300">
+          </li>
           </ol>
 
 
