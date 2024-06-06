@@ -2491,6 +2491,18 @@ Anderson Walter Macedo Calsina - u20201c179
                 <img src="./imagenes/heuristica3.png" width="600" height="300">
               </li>
           <li> 
+              <p><strong>Problema</strong>: Buscador de libros segun popularidad<br> 
+                <strong>Escala de severidad</strong>: 3 - Problema mayor<br> 
+                <strong>Heurística violada</strong>: Usability<br> 
+                <strong>Descripción</strong>: Los usuarios deben colocar parametros exactos al momento de buscar un libro segun su popularidad, los parametros incompletos o aproximados no arrojan ningun elemento que no contenga el parametro exacto.</p> 
+              </li>
+          <li> 
+              <p><strong>Problema</strong>: Edicion de datos en la cuenta del usuario<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: Al momento de editar la informacion de la cuenta, es posible dejar parametros e informacion fundamental en blanco, puesto que el sistema no requiere que se llenen dichos parametros.</p> 
+              </li>
+          <li> 
             <p><strong>Problema</strong>: Los detalles de la historia se observan solo al momento de editar.<br> 
               <strong>Escala de severidad</strong>: 3 - Problema mayor.<br> 
               <strong>Heurística violada</strong>: Usabilidad.<br> 
