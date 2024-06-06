@@ -2315,7 +2315,12 @@ Anderson Walter Macedo Calsina - u20201c179
       <p>¿Consideras que la plataforma te brinda suficiente visibilidad y herramientas para promocionar tus productos? ¿Qué mejorarías en este aspecto?</p>
   
 <h3>5.3.2. Registro de Entrevistas.</h3>
+<h4>Artesana</h4>
+<h4>Nombre: Aleshka Fernandez</h4>
+<img src="./imagenes/EntrevistaAleshka2.png" width="400" height="200">
 
+<p><strong>Link del video: </strong> https://www.youtube.com/watch?v=DNl57q27uCI</p>
+<p>Aleshka Fernández está muy contenta con el resultado tras observar e interactuar con nuestro front-end y landing page. La sección de personalización de los productos le resulta muy útil y le ha facilitado su trabajo con sus clientes. Compara esta ayuda con la misma que puede encontrar en redes sociales. Aprecia la practicidad que ofrece, especialmente teniendo en cuenta que parte de nuestro público son personas mayores. Como sugerencia, nos comenta que se podría mejorar la estética del sitio.</p>
 
 <h3>5.3.3. Evaluaciones según heurísticas.</h3>
 <h3>UX Heuristics &amp; Principles Evaluation</h3> 
