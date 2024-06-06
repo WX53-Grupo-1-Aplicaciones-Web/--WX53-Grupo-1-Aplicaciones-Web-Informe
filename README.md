@@ -2282,6 +2282,9 @@ Anderson Walter Macedo Calsina - u20201c179
 <h3>5.3. Validation Interviews</h3>
 <h3>5.3.1. Diseño de Entrevistas.</h3>
 <h3>Segmento Clientes:</h4>
+  <h4>Landing page</h4>
+  <p>¿Crees que la página de inicio comunica claramente el objetivo de nuestra plataforma como un espacio para la venta de productos artesanales? ¿Sientes que entiendes bien lo que ofrece y la propuesta de valor de nuestra startup?</p>
+  <p>¿Consideras que la página de inicio comunica de manera efectiva los beneficios y el valor agregado de nuestra plataforma para la compra y venta de productos artesanales? ¿Qué aspectos destacas como más valiosos?</p>
   <h4>Catálogo</h4>
     <p>¿Es fácil de navegar el catálogo de productos artesanales? ¿Cómo calificarías la organización y presentación de los productos?</p>
     <h4>Personalización de Productos</h4>
@@ -2295,6 +2298,9 @@ Anderson Walter Macedo Calsina - u20201c179
     <h4>Comunicación</h4>
     <p>¿La herramienta de comunicación con los artesanos es efectiva y fácil de usar? ¿Pudiste resolver tus dudas o negociar adecuadamente?</p>
     <h3>Segmento Artesano:</h4>
+      <h4>Landing page</h4>
+  <p>¿Crees que la página de inicio comunica claramente el objetivo de nuestra plataforma como un espacio para la venta de productos artesanales? ¿Sientes que entiendes bien lo que ofrece y la propuesta de valor de nuestra startup?</p>
+  <p>¿Consideras que la página de inicio comunica de manera efectiva los beneficios y el valor agregado de nuestra plataforma para la compra y venta de productos artesanales? ¿Qué aspectos destacas como más valiosos?</p>
       <h4>Publicación de Productos</h4>
       <p>¿El proceso para publicar un producto es claro y fácil de seguir? ¿Qué te parece la opción de agregar parámetros por defecto y adicionales?</p>
       <h4>Personalización de Productos</h4>
