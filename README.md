@@ -2280,7 +2280,38 @@ Anderson Walter Macedo Calsina - u20201c179
 <h3>5.2.3.8. Team Collaboration Insights during Sprint.</h3>
 
 <h3>5.3. Validation Interviews</h3>
-<h3>5.3.1. Evaluaciones según heurísticas.</h3>
+<h3>5.3.1. Diseño de Entrevistas.</h3>
+<h3>Segmento Clientes:</h4>
+  <h4>Catálogo</h4>
+    <p>¿Es fácil de navegar el catálogo de productos artesanales? ¿Cómo calificarías la organización y presentación de los productos?</p>
+    <h4>Personalización de Productos</h4>
+    <p>¿Qué te parece la opción de personalizar los productos? ¿El proceso es claro y sencillo?</p>
+    <h4>Descripción de Productos</h4>
+    <p>¿Las descripciones de los productos son detalladas y útiles? ¿Hay alguna información que consideres que falta?</p>
+    <h4>Compra de Productos</h4>
+    <p>¿El proceso de compra es intuitivo y fácil de seguir? ¿Encontraste algún obstáculo durante la compra?</p>
+    <h4>Perfil de Usuario</h4>
+    <p>¿La información de perfil y las opciones de edición están bien organizadas y son fáciles de usar?</p>
+    <h4>Comunicación</h4>
+    <p>¿La herramienta de comunicación con los artesanos es efectiva y fácil de usar? ¿Pudiste resolver tus dudas o negociar adecuadamente?</p>
+    <h3>Segmento Artesano:</h4>
+      <h4>Publicación de Productos</h4>
+      <p>¿El proceso para publicar un producto es claro y fácil de seguir? ¿Qué te parece la opción de agregar parámetros por defecto y adicionales?</p>
+      <h4>Personalización de Productos</h4>
+      <p>¿Qué opinas sobre la función de personalización de productos por parte de los clientes? ¿Es fácil de gestionar y entender?</p>
+      <h4>Comunicación con Clientes</h4>
+      <p>¿La herramienta de comunicación con los clientes es efectiva y fácil de usar? ¿Te permite negociar y resolver dudas adecuadamente?</p>
+      <h4>Descripción y Parámetros de Productos</h4>
+      <p>¿El sistema para agregar descripciones y parámetros a tus productos es adecuado? ¿Hay algo que mejorarías?</p>
+      <h4>Perfil de Artesano</h4>
+      <p>¿La sección de información de perfil y sus opciones de edición son suficientes y fáciles de usar?</p>
+      <h4>Visibilidad y Promoción de Productos</h4>
+      <p>¿Consideras que la plataforma te brinda suficiente visibilidad y herramientas para promocionar tus productos? ¿Qué mejorarías en este aspecto?</p>
+  
+<h3>5.3.2. Registro de Entrevistas.</h3>
+
+
+<h3>5.3.3. Evaluaciones según heurísticas.</h3>
 <h3>UX Heuristics &amp; Principles Evaluation</h3> 
 <p>Usability – Inclusive Design – Information Architecture</p> 
 <p>CARRERA : Ingeniería de Software
