@@ -2290,6 +2290,17 @@ Anderson Walter Macedo Calsina - u20201c179
       <p>Depuracion de las pruebas</p>
   <img src="./imagenes/Atest5.png" width="600" height="300">
 <h3>5.2.3.5 Execution Evidence for Sprint Review</h3>
+<p>A continuación presentamos la evidencia de ejecucion del backend:</p>
+
+<img src="./imagenes/EEBack1.png" width="600" height="300">
+<img src="./imagenes/EEBack2.png" width="600" height="300">
+<img src="./imagenes/EEBack3.png" width="600" height="300">
+
+<p>IMPORTANTE: Para la ejecución del proyecto se esta utilizando la siguiente configuracion en "appsettings.json"</p>
+<img src="./imagenes/EEBack4.png" width="600" height="300">
+<p>Para que pueda ejecutarse correctamente, se debe cambiar la contraseña "pwd" a la contraseña respectiva configurada en el MySql Workbrench personal</p>
+
+
 
 <h3>5.2.3.6. Services Documentation Evidence for Sprint Review</h3>
 <p>Para este entregable se implementó para el backend las siguientes tablas:</p>
