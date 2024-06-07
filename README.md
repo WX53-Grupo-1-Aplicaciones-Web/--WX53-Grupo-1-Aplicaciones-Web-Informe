@@ -2306,6 +2306,20 @@ Anderson Walter Macedo Calsina - u20201c179
 
 <h3>5.2.3.7. Software Deployment Evidence for Sprint Review</h3>
 <h3>5.2.3.8. Team Collaboration Insights during Sprint.</h3>
+<p>El trabajo en equipo de desarrolló en ramas para cada integrantes de grupo, el líder trabajo la entidad customer 
+  en la rama main y los integrantes del equipo en las siguientes ramas respectivas.
+  El merge no se realizó de forma convencional, ya que se realizo el merge de forma manual de tal forma de que en las 
+  reuniones de trabajo se revisaron y se colocaron los cambios de forma manual en el main
+</p>
+<img src="./imagenes/BackendBranchs.png">
+<p>Frecuencia de commits</p>
+<img src="./imagenes/backcommits.png">
+<p>Grafo de las ramas</p>
+<img src="./imagenes/backgraph.png">
+<p>Trafico del repositorio</p>
+<img src="./imagenes/traffic1back.png">
+<img src="./imagenes/traffic2back.png">
+
 
 <h3>5.3. Validation Interviews</h3>
 <h3>5.3.1. Diseño de Entrevistas.</h3>
