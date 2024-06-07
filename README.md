@@ -2586,6 +2586,21 @@ Anderson Walter Macedo Calsina - u20201c179
           </li>
           </ol>
 
+<h2>5.4. Video About The Product</h2>
+
+<h1>Mejora continua</h1>
+
+<p>A continuacion se mostraran las mejoras con respecto a la entrega anterior</p>
+<ol>
+  <li>Se eliminaron los comentarios innecesarios en en proyecto del FrontEnd.</li>
+  <li>Se eliminaron los "console.log" existentes dentro de los componentes del proyecto.</li>
+  <li>Se añadió el I18n a los componentes restantes.</li>
+  <li>Se corrijio el nombre de los componentes que no cumplian con los estándares.</li>
+</ol>
+<img src="./imagenes/MB1.png">
+<img src="./imagenes/MB2.png">
+<img src="./imagenes/MB3.png">
+<img src="./imagenes/MB4.png">
 
 <h1>CONCLUSIONES</h1>
 <p>TB1: Desde el diseño y lanzamiento de nuestro atractivo landing page, hasta la meticulosa planificación de los user flows, wireframes y mockups de la aplicación web, hemos establecido una sólida base para ofrecer una experiencia inigualable tanto para artesanos como para clientes.
