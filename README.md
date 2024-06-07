@@ -2603,14 +2603,22 @@ Anderson Walter Macedo Calsina - u20201c179
 <img src="./imagenes/MB3.png">
 <img src="./imagenes/MB4.png">
 
+<h1>Retrospective video</h1>
+<p>A continuación presentamos el About-the-Team Video-recorded with Process Restrospective.</p>
+<img src="./imagenes/RTPvideo.png">
+<p>Enlace: https://upcedupe-my.sharepoint.com/personal/u202113640_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113640%5Fupc%5Fedu%5Fpe%2FDocuments%2FGrupo%201%20WX53%20Retrospective%20Video%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5029b10a%2D8564%2D48f8%2Daf56%2Dda3ace64e183 </p>
+
 <h1>CONCLUSIONES</h1>
 <p>TB1: Desde el diseño y lanzamiento de nuestro atractivo landing page, hasta la meticulosa planificación de los user flows, wireframes y mockups de la aplicación web, hemos establecido una sólida base para ofrecer una experiencia inigualable tanto para artesanos como para clientes.
 Nuestra atención se ha centrado en la creación de un entorno que celebre la artesanía y fomente la conexión entre creadores y consumidores. La capacidad de personalización de productos y la comunicación directa entre artesanos y clientes dentro de la plataforma son aspectos clave que diferencian a Artisania de otros marketplaces convencionales.</p>
-<p>TB2: En este segundo entregable del proyecto, hemos logrado un avance significativo en el desarrollo de nuestro marketplace de productos artesanales. Gracias al uso de Vue.js, hemos creado las vistas necesarias para la plataforma, lo que nos permite visualizar y navegar por los productos de manera intuitiva y eficiente.
+<p>TP: En este segundo entregable del proyecto, hemos logrado un avance significativo en el desarrollo de nuestro marketplace de productos artesanales. Gracias al uso de Vue.js, hemos creado las vistas necesarias para la plataforma, lo que nos permite visualizar y navegar por los productos de manera intuitiva y eficiente.
 
 Además, hemos logrado desplegar exitosamente la aplicación en Firebase, lo que nos brinda la capacidad de compartir nuestro progreso con el equipo y los interesados de manera rápida y sencilla. Aunque aún estamos trabajando en mejorar la integración con una fake API para simular el uso de datos, este paso nos ha permitido avanzar en el desarrollo y realizar pruebas de funcionalidad.
 
 A pesar de que la simulación de datos no ha sido completamente satisfactoria, consideramos que este es un gran avance en nuestro proyecto. Nos ha brindado la oportunidad de identificar áreas de mejora y nos motiva a seguir trabajando en la optimización de nuestra aplicación.</p>
+
+<p>TB2: Para esta entrega del proyecto consideramos que representa un paso importante hacia la creación de una plataforma confiable y funcional para conectar a artesanos y clientes en un mercado digital. A través de nuestra dedicación y experiencia, hemos entregado una solución que cumple con los estándares de calidad y sienta las bases para futuras innovaciones y mejoras. A lo largo del desarrollo, nos hemos centrado en la escalabilidad, la seguridad y la eficiencia del sistema. Hemos utilizado buenas prácticas de programación y diseño para garantizar la modularidad y la mantenibilidad del código.</p>
+
 <h1>BIBLIOGRAFIA</h1>
 <p>ComexPerú. (2024, 8 de marzo). Más de 416,000 peruanos trabajan en artesanía. ¿Cómo se encuentra el sector? Sociedad de Comercio Exterior del Perú. https://www.comexperu.org.pe/articulo/mas-de-416000-peruanos-trabajan-en-artesania-como-se-encuentra-el-sector  [Fecha de consulta 25/03/2024]</p>
 <p>Andina. (2024, 11 de abril). Más de 1,200 artesanos venden en línea a través de Artesanías del Perú. Agencia Andina. https://andina.pe/agencia/noticia-mas-1200-artesanos-venden-linea-a-traves-artesanias-del-peru-948996.aspx [Fecha de consulta 24/03/2024]</p>
