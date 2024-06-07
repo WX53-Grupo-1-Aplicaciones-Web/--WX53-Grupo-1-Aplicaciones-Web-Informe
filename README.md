@@ -2323,11 +2323,18 @@ Anderson Walter Macedo Calsina - u20201c179
 <p>Aleshka Fernández está muy contenta con el resultado tras observar e interactuar con nuestro front-end y landing page. La sección de personalización de los productos le resulta muy útil y le ha facilitado su trabajo con sus clientes. Compara esta ayuda con la misma que puede encontrar en redes sociales. Aprecia la practicidad que ofrece, especialmente teniendo en cuenta que parte de nuestro público son personas mayores. Como sugerencia, nos comenta que se podría mejorar la estética del sitio.</p>
 
 <h4>Artesano</h4>
-<h4>Nombre: Roy Romero</h4>
+<h4>Nombre:Roy Romero</h4>
 <img src="./imagenes/VI1.png" width="400" height="200">
 
 <p><strong>Link del video: </strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113640_upc_edu_pe/EfrfLDhwdsxDphrecE3iOU4B0XPeC6U4qGIsX9mpW6wn2w?e=xQliH1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
 <p>La entrevista con el artesano Roy proporciona una visión positiva y alentadora sobre la plataforma, destacando varios aspectos que son apreciados y valorados por los usuarios. El artesano percibe claramente el objetivo de la plataforma como un espacio para la venta de productos artesanales. Esto indica que el mensaje principal de la página de inicio está bien comunicado y que los usuarios entienden la propuesta de valor de la startup. La claridad en la comunicación es fundamental para atraer y retener tanto a compradores como a vendedores.El proceso de publicación de productos es descrito como claro y fácil de seguir. La opción de agregar parámetros por defecto y adicionales es bien recibida, ya que permite a los artesanos especificar variantes y ofrecer un mayor grado de personalización. Esto sugiere que la plataforma está bien diseñada para facilitar la tarea de los artesanos al listar sus productos.</p>
+
+<h4>Cliente</h4>
+<h4>Nombre: Maritza  Eusebio</h4>
+<img src="./imagenes/VI2.png" width="400" height="200">
+
+<p><strong>Link del video: </strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113640_upc_edu_pe/EVcGBPLwtxBPpAscIYrsVrUBTlHyhIe3HIqoiMNyAJkK0A?e=wR8yfQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D </p>
+<p>La entrevista a Maritza revela una experiencia generalmente positiva y fluida en la plataforma. La claridad en la comunicación del objetivo y los beneficios de la startup es destacada, lo que asegura que los usuarios comprendan bien la propuesta de valor. La navegación y presentación del catálogo son bien valoradas, facilitando la búsqueda y selección de productos. La personalización y comunicación directa con los artesanos son aspectos especialmente apreciados, ya que agregan un valor único a la experiencia de compra. Las sugerencias menores, como la necesidad de más información sobre materiales y tiempos de entrega, ofrecen oportunidades para mejorar aún más la plataforma.</p>
 
 <h3>5.3.3. Evaluaciones según heurísticas.</h3>
 <h3>UX Heuristics &amp; Principles Evaluation</h3> 
