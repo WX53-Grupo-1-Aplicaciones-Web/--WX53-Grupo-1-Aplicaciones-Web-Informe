@@ -2837,6 +2837,10 @@ Anderson Walter Macedo Calsina - u20201c179
 </ol>
 
 <h2>5.4. Video About The Product</h2>
+<p>A continuación, presentamos el video sobre el producto:</p>
+<img src="./imagenes/ABTProduct.png">
+<p>Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113640_upc_edu_pe/ESSyt_q7NuRLuPVXrNsqTAIBsRKHeZHrZpmrZm1hnngkbQ?e=Ab7CZU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
+
 
 <h1>Mejora continua</h1>
 
