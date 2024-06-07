@@ -2383,6 +2383,13 @@ Anderson Walter Macedo Calsina - u20201c179
 <p><strong>Link del video: </strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113640_upc_edu_pe/EfrfLDhwdsxDphrecE3iOU4B0XPeC6U4qGIsX9mpW6wn2w?e=xQliH1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
 <p>La entrevista con el artesano Roy proporciona una visión positiva y alentadora sobre la plataforma, destacando varios aspectos que son apreciados y valorados por los usuarios. El artesano percibe claramente el objetivo de la plataforma como un espacio para la venta de productos artesanales. Esto indica que el mensaje principal de la página de inicio está bien comunicado y que los usuarios entienden la propuesta de valor de la startup. La claridad en la comunicación es fundamental para atraer y retener tanto a compradores como a vendedores.El proceso de publicación de productos es descrito como claro y fácil de seguir. La opción de agregar parámetros por defecto y adicionales es bien recibida, ya que permite a los artesanos especificar variantes y ofrecer un mayor grado de personalización. Esto sugiere que la plataforma está bien diseñada para facilitar la tarea de los artesanos al listar sus productos.</p>
 
+<h4>Artesano</h4>
+<h4>Nombre:Daniel Baldeon</h4>
+<img src="./imagenes/EntrevistaDaniel.png" width="400" height="200">
+
+<p><strong>Link del video: </strong> https://youtu.be/tUfeSopsgSc</p>
+<p>La entrevista con el artesano Daniel, nos comenta que lleva dos años con su proyecto, el considera que el landing page le resulta muy atractivo y eficiente cumple con lo necesario para un artesano. Es entendible el objetivo que trasmite la página y que ayuda a poder promocionarse sin que él tenga que ir a alquilar un local que le resultaría costoso. nos comenta que le gustaría que se tenga en cuenta con la comunicación con el cliente, utilicen diversos medios de comunicación ya que muchas personas solo utilizan el dispositivo móvil. Opina que se deben agregar más parámetros o que sea solo con el cliente, le gustaría que utilicen mucho la publicidad para que mas personas conozcan la pagina y que generen descuentos tal vez, para que atraigan al cliente.</p>
+
 <h4>Cliente</h4>
 <h4>Nombre: Maritza  Eusebio</h4>
 <img src="./imagenes/VI2.png" width="400" height="200">
