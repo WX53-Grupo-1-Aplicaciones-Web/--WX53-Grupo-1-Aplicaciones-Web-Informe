@@ -2299,7 +2299,7 @@ Anderson Walter Macedo Calsina - u20201c179
 <p>IMPORTANTE: Para la ejecución del proyecto se esta utilizando la siguiente configuracion en "appsettings.json"</p>
 <img src="./imagenes/EEBack4.png" width="600" height="300">
 <p>Para que pueda ejecutarse correctamente, se debe cambiar la contraseña "pwd" a la contraseña respectiva configurada en el MySql Workbrench personal</p>
-
+<p>Enalce al repositorio del Backend del proyecto: https://github.com/WX53-Grupo-1-Aplicaciones-Web/WX53-Grupo-1-Aplicaciones-Web-BackEnd</p>
 
 
 <h3>5.2.3.6. Services Documentation Evidence for Sprint Review</h3>
