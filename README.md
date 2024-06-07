@@ -2547,7 +2547,6 @@ Anderson Walter Macedo Calsina - u20201c179
         </tr> 
       </tbody> 
     </table> 
-
     <h3>RESUMEN DE PROBLEMAS</h3> 
     <table> 
       <thead> 
@@ -2615,7 +2614,6 @@ Anderson Walter Macedo Calsina - u20201c179
         </tbody> 
       </table>
         <h3>DESCRIPCIÓN DE PROBLEMAS</h3> 
-
 <ol>
     <li>
         <strong>Problema #1: El botón de "Register" no funciona</strong>
