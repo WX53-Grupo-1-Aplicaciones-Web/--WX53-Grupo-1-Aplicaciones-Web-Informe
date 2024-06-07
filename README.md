@@ -2390,6 +2390,13 @@ Anderson Walter Macedo Calsina - u20201c179
 <p><strong>Link del video: </strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113640_upc_edu_pe/EVcGBPLwtxBPpAscIYrsVrUBTlHyhIe3HIqoiMNyAJkK0A?e=wR8yfQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D </p>
 <p>La entrevista a Maritza revela una experiencia generalmente positiva y fluida en la plataforma. La claridad en la comunicación del objetivo y los beneficios de la startup es destacada, lo que asegura que los usuarios comprendan bien la propuesta de valor. La navegación y presentación del catálogo son bien valoradas, facilitando la búsqueda y selección de productos. La personalización y comunicación directa con los artesanos son aspectos especialmente apreciados, ya que agregan un valor único a la experiencia de compra. Las sugerencias menores, como la necesidad de más información sobre materiales y tiempos de entrega, ofrecen oportunidades para mejorar aún más la plataforma.</p>
 
+<h4>Cliente</h4>
+<h4>Nombre: Andrea Garcia</h4>
+<img src="./imagenes/Entrevista2SegmentoCliente.png" width="400" height="200">
+
+<p><strong>Link del video: </strong> https://youtu.be/RwbbGwcwgMM </p>
+<p>La entrevistada considera que esta bien implementada la información en la landing page. Es muy fácil de entender el mensaje que se quiere transmitir. En el front-end considera que la visualización esta muy bien, aunque podría incluir algunos mas detalles. Es buena la opción de personalización de un producto, es fácil de hacerlo. Después indica que las opciones de la aplicación están muy bien, talvez algunas cosas faltarían mejorar, pero en general, es muy buena las características que ofrece la aplicación.</p>
+
 <h3>5.3.3. Evaluaciones según heurísticas.</h3>
           <h3>Grupo auditado:</h3>
 
