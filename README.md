@@ -2391,8 +2391,6 @@ Anderson Walter Macedo Calsina - u20201c179
 <p>La entrevista a Maritza revela una experiencia generalmente positiva y fluida en la plataforma. La claridad en la comunicación del objetivo y los beneficios de la startup es destacada, lo que asegura que los usuarios comprendan bien la propuesta de valor. La navegación y presentación del catálogo son bien valoradas, facilitando la búsqueda y selección de productos. La personalización y comunicación directa con los artesanos son aspectos especialmente apreciados, ya que agregan un valor único a la experiencia de compra. Las sugerencias menores, como la necesidad de más información sobre materiales y tiempos de entrega, ofrecen oportunidades para mejorar aún más la plataforma.</p>
 
 <h3>5.3.3. Evaluaciones según heurísticas.</h3>
-
-<h3>Grupo auditado:</h3>
 <h3>UX Heuristics &amp; Principles Evaluation</h3> 
 <p>Usability – Inclusive Design – Information Architecture</p> 
 <p>CARRERA : Ingeniería de Software
@@ -2406,17 +2404,17 @@ Anderson Walter Macedo Calsina - u20201c179
   
 </p>
 <ol> 
-   <li>1.-El usuario inicia sesion, se registra y recupera su contraseña</li>
-   <li>2.-El usuario publica una nueva historia y agrega series a la historia</li> 
-   <li>3.-El usuario edita el contenido de una historia, como el contenido y las series.</li> 
-   <li>4.-El usuario busca artistas, contacta con ellos e inicia una sala de chats</li> 
-   <li>5.-El usuario del tipo ilustrador edita su perfil</li> 
-   <li>6.-El usuario del tipo escritor edita su perfil</li> 
-   <li>7.-El usuario busca un libro segun su popularidad y género</li> 
-   <li>8.-El usuario edita el perfil de cuenta</li> 
-   <li>9.-El usuario visualiza las comisiones obtenidas por cada historia</li> 
-   <li>10.-El usuario visualiza los planes de suscripción</li> 
-   <li>11.-Elusuario visualiza el sistema de monetización</li> 
+   <li>El usuario inicia sesion, se registra y recupera su contraseña</li>
+   <li>El usuario publica una nueva historia y agrega series a la historia</li> 
+   <li>El usuario edita el contenido de una historia, como el contenido y las series.</li> 
+   <li>El usuario busca artistas, contacta con ellos e inicia una sala de chats</li> 
+   <li>El usuario del tipo ilustrador edita su perfil</li> 
+   <li>El usuario del tipo escritor edita su perfil</li> 
+   <li>El usuario busca un libro segun su popularidad y género</li> 
+   <li>El usuario edita el perfil de cuenta</li> 
+   <li>El usuario visualiza las comisiones obtenidas por cada historia</li> 
+   <li>El usuario visualiza los planes de suscripción</li> 
+   <li>Elusuario visualiza el sistema de monetización</li> 
 
   </ol> 
   <h3>ESCALA DE SEVERIDAD:</h3> 
@@ -2468,6 +2466,60 @@ Anderson Walter Macedo Calsina - u20201c179
             <td>4</td> 
             <td>Visibility of system status: Se viola esta heuristica debido a que al no poder cambiar de perfil de forma convencional, no podemos edifat la informacion del usuario de este tipo</td> 
           </tr> 
+          <tr> 
+            <td>3</td> 
+            <td>Cuando ingreso a la pagina se puede visualizar el botón para poder iniciar sesión y también dentro está el registrarme, pero no se puede observar el recuperar contraseña. </td> 
+            <td>4</td> 
+            <td>Visibility of system status: Debdo a que no se puede visualizar el “recuperar contraseña”, el sistema no está mostrando toda la información detallada para el usuario.</td> 
+          </tr> 
+          <tr> 
+            <td>4</td> 
+            <td>Existe el botón publish, y se puede escribir las historias y los detalles necesarios, pero no se puede visualizar lo guardado, ni se visualiza la publicación.</td> 
+            <td>4</td> 
+            <td>Visibility of system status: No se puede visualizar lo guardado ni la publicación, después del clic al botón “publish”, el sistema no esta retroalimentando el resultado del usuario.</td> 
+          </tr> 
+          <tr> 
+            <td>5</td> 
+            <td>Problemas en la edición del contenido de una historia, no se guardan los cambios que se realizan</td> 
+            <td>4</td> 
+            <td>Visibility of system status: Los usuarios no pueden revisar ni confirmar sus cambios antes de publicarlos, y no reciben la respuesta esperada del sistema.</td> 
+          </tr>
+          <tr> 
+            <td>6</td> 
+            <td>Problemas en la búsqueda y contacto con artistas, e inicio de sala de chats, ademas de no funcionar las funcionalidades indicadas</td> 
+            <td>4</td> 
+            <td>Visibility of system status: Las funcionalidades no operan como se espera, impidiendo la interacción efectiva con los artistas.</td> 
+          </tr>
+          <tr> 
+            <td>7</td> 
+            <td>Al momento de buscar un libro segun su popularidad, se tienen que colocar parametros exactos y no aproximados y/o incompletos, lo que dificulta la busqueda de un libro</td> 
+            <td>3</td> 
+            <td>Usability: El hecho de que sea necesario colocar un parametro exacto en un filtro de busqueda dificulta la busqueda de un libro en particular.</td> 
+          </tr>
+          <tr> 
+            <td>8</td> 
+            <td>Al momento de editar la informacion de la cuenta, es posible dejar parametros en blanco que son necesarios</td> 
+            <td>4</td> 
+            <td>Visibility of System Status: La informacion necesaria para que se puedan visualizar los datos correctos debe estar presente cuando un usuario quiere revisar los datos de una cuenta</td> 
+          </tr>
+          <tr> 
+            <td>9</td> 
+            <td>Al momento de querer solamente visualizar los detalles de una historia publicada se debe presionar en editar de todos modos, sin tener la necesidad de hacer cambios</td> 
+            <td>3</td> 
+            <td>Usability: El problema descrito afecta directamente la experiencia del usuario al introducir una fricción innecesaria en la interacción con el sistema. La obligación de presionar en "Editar" para visualizar los detalles de una historia publicada sin la necesidad de hacer cambios sugiere una falta de claridad en la interfaz de usuario</td> 
+          </tr>
+          <tr> 
+            <td>10</td> 
+            <td>En la sección de suscripción se muestra un apartado de paquetes de monedas donde existe información insuficiente para su uso</td> 
+            <td>3</td> 
+            <td>Usability: Los usuarios necesitan comprender claramente qué están comprando y cuáles son los beneficios de cada paquete de monedas. Debido a que la falta de información adecuada puede llevar a la confusión y a que los usuarios tomen decisiones incorrectas o abandonen la suscripción por falta de confianza en el producto</td> 
+          </tr>
+          <tr> 
+            <td>11</td> 
+            <td>En la sección de monetización la interfaz es poco atractiva y existe un botón que no tiene funcionalidad</td> 
+            <td>4</td> 
+            <td>Usability: Una interfaz poco atractiva puede afectar la facilidad con la que los usuarios interactúan con el sistema. Además, la presencia de un botón sin funcionalidad es una violación directa de la heurística</td> 
+          </tr>
         </tbody> 
       </table>
         <h3>DESCRIPCIÓN DE PROBLEMAS</h3> 
@@ -2485,232 +2537,67 @@ Anderson Walter Macedo Calsina - u20201c179
                 <strong>Descripción</strong>: El sistema debe mantener a los usuarios informados sobre lo que está sucediendo, a través de retroalimentación apropiada dentro de un tiempo razonable.</p> 
                 <img src="./imagenes/heuflow5.png" width="600" height="300">
               </li>
+          <li> 
+              <p><strong>Problema</strong>: La vista del login no cuenta con un boton de recuperar contraseña.<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: La falta de un botón de recuperar contraseña el usuario se encontraría en diversos desafíos para volver ingresar, esto generaría frustración al usuario. Además, aun no se puede cerrar sesión del anterior perfil.</p> 
+              </li>
+              <li> 
+              <p><strong>Problema</strong>: En la vista de "Mis Historias" no se puede visualizar lo que se ha guardado.<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: La falta de visibilidad de historia guardadas en la vista de “Mis Historias”, esto generaría muchos problemas para la experiencia del usuario. Cuando el autor quiera acceder a sus historias para editar no podrá visualizar lo que ha guardado.</p> 
+                <img src="./imagenes/heuflow2.png" width="600" height="300">
+              </li>
+          <li> 
+              <p><strong>Problema</strong>: Edición del contenido de una historia<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: Los usuarios no pueden acceder a la Vista Previa del capítulo, guardar los cambios, ni ver reflejadas sus ediciones, lo que les impide usar correctamente el sistema y generar frustracion al no poder ejecutar dichas acciones.</p> 
+              </li>
+              <li> 
+              <p><strong>Problema</strong>: Búsqueda y contacto con artistas, inicio de sala de chats<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: Los usuarios no pueden elegir el artista seleccionado a voluntad. Los botones de "Delete the room" y "Start a New Chat" no funcionan, y no se pueden enviar mensajes en el chat, lo cual impide la interacción con los artistas.</p> 
+                <img src="./imagenes/heuristica3.png" width="600" height="300">
+              </li>
+          <li> 
+              <p><strong>Problema</strong>: Buscador de libros segun popularidad<br> 
+                <strong>Escala de severidad</strong>: 3 - Problema mayor<br> 
+                <strong>Heurística violada</strong>: Usability<br> 
+                <strong>Descripción</strong>: Los usuarios deben colocar parametros exactos al momento de buscar un libro segun su popularidad, los parametros incompletos o aproximados no arrojan ningun elemento que no contenga el parametro exacto.</p> 
+              </li>
+          <li> 
+              <p><strong>Problema</strong>: Edicion de datos en la cuenta del usuario<br> 
+                <strong>Escala de severidad</strong>: 4 - Problema muy grave<br> 
+                <strong>Heurística violada</strong>: Visibilidad del estado del sistema<br> 
+                <strong>Descripción</strong>: Al momento de editar la informacion de la cuenta, es posible dejar parametros e informacion fundamental en blanco, puesto que el sistema no requiere que se llenen dichos parametros.</p> 
+              </li>
+          <li> 
+            <p><strong>Problema</strong>: Los detalles de la historia se observan solo al momento de editar.<br> 
+              <strong>Escala de severidad</strong>: 3 - Problema mayor.<br> 
+              <strong>Heurística violada</strong>: Usabilidad.<br> 
+              <strong>Descripción</strong>: Puesto que se ingresa a un apartado de edición, corremos el riesgo de realizar cambios involuntarios solo por observar el estado de la publicación.</p>
+              <img src="./imagenes/Heurística 7.png" width="600" height="300">
+          </li>
+          <li>
+            <p><strong>Problema</strong>: Los paquetes de monedas solo tienen una breve descripción.<br> 
+              <strong>Escala de severidad</strong>: 3 - Problema mayor.<br> 
+              <strong>Heurística violada</strong>: Usabilidad.<br> 
+              <strong>Descripción</strong>: Al momento de querer realizar una compra se corre el riesgo de confusión de los usuarios, evitando las ganancias de la plataforma.</p> 
+              <img src="./imagenes/Heurística 8.png" width="600" height="300">
+          </li>
+          <li>
+            <p><strong>Problema</strong>: La visualización de monetización es básica y existe un botón inoperante.<br>
+              <strong>Escala de severidad</strong>: 4 - Problema muy grave.<br>
+              <strong>Heurística violada</strong>: Usabilidad.<br>
+              <strong>Descripción</strong>: Una característica muy necesaria en todas las plataformas es su interfaz y la buena combinación de heurísticas de diseño.</p>
+              <img src="./imagenes/Heurística 9.png" width="600" height="300">
+          </li>
           </ol>
 
-          <h3>Grupo auditor:</h3>
-
-          <h3>UX Heuristics &amp; Principles Evaluation</h3> 
-<p>Usability – Inclusive Design – Information Architecture</p> 
-<p>CARRERA : Ingeniería de Software
-  <br> CURSO : Aplicaciones Web<br> 
-  SECCIÓN : WX53
-  <br> PROFESORES : Todos
-  <br> AUDITOR : Dreamers in a hurry
-  <br> CLIENTE(S) : Artisania
-</p> <h3>TAREAS A EVALUAR:</h3> 
-<p>El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-  
-</p>
-<ol> 
-   <li>Registro de un usuario nuevo</li>
-   <li>Iniciar sesión</li> 
-   <li>Publicación de un producto</li> 
-   <li>Personalización de un producto</li> 
-   <li>Búsqueda de productos</li> 
-   <li>Compra de productos</li> 
-   <li>Edición de perfil de usuario</li> 
-   <li>Navegación por el catálogo</li> 
-
-  </ol> 
-
-  <p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>>
-  <ol>
-    <li>Recuperar contraseña en caso de olvido</li>
-    <li>Cerrar Sesión</li>
-    <li>Filtrar categorías en el catálogo</li>
-    <li>Soporte de múltiples idiomas</li>
-  </ol>
-  <h3>ESCALA DE SEVERIDAD:</h3> 
-  <p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p> 
-  <table> 
-    <thead> 
-      <tr> 
-        <th>Nivel</th> 
-        <th>Descripción</th> 
-      </tr> 
-    </thead> 
-    <tbody> 
-      <tr> 
-        <td>1</td> 
-        <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td> 
-      </tr> 
-      <tr> 
-        <td>2</td> 
-        <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td> 
-      </tr> 
-      <tr> 
-        <td>3</td> 
-        <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td> </tr> 
-        <tr> 
-          <td>4</td> 
-          <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td> 
-        </tr> 
-      </tbody> 
-    </table> 
-    <h3>RESUMEN DE PROBLEMAS</h3> 
-    <table> 
-      <thead> 
-        <tr> 
-          <th># Problema</th> 
-          <th>Descripción del problema</th>
-           <th>Escala de severidad</th> 
-           <th>Heurística/Principio violada(o)</th> 
-        </tr> </thead> 
-        <tbody> 
-          <tr> 
-            <td>1</td> 
-            <td>El botón de "Register" no funciona.	</td> 
-            <td>4</td> 
-            <td>Usability: Visibilidad del estado del sistema</td> 
-          </tr> 
-          <tr> 
-            <td>2</td> 
-            <td>No se puede registrar ningún usuario.</td> 
-            <td>4</td> 
-            <td>Usability: Prevención de errores</td> 
-          </tr>
-          <tr> 
-            <td>3</td> 
-            <td>El botón del carrito de compras no funciona.</td> 
-            <td>3</td> 
-            <td>Usability: Flexibilidad y eficiencia de uso</td> 
-          </tr>
-          <tr> 
-            <td>4</td> 
-            <td>No hay validaciones en los formularios de publicación de productos.	</td> 
-            <td>3</td> 
-            <td>Usability: Prevención de errores</td> 
-          </tr>  
-          <tr> 
-            <td>5</td> 
-            <td>No hay forma de borrar una publicación.	</td> 
-            <td>3</td> 
-            <td>Usability: Flexibilidad y eficiencia de uso</td> 
-          </tr>  
-          <tr> 
-            <td>6</td> 
-            <td>La función de búsqueda no funciona (lupa no es clickeable).	</td> 
-            <td>3</td> 
-            <td>Information Architecture: Facilidad de uso</td> 
-          </tr>  
-          <tr> 
-            <td>7</td> 
-            <td>Al hacer click al botón de precio de algunas publicaciones, se muestra un pantallazo en blanco.</td> 
-            <td>4</td> 
-            <td>Usability: Consistencia y estándares</td> 
-          </tr>  
-          <tr> 
-            <td>8</td> 
-            <td>La navegación para editar el perfil es confusa y los cambios no se guardan.</td> 
-            <td>4</td> 
-            <td>Usability: Visibilidad del estado del sistema</td> 
-          </tr>  
-          <tr> 
-            <td>9</td> 
-            <td>El botón de "Ver más" no se convierte en "Ver menos" después de mostrar opciones adicionales.</td> 
-            <td>3</td> 
-            <td>Usability: Libertad y control del usuarios</td> 
-          </tr>  
-        </tbody> 
-      </table>
-        <h3>DESCRIPCIÓN DE PROBLEMAS</h3> 
-<ol>
-    <li>
-        <strong>Problema #1: El botón de "Register" no funciona</strong>
-        <ul>
-            <li>Severidad: 4</li>
-            <li>Heurística violada: Usability - Visibilidad del estado del sistema</li>
-            <li>Problema: Al intentar registrarse, el botón de "Register" no responde, impidiendo a los usuarios nuevos crear una cuenta. Esto bloquea parcialmente el acceso a la aplicación para nuevos usuarios, ya que al menos se puede acceder al formulario de registro en la opción de “Sign up” del header.</li>
-            <li>Recomendación: Corregir la funcionalidad del botón "Register" para asegurar que los usuarios puedan registrarse exitosamente.</li>
-            <img src="./imagenes/ADTS1.png" width="600" height="300">   
-          </ul>
-    </li>
-    <li>
-        <strong>Problema #2: No se puede registrar ningún usuario</strong>
-        <ul>
-            <li>Severidad: 4</li>
-            <li>Heurística violada: Usability - Prevención de errores</li>
-            <li>Problema: El sistema no permite registrar ningún usuario, lo cual es un fallo crítico que impide a cualquier nuevo usuario utilizar la aplicación.</li>
-            <li>Recomendación: Revisar y corregir el flujo de registro para asegurarse de que los usuarios puedan registrarse correctamente.</li>
-            <img src="./imagenes/ADTS2.png" width="600" height="300">
-          </ul>
-    </li>
-    <li>
-        <strong>Problema #3: El botón de carrito de compras no funciona</strong>
-        <ul>
-            <li>Severidad: 4</li>
-            <li>Heurística violada: Usability - Flexibilidad y eficiencia de uso</li>
-            <li>Problema: El botón de carrito de compras no responde al ser clickeado, impidiendo a los usuarios agregar productos a su carrito. Esto bloquea una funcionalidad esencial del marketplace, afectando la capacidad de los usuarios para completar compras.</li>
-            <li>Recomendación: Corregir la funcionalidad del botón de carrito de compras para asegurar que los usuarios puedan agregar productos a su carrito sin problemas.</li>
-            <img src="./imagenes/ADTS3.png" width="600" height="300">
-          </ul>
-    </li>
-    <li>
-        <strong>Problema #4: No hay validaciones en los formularios de publicación de productos</strong>
-        <ul>
-            <li>Severidad: 3</li>
-            <li>Heurística violada: Usability - Prevención de errores</li>
-            <li>Problema: Los formularios permiten el envío de datos incompletos o incorrectos, lo cual puede resultar en publicaciones inválidas o errores en la aplicación.</li>
-            <li>Recomendación: Implementar validaciones en los formularios para asegurar que todos los campos requeridos sean completados correctamente antes de permitir el envío.</li>
-            <img src="./imagenes/ADTS4.png" width="600" height="300">
-          </ul>
-    </li>
-    <li>
-      <strong>Problema #5: No hay forma de borrar una publicación</strong>
-      <ul>
-          <li>Severidad: 3</li>
-          <li>Heurística violada: Usability - Flexibilidad y eficiencia de uso</li>
-          <li>Problema: Los usuarios no tienen la opción de eliminar publicaciones, lo cual limita la gestión de contenido y puede resultar en información desactualizada o incorrecta.</li>
-          <li>Recomendación: Añadir una funcionalidad para permitir que los usuarios borren publicaciones de manera sencilla.</li>
-          <img src="./imagenes/ADTS5.png" width="600" height="300">
-        </ul>
-  </li>
-  
-  <li>
-      <strong>Problema #6: La función de búsqueda no funciona (lupa no es clickeable)</strong>
-      <ul>
-          <li>Severidad: 3</li>
-          <li>Heurística violada: Usability - Ayuda y documentación</li>
-          <li>Problema: El icono de búsqueda no es clickeable, lo cual impide a los usuarios buscar productos o información dentro de la aplicación.</li>
-          <li>Recomendación: Corregir la funcionalidad de la búsqueda para que el icono sea clickeable y la búsqueda funcione correctamente.</li>
-          <img src="./imagenes/ADTS6.png" width="600" height="300">
-
-        </ul>
-  </li>
-  
-  <li>
-      <strong>Problema #7: Al clickear el botón de precio de algunas publicaciones, se muestra un pantallazo en blanco</strong>
-      <ul>
-          <li>Severidad: 4</li>
-          <li>Heurística violada: Usability - Consistencia y estándares</li>
-          <li>Problema: Algunas publicaciones no muestran la información correcta al clickear en el precio, resultando en una pantalla en blanco que impide al usuario obtener la información deseada.</li>
-          <li>Recomendación: Corregir este problema para asegurar que todas las publicaciones muestren la información adecuada al clickear en el precio.</li>
-          <img src="./imagenes/ADTS7.png" width="600" height="300">
-        </ul>
-  </li>
-  
-  <li>
-      <strong>Problema #8: La navegación para editar el perfil es confusa y los cambios no se guardan</strong>
-      <ul>
-          <li>Severidad: 4</li>
-          <li>Heurística violada: Usability - Visibilidad del estado del sistema</li>
-          <li>Problema: El proceso para editar el perfil es confuso y los cambios no se guardan correctamente, lo cual frustra a los usuarios y disminuye la efectividad de la aplicación.</li>
-          <li>Recomendación: Simplificar el proceso de edición del perfil y asegurar que los cambios se guarden correctamente.</li>
-          <img src="./imagenes/ADTS8.png" width="600" height="300">
-        </ul>
-  </li>
-  
-  <li>
-      <strong>Problema #9: El botón de "Más" no se convierte en "Ver menos" después de mostrar opciones adicionales</strong>
-      <ul>
-          <li>Severidad: 3</li>
-          <li>Heurística violada: Usability - Libertad y control del usuario</li>
-          <li>Problema: Al hacer clic en el botón "Ver más" en la publicación de productos, se muestran más opciones de edición. Sin embargo, una vez que estas opciones se despliegan, el botón "Ver más" no cambia a un botón de "Ver menos" u "Ocultar", dejando al usuario sin una forma clara de regresar al estado anterior.</li>
-          <li>Recomendación: Modificar el botón "Más" para que se convierta en un botón de "Ver menos" o "Ocultar" una vez que las opciones adicionales estén visibles. Esto permitirá a los usuarios revertir fácilmente la acción y ocultar las opciones adicionales sin confusión.</li>
-          <img src="./imagenes/ADTS9.png" width="600" height="300">
-        </ul>
-  </li>
-</ol>
 <h2>5.4. Video About The Product</h2>
 
 <h1>Mejora continua</h1>
