@@ -327,6 +327,7 @@
         <td> <ul>
           <li>Como equipo hemos realizado un trabajo de forma colaborativa y comunicativa, siempre asistiendo a nuestras reuniones y lograr coordinar para poder tener un proyecto eficiente.</li>
           <li>Como equipo, hemos trabajado de manera colaborativa y comunicativa para desarrollar los flujos de diseño correspondientes al frontend de nuestro marketplace de productos artesanales. Además, hemos utilizado APIs simuladas para realizar operaciones CRUD (Create, Read, Update, Delete) y validar la funcionalidad del sistema. Nuestra constante asistencia a las reuniones y nuestra capacidad para coordinarnos han sido esenciales para garantizar la eficiencia del proyecto.</td></li>
+          <li>Como equipo hemos realizado el proyecto del backend trabajando las solicitudes http de las entidades correspondientes hacia la base de datos de MySql, realizamos pruebas unitarias a las reglas de negocio del dominio y documentamos el API para su correcto uso.</li>
         </ul>
         </td>
     </tr>
