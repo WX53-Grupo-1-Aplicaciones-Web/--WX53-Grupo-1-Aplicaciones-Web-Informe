@@ -2260,6 +2260,34 @@ Anderson Walter Macedo Calsina - u20201c179
   <img src="./imagenes/Ctest4.png" width="600" height="300">
   <p>Depuracion de las pruebas</p>
   <img src="./imagenes/Ctest5.png" width="600" height="300">
+  <p align="justify">
+    A continuacion se muestra las pruebas unitarias a las validaciones del dominio de la entidad Products:</p>
+    <p>Prueba que se lanza una excepción cuando el nombre del producto es demasiado largo.</p>
+    <img src="./imagenes/Ptest1.png" width="600" height="300">
+    <p>Prueba que se lanza una excepción cuando el precio unitario del producto es negativo..</p>
+    <img src="./imagenes/Ptest2.png" width="600" height="300">
+    <p>Prueba que se lanza una excepción cuando el precio unitario del producto tiene un formato decimal inválido.</p>
+    <img src="./imagenes/Ptest3.png" width="600" height="300">
+    <p>Prueba que se lanza una excepción cuando el stock del producto es negativo.</p>
+    <img src="./imagenes/Ptest4.png" width="600" height="300">
+    <p>Prueba que se lanza una excepción cuando la descripción del producto es demasiado larga.</p>
+    <img src="./imagenes/Ptest5.png" width="600" height="300">
+    <p>Prueba que se crea un producto cuando se proporciona un producto válido.</p>
+    <img src="./imagenes/Ptest6.png" width="600" height="300">
+    <p>Depuracion de las pruebas</p>
+  <img src="./imagenes/Ptest7.png" width="600" height="300">
+    <p align="justify">
+      A continuacion se muestra las pruebas unitarias a las validaciones del dominio de la entidad Artisans:</p>
+      <p>Prueba que se lanza una excepción cuando el apellido del artesano es inválido.</p>
+      <img src="./imagenes/Atest1.png" width="600" height="300">
+      <p>Prueba que se crea un artesano cuando los datos son válidos.</p>
+      <img src="./imagenes/Atest2.png" width="600" height="300">
+      <p>Prueba que se actualiza un artesano cuando los datos son válidos.</p>
+      <img src="./imagenes/Atest3.png" width="600" height="300">
+      <p>Prueba que se elimina un artesano cuando existe.</p>
+      <img src="./imagenes/Atest4.png" width="600" height="300">
+      <p>Depuracion de las pruebas</p>
+  <img src="./imagenes/Atest5.png" width="600" height="300">
 <h3>5.2.3.5 Execution Evidence for Sprint Review</h3>
 
 <h3>5.2.3.6. Services Documentation Evidence for Sprint Review</h3>
