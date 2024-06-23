@@ -2339,6 +2339,279 @@ Anderson Walter Macedo Calsina - u20201c179
 <img src="./imagenes/traffic1back.png">
 <img src="./imagenes/traffic2back.png">
 
+<h3>5.2.4 Sprint 4</h3>
+<p>En el cuarto sprint se desarrolló el Back-End basado en nuestro Fake-API nuestra aplicación web.</p>
+<h3>5.2.4.1 Sprint planning 4</h3>
+
+<table>
+  <tr>
+    <th>Sprint # </th>
+    <th>Sprint 4 </th>
+  </tr>
+  <tr>
+    <td><strong>Sprint Planning Background</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <th>Escribir aquí</th>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>20:00 PM</th>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <th>Meet</th>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <th>Alessandro Bernardo </th>
+  </tr>
+  <tr>
+    <th>Attendess (to planning meeting)</th>
+    <th>Alessandro Joaquin Bernardo Eusebio - u202113640
+Santos Alexis Patazca Calderón - U20201c269
+Nicolas Andres Cortes Hidalgo - u202016311
+Franz Jair La Torre Valle - u202012378
+Anderson Walter Macedo Calsina - u20201c179
+ </th>
+  </tr>
+  <tr>
+    <th>Sprint 4 Review Summary</th>
+    <th>Escribir aquí</th>
+  </tr>
+  <tr>
+    <th>Sprint 4 Retrospective Summary</th>
+    <th>Escribir aquí</th>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Sprint 4 Goal</th>
+    <th>Escribir aquí</th>
+  </tr>
+  <tr>
+    <th>Sprint 4 Velocity</th>
+    <th>2 semanas</th>
+  </tr>
+  <tr>
+    <th>Sum of Story Point</th>
+    <th>Escribir aquí</th>
+  </tr>
+</table>
+<h3>5.2.4.2 Sprint Backlog 4</h3>
+<table>
+   <tr>
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+  </tr>
+   <tr>
+    <th>User Story</th>
+    <th></th>
+    <th>Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title </th>
+    <th>Description</th>
+    <th>Estimation(Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / InProcess / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <th>US-01</th>
+    <th>Creacion de cuenta dentro de la plataforma</th>
+    <th>W-01</th>
+    <th>Registro de Clientes </th>
+    <th>Como un cliente nuevo que desea realizar compras en el sitio,
+      Quiero poder registrarme en la plataforma proporcionando mi información básica,
+      Para acceder a todas las funcionalidades, realizar compras y personalizar mi experiencia.</th>
+      <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-02</th>
+    <th>Postear productos dentro de la plataforma</th>
+    <th>W-02</th>
+    <th>Gestión de Productos</th>
+    <th>Como artesano que desea dar a conocer sus productos,
+      Quiero poder agregar, editar y eliminar productos en la plataforma,
+      Para mantener el catálogo de productos actualizado y relevante para mis clientes.</th>
+      <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-03</th>
+    <th>Gestion de la personalizacion de productos</th>
+    <th>W-03</th>
+    <th>Personalización de Productos</th>
+    <th>Como  cliente registrado,
+      Quiero poder personalizar los productos según mis preferencias antes de comprarlos,
+      Para: obtener productos únicos y adaptados a mis gustos y necesidades.</th>
+      <th>2 hours</th>
+    <th>Santos</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-04</th>
+    <th>Creacion de los artesanos dentro de la plataforma</th>
+    <th>W-04</th>
+    <th>Registro de artesanos</th>
+    <th>Como artesano interesado en vender mis productos,
+      Quiero poder registrarme en la plataforma y crear un perfil,
+      Para ofrecer mis productos personalizados y llegar a más clientes.
+    </th>
+    <th>2 hours</th>
+    <th>Franz</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-05</th>
+    <th>Gestion de los pedidos de los clientes</th>
+    <th>W-05</th>
+    <th>Informacion de perfil</th>
+    <th>Como cliente registrado,
+      Quiero poder realizar pedidos de productos y hacer seguimiento del estado de mis pedidos,
+      Para asegurarme de que mis compras se procesen y entreguen correctamente.</th>
+    <th>2 hours</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-06</th>
+    <th>Realizacion de pruebas unitarias al dominio></th>
+    <th>W-06</th>
+    <th>Validación de Reglas de Negocio</th>
+    <th>Como desarrollador del backend,
+      Quiero validar las reglas de negocio en el dominio (como precios, inventarios y descuentos),
+      Para asegurar que todas las operaciones se realicen de acuerdo a las políticas establecidas y evitar errores.
+    </th>
+    <th>1 hours</th>
+    <th>Anderson</th>
+    <th>Done</th>
+  </tr>
+
+  <tr>
+    <th>US-07</th>
+    <th>Documentar nuestra API para su uso correcto</th>
+    <th>W-06</th>
+    <th>Documentación del API</th>
+    <th>Como desarrollador del frontend,
+      Quiero disponer de una documentación clara y completa del API del backend,
+      Para integrar el frontend con el backend de manera eficiente y sin errores.
+    </th>
+    <th>1 hours</th>
+    <th>Nicolas</th>
+    <th>Done</th>
+  </tr>
+</table>
+
+<h3>5.2.4.3 Development Evidence for Sprint Review</h3>
+<h4>Tabla de resumen de commits</h4>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+        <td>main</td>
+        <td>ab157b7</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+    </tr>
+    <tr>
+      <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+      <td>main</td>
+        <td>cd2df8a</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+    </tr>
+    <tr>
+      <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+      <td>main</td>
+        <td>a787622</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>feat/product</td>
+        <td>a26559b</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>feat/Artisan</td>
+        <td>fc14a88</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>feat/Order</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>feat/Personalization</td>
+        <td>e70a368</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>main</td>
+        <td>c9e2f6d</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+    </tr>
+        <tr>
+          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+          <td>main</td>
+        <td>122d6da</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+        <td>Escribir aquí</td>
+    </tr>
+</table>
+
+<h3>5.2.4.4 Testing Suite Evidence for Sprint Review.</h3>
+
+<h3>5.2.4.5 Execution Evidence for Sprint Review</h3>
+<p>A continuación presentamos la evidencia de ejecucion del backend:</p>
+
+Imagenes
+
+<p>Enlace al repositorio del Back-end del proyecto: Escribir aquí</p>
+
+<h3>5.2.4.6. Services Documentation Evidence for Sprint Review</h3>
+
+<h3>5.2.4.7. Software Deployment Evidence for Sprint Review</h3>
+
+<h3>5.2.4.8. Team Collaboration Insights during Sprint.</h3>
 
 <h3>5.3. Validation Interviews</h3>
 <h3>5.3.1. Diseño de Entrevistas.</h3>
@@ -2842,280 +3115,6 @@ Anderson Walter Macedo Calsina - u20201c179
         </ul>
   </li>
 </ol>
-
-<h3>5.3.4 Sprint 4</h3>
-<p>En el cuarto sprint se desarrolló el Back-End basado en nuestro Fake-API nuestra aplicación web.</p>
-<h3>5.3.4.1 Sprint planning 4</h3>
-
-<table>
-  <tr>
-    <th>Sprint # </th>
-    <th>Sprint 4 </th>
-  </tr>
-  <tr>
-    <td><strong>Sprint Planning Background</strong></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>Date</th>
-    <th>2024/06/18</th>
-  </tr>
-  <tr>
-    <th>Time</th>
-    <th>20:00 PM</th>
-  </tr>
-  <tr>
-    <th>Location</th>
-    <th>Meet</th>
-  </tr>
-  <tr>
-    <th>Prepared by</th>
-    <th>Alessandro Bernardo </th>
-  </tr>
-  <tr>
-    <th>Attendess (to planning meeting)</th>
-    <th>Alessandro Joaquin Bernardo Eusebio - u202113640
-Santos Alexis Patazca Calderón - U20201c269
-Nicolas Andres Cortes Hidalgo - u202016311
-Franz Jair La Torre Valle - u202012378
-Anderson Walter Macedo Calsina - u20201c179
- </th>
-  </tr>
-  <tr>
-    <th>Sprint 4 Review Summary</th>
-    <th>Escribir aquí</th>
-  </tr>
-  <tr>
-    <th>Sprint 4 Retrospective Summary</th>
-    <th>Escribir aquí</th>
-  </tr>
-  <tr>
-    <th>Sprint Goal & User Stories</th>
-    <th></th>
-  </tr>
-  <tr>
-    <th>Sprint 4 Goal</th>
-    <th>Escribir aquí</th>
-  </tr>
-  <tr>
-    <th>Sprint 4 Velocity</th>
-    <th>2 semanas</th>
-  </tr>
-  <tr>
-    <th>Sum of Story Point</th>
-    <th>Escribir aquí</th>
-  </tr>
-</table>
-<h3>5.3.4.2 Sprint Backlog 4</h3>
-<table>
-   <tr>
-    <th>Sprint #</th>
-    <th>Sprint 4</th>
-  </tr>
-   <tr>
-    <th>User Story</th>
-    <th></th>
-    <th>Work-Item/Task</th>
-  </tr>
-  <tr>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Id</th>
-    <th>Title </th>
-    <th>Description</th>
-    <th>Estimation(Hours)</th>
-    <th>Assigned To</th>
-    <th>Status (To-do / InProcess / ToReview / Done)</th>
-  </tr>
-  <tr>
-    <th>US-01</th>
-    <th>Creacion de cuenta dentro de la plataforma</th>
-    <th>W-01</th>
-    <th>Registro de Clientes </th>
-    <th>Como un cliente nuevo que desea realizar compras en el sitio,
-      Quiero poder registrarme en la plataforma proporcionando mi información básica,
-      Para acceder a todas las funcionalidades, realizar compras y personalizar mi experiencia.</th>
-      <th>2 hours</th>
-    <th>Alessandro</th>
-    <th>Done</th>
-  </tr>
-  <tr>
-    <th>US-02</th>
-    <th>Postear productos dentro de la plataforma</th>
-    <th>W-02</th>
-    <th>Gestión de Productos</th>
-    <th>Como artesano que desea dar a conocer sus productos,
-      Quiero poder agregar, editar y eliminar productos en la plataforma,
-      Para mantener el catálogo de productos actualizado y relevante para mis clientes.</th>
-      <th>2 hours</th>
-    <th>Alessandro</th>
-    <th>Done</th>
-  </tr>
-  <tr>
-    <th>US-03</th>
-    <th>Gestion de la personalizacion de productos</th>
-    <th>W-03</th>
-    <th>Personalización de Productos</th>
-    <th>Como  cliente registrado,
-      Quiero poder personalizar los productos según mis preferencias antes de comprarlos,
-      Para: obtener productos únicos y adaptados a mis gustos y necesidades.</th>
-      <th>2 hours</th>
-    <th>Santos</th>
-    <th>Done</th>
-  </tr>
-  <tr>
-    <th>US-04</th>
-    <th>Creacion de los artesanos dentro de la plataforma</th>
-    <th>W-04</th>
-    <th>Registro de artesanos</th>
-    <th>Como artesano interesado en vender mis productos,
-      Quiero poder registrarme en la plataforma y crear un perfil,
-      Para ofrecer mis productos personalizados y llegar a más clientes.
-    </th>
-    <th>2 hours</th>
-    <th>Franz</th>
-    <th>Done</th>
-  </tr>
-  <tr>
-    <th>US-05</th>
-    <th>Gestion de los pedidos de los clientes</th>
-    <th>W-05</th>
-    <th>Informacion de perfil</th>
-    <th>Como cliente registrado,
-      Quiero poder realizar pedidos de productos y hacer seguimiento del estado de mis pedidos,
-      Para asegurarme de que mis compras se procesen y entreguen correctamente.</th>
-    <th>2 hours</th>
-    <th>Alessandro</th>
-    <th>Done</th>
-  </tr>
-  <tr>
-    <th>US-06</th>
-    <th>Realizacion de pruebas unitarias al dominio></th>
-    <th>W-06</th>
-    <th>Validación de Reglas de Negocio</th>
-    <th>Como desarrollador del backend,
-      Quiero validar las reglas de negocio en el dominio (como precios, inventarios y descuentos),
-      Para asegurar que todas las operaciones se realicen de acuerdo a las políticas establecidas y evitar errores.
-    </th>
-    <th>1 hours</th>
-    <th>Anderson</th>
-    <th>Done</th>
-  </tr>
-
-  <tr>
-    <th>US-07</th>
-    <th>Documentar nuestra API para su uso correcto</th>
-    <th>W-06</th>
-    <th>Documentación del API</th>
-    <th>Como desarrollador del frontend,
-      Quiero disponer de una documentación clara y completa del API del backend,
-      Para integrar el frontend con el backend de manera eficiente y sin errores.
-    </th>
-    <th>1 hours</th>
-    <th>Nicolas</th>
-    <th>Done</th>
-  </tr>
-</table>
-
-<h3>5.3.4.3 Development Evidence for Sprint Review</h3>
-<h4>Tabla de resumen de commits</h4>
-<table>
-    <tr>
-        <td>Repository</td>
-        <td>Branch</td>
-        <td>Commit Id</td>
-        <td>Commit Message</td>
-        <td>Commit Message Body</td>
-        <td>Commited on (Date)</td>
-    </tr>
-    <tr>
-        <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-        <td>main</td>
-        <td>ab157b7</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-    <tr>
-      <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-      <td>main</td>
-        <td>cd2df8a</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-    <tr>
-      <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-      <td>main</td>
-        <td>a787622</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>feat/product</td>
-        <td>a26559b</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>feat/Artisan</td>
-        <td>fc14a88</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>feat/Order</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>feat/Personalization</td>
-        <td>e70a368</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>main</td>
-        <td>c9e2f6d</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>main</td>
-        <td>122d6da</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-</table>
-
-<h3>5.3.4.4 Testing Suite Evidence for Sprint Review.</h3>
-
-<h3>5.3.4.5 Execution Evidence for Sprint Review</h3>
-<p>A continuación presentamos la evidencia de ejecucion del backend:</p>
-
-Imagenes
-
-<p>Enlace al repositorio del Back-end del proyecto: Escribir aquí</p>
-
-<h3>5.3.4.6. Services Documentation Evidence for Sprint Review</h3>
-
-<h3>5.3.4.7. Software Deployment Evidence for Sprint Review</h3>
-
-<h3>5.3.4.8. Team Collaboration Insights during Sprint.</h3>
 
 <h2>5.4. Video About The Product</h2>
 <p>A continuación, presentamos el video sobre el producto:</p>
