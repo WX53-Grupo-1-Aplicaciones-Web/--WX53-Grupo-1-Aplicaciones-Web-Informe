@@ -2605,13 +2605,16 @@ Anderson Walter Macedo Calsina - u20201c179
 
 Imagenes
 
-<p>Enlace al repositorio del Back-end del proyecto: Escribir aquí</p>
+<p>Enlace al repositorio del Back-end del proyecto: https://github.com/WX53-Grupo-1-Aplicaciones-Web/WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd.git </p>
 
 <h3>5.2.4.6. Services Documentation Evidence for Sprint Review</h3>
+<p>A continuación se aplica la documentación de los EndPoints generados con Open API mostrados a través de Swagger</p>
 
 <h3>5.2.4.7. Software Deployment Evidence for Sprint Review</h3>
 
 <h3>5.2.4.8. Team Collaboration Insights during Sprint.</h3>
+<p>El trabajo en equipo de desarrolló en ramas para cada integrantes de grupo, las entidades principales se trabajaron en la rama main y las demás entidades en las siguientes ramas respectivas. Se realizaron algunos commits de manera convencional de tal forma que se superviso por todos los integrantes del trabajo y fueran implementados sin inconvenientes.
+</p>
 
 <h3>5.3. Validation Interviews</h3>
 <h3>5.3.1. Diseño de Entrevistas.</h3>
