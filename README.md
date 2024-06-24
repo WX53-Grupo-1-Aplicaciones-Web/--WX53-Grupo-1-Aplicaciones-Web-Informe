@@ -2517,86 +2517,88 @@ Anderson Walter Macedo Calsina - u20201c179
 <h3>5.2.4.3 Development Evidence for Sprint Review</h3>
 <h4>Tabla de resumen de commits</h4>
 <table>
-    <tr>
-        <td>Repository</td>
-        <td>Branch</td>
-        <td>Commit Id</td>
-        <td>Commit Message</td>
-        <td>Commit Message Body</td>
-        <td>Commited on (Date)</td>
-    </tr>
-    <tr>
-        <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
+  <tr>
+      <td>Repository</td>
+      <td>Branch</td>
+      <td>Commit Id</td>
+      <td>Commit Message</td>
+      <td>Commit Message Body</td>
+      <td>Commited on (Date)</td>
+  </tr>
+  <tr>
+      <td>WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd
+      </td>
+      <td>main</td>
+      <td>ab157b7</td>
+      <td>feat: Primer commit del repositorio actualizado</td>
+      <td>Repositorio con DDD creado</td>
+      <td>15/06/2024</td>
+  </tr>
+  <tr>
+    <td>WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd
+    </td>
+    <td>main</td>
+      <td>cd2df8a</td>
+      <td>feat: Creacion de la entidad customer</td>
+      <td>Configuracion de la entidad customer</td>
+      <td>17/06/2024</td>
+  </tr>
+  <tr>
+    <td>WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd    </td>
+    <td>main</td>
+      <td>a787622</td>
+      <td>feat: Adaptacion de customer al IAM</td>
+      <td>Autenticacion y autorizacion para la entidad customer</td>
+      <td>19/06/2024</td>
+  </tr>
+      <tr>
+        <td>WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd        </td>
+        <td>feat/customer</td>
+      <td>a26559b</td>
+      <td>feat: Creacion de las solicitudes de login y sign up</td>
+      <td>Cambio de solicitudes de creacion de customer a login y sign up</td>
+      <td>19/06/2024</td>
+  </tr>
+      <tr>
+        <td>WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd</td>
+        <td>feat/product</td>
+      <td>fc14a88</td>
+      <td>feat: Creacion de la entidad product</td>
+      <td>Configuracion de la entidad product</td>
+      <td>20/06/2024</td>
+  </tr>
+      <tr>
+        <td>WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd</td>
+        <td>feat/Order</td>
+      <td>fc14a87</td>
+      <td>feat: Creacion de la entidad order</td>
+      <td>Configuracion de la entidad order</td>
+      <td>20/06/2024</td>
+  </tr>
+      <tr>
+        <td>WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd</td>
         <td>main</td>
-        <td>ab157b7</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-    <tr>
-      <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-      <td>main</td>
-        <td>cd2df8a</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-    <tr>
-      <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-      <td>main</td>
-        <td>a787622</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>feat/product</td>
-        <td>a26559b</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>feat/Artisan</td>
-        <td>fc14a88</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>feat/Order</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>feat/Personalization</td>
-        <td>e70a368</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>main</td>
-        <td>c9e2f6d</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
-        <tr>
-          <td>WX53-Grupo-1-Aplicaciones-Web-Backend</td>
-          <td>main</td>
-        <td>122d6da</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-        <td>Escribir aquí</td>
-    </tr>
+      <td>e70a368</td>
+      <td>feat: Validaciones y reglas de negocio para las entidades/td>
+      <td>En la capa de dominio se colocaron validaciones basicas con etiquetas, se plantearon reglas de negocio en la capa de aplicación</td>
+      <td>21/06/2024</td>
+  </tr>
+      <tr>
+        <td>WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd</td>
+        <td>main</td>
+      <td>c9e2f6d</td>
+      <td>feat: Documentacion de los controladores de nuestras entidades</td>
+      <td>Se documento los controladores con OpenApi</td>
+      <td>21/06/2024</td>
+  </tr>
+      <tr>
+        <td>WX53-Grupo-1-Aplicaciones-Web-FrontEnd</td>
+        <td>main</td>
+      <td>122d6da</td>
+      <td>feat: Adaptacion de los endpoints a nuestro FrontEnd</td>
+      <td>Se cambiaron los fake apis de nuestro proyecto para usar los endpoints de nuestro backend</td>
+      <td>23/06/2024</td>
+  </tr>
 </table>
 
 <h3>5.2.4.4 Testing Suite Evidence for Sprint Review.</h3>
