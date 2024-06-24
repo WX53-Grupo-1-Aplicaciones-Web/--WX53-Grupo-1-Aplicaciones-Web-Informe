@@ -2378,12 +2378,13 @@ Anderson Walter Macedo Calsina - u20201c179
  </th>
   </tr>
   <tr>
-    <th>Sprint 4 Review Summary</th>
-    <th>Escribir aquí</th>
+    <th>Sprint 3 Review Summary</th>
+    <th>Correcciones y término del desarrollo de las tareas que corresponden al Sprint 3
+</th>
   </tr>
   <tr>
-    <th>Sprint 4 Retrospective Summary</th>
-    <th>Escribir aquí</th>
+    <th>Sprint 3 Retrospective Summary</th>
+    <th>Falta de organizacion en el equipo, falta de correcciones en los demás elementos del proyecto como en el front end y en el landing page</th>
   </tr>
   <tr>
     <th>Sprint Goal & User Stories</th>
@@ -2391,7 +2392,7 @@ Anderson Walter Macedo Calsina - u20201c179
   </tr>
   <tr>
     <th>Sprint 4 Goal</th>
-    <th>Escribir aquí</th>
+    <th>Terminar la implementación de las entidades del backend, trabajar las entidades del backend desde el frontend, hacer deploy de nuestros recursos como el backend y la base de datos</th>
   </tr>
   <tr>
     <th>Sprint 4 Velocity</th>
@@ -2399,7 +2400,7 @@ Anderson Walter Macedo Calsina - u20201c179
   </tr>
   <tr>
     <th>Sum of Story Point</th>
-    <th>Escribir aquí</th>
+    <th>6</th>
   </tr>
 </table>
 <h3>5.2.4.2 Sprint Backlog 4</h3>
