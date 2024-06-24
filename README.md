@@ -2604,12 +2604,13 @@ Anderson Walter Macedo Calsina - u20201c179
 <h3>5.2.4.4 Testing Suite Evidence for Sprint Review.</h3>
 
 <h3>5.2.4.5 Execution Evidence for Sprint Review</h3>
-<p>Durante este Sprint, nuestro equipo se ha enfocado en desarrollar y desplegar importantes funcionalidades en el sistema. Hemos implementado los endpoints necesarios en el API para las entidades Customer y Product, junto con sus respectivos métodos. Para los clientes, hemos habilitado las funcionalidades de registro y inicio de sesión, asegurando un acceso seguro y confiable al sistema. En cuanto a los productos, ahora es posible obtener información detallada de los productos existentes y crear nuevos registros de manera eficiente.<br/>A continuación presentamos la evidencia de ejecucion del backend:</p>
+<p>Durante este Sprint, nuestro equipo se ha enfocado en desarrollar y desplegar importantes funcionalidades en el sistema. Hemos implementado los endpoints necesarios en el API para las entidades Customer,Order y Product, junto con sus respectivos métodos. Para los clientes, hemos habilitado las funcionalidades de registro y inicio de sesión, asegurando un acceso seguro y confiable al sistema. En cuanto a los productos, ahora es posible obtener información detallada de los productos existentes y crear nuevos registros de manera eficiente.<br/>A continuación presentamos la evidencia de ejecucion del backend:</p>
 
 Imagenes
 
-<img src="./imagenes/SwaCustomer.png" width="600" height="300">
-<img src="./imagenes/SwaProduct.png" width="600" height="300">
+<img src="./imagenes/SwaCustomer.png" >
+<img src="./imagenes/SwaProduct.png">
+<img src="./imagenes/TF Imagenes/EV1.png" >
 
 <p>IMPORTANTE: Para la ejecución del proyecto se esta utilizando la siguiente configuracion en "appsettings.json"</p>
 <img src="./imagenes/configMysql.png" width="600" height="300">
