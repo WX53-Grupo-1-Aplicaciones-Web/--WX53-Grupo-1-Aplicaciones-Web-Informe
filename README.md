@@ -2605,7 +2605,16 @@ Anderson Walter Macedo Calsina - u20201c179
 
 Imagenes
 
-<p>Enlace al repositorio del Back-end del proyecto: https://github.com/WX53-Grupo-1-Aplicaciones-Web/WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd.git </p>
+<img src="./imagenes/SwaCustomer.png" width="600" height="300">
+<img src="./imagenes/SwaProduct.png" width="600" height="300">
+
+<p>IMPORTANTE: Para la ejecución del proyecto se esta utilizando la siguiente configuracion en "appsettings.json"</p>
+<img src="./imagenes/configMysql.png" width="600" height="300">
+
+<p>Para que pueda ejecutarse correctamente, se debe cambiar la contraseña "pwd" a la contraseña respectiva configurada en el MySql Workbrench personal</p>
+<p>Enalce al repositorio del Backend del proyecto: https://github.com/WX53-Grupo-1-Aplicaciones-Web/WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd</p>
+
+
 
 <h3>5.2.4.6. Services Documentation Evidence for Sprint Review</h3>
 <p>A continuación se aplica la documentación de los EndPoints generados con Open API mostrados a través de Swagger</p>
