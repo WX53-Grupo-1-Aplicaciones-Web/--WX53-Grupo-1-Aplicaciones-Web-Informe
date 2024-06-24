@@ -3164,6 +3164,9 @@ A pesar de que la simulación de datos no ha sido completamente satisfactoria, c
 
 <p>TB2: Para esta entrega del proyecto consideramos que representa un paso importante hacia la creación de una plataforma confiable y funcional para conectar a artesanos y clientes en un mercado digital. A través de nuestra dedicación y experiencia, hemos entregado una solución que cumple con los estándares de calidad y sienta las bases para futuras innovaciones y mejoras. A lo largo del desarrollo, nos hemos centrado en la escalabilidad, la seguridad y la eficiencia del sistema. Hemos utilizado buenas prácticas de programación y diseño para garantizar la modularidad y la mantenibilidad del código.</p>
 
+<p>TF: Durante este último entregable, hemos logrado integrar el frontend desarrollado en Vue.js con el backend, permitiendo a nuestros usuarios navegar e interactuar con los productos de manera intuitiva y eficiente. Además, hemos implementado la gestión de identidades, asegurando la generación y validación adecuada de tokens para la autenticación y autorización de usuarios.
+Consideramos que este proyecto creado es una plataforma confiable y funcional para conectar a artesanos y clientes en un entorno digital. Hemos aplicado buenas prácticas de desarrollo, asegurando la escalabilidad, seguridad y eficiencia del sistema. </p>
+
 <h1>BIBLIOGRAFIA</h1>
 <p>ComexPerú. (2024, 8 de marzo). Más de 416,000 peruanos trabajan en artesanía. ¿Cómo se encuentra el sector? Sociedad de Comercio Exterior del Perú. https://www.comexperu.org.pe/articulo/mas-de-416000-peruanos-trabajan-en-artesania-como-se-encuentra-el-sector  [Fecha de consulta 25/03/2024]</p>
 <p>Andina. (2024, 11 de abril). Más de 1,200 artesanos venden en línea a través de Artesanías del Perú. Agencia Andina. https://andina.pe/agencia/noticia-mas-1200-artesanos-venden-linea-a-traves-artesanias-del-peru-948996.aspx [Fecha de consulta 24/03/2024]</p>
