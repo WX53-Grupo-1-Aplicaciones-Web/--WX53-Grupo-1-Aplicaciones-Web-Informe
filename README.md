@@ -2609,6 +2609,7 @@ Anderson Walter Macedo Calsina - u20201c179
 
 <h4>Orders</h4>
 <img src="./imagenes/TF Imagenes/TE3.png">
+<img src="./imagenes/TF Imagenes/TE7.png">
 
 <h4>Product</h4>
 <img src="./imagenes/TF Imagenes/TE4.png">
@@ -2622,9 +2623,10 @@ Anderson Walter Macedo Calsina - u20201c179
 
 Imagenes
 
-<img src="./imagenes/SwaCustomer.png" >
-<img src="./imagenes/SwaProduct.png">
-<img src="./imagenes/TF Imagenes/EV1.png" >
+<img src="./imagenes/TF Imagenes/EE1.png">
+<img src="./imagenes/TF Imagenes/EE2.png">
+
+
 
 <p>IMPORTANTE: Para la ejecución del proyecto se esta utilizando la siguiente configuracion en "appsettings.json"</p>
 <img src="./imagenes/configMysql.png" width="600" height="300">
