@@ -2602,7 +2602,20 @@ Anderson Walter Macedo Calsina - u20201c179
 </table>
 
 <h3>5.2.4.4 Testing Suite Evidence for Sprint Review.</h3>
-<p>A continuación mostramos las pruebas unitarias de nuestras entidades </p>
+<p>A continuación mostramos las pruebas unitarias de nuestras entidades: </p>
+<h4>Customer</h4>
+<img src="./imagenes/TF Imagenes/TE1.png">
+<img src="./imagenes/TF Imagenes/TE2.png">
+
+<h4>Orders</h4>
+<img src="./imagenes/TF Imagenes/TE3.png">
+
+<h4>Product</h4>
+<img src="./imagenes/TF Imagenes/TE4.png">
+<img src="./imagenes/TF Imagenes/TE5.png">
+
+<img src="./imagenes/TF Imagenes/TE6.png">
+
 
 <h3>5.2.4.5 Execution Evidence for Sprint Review</h3>
 <p>Durante este Sprint, nuestro equipo se ha enfocado en desarrollar y desplegar importantes funcionalidades en el sistema. Hemos implementado los endpoints necesarios en el API para las entidades Customer,Order y Product, junto con sus respectivos métodos. Para los clientes, hemos habilitado las funcionalidades de registro y inicio de sesión, asegurando un acceso seguro y confiable al sistema. En cuanto a los productos, ahora es posible obtener información detallada de los productos existentes y crear nuevos registros de manera eficiente.<br/>A continuación presentamos la evidencia de ejecucion del backend:</p>
