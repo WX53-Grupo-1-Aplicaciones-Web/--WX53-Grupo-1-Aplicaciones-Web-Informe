@@ -2354,7 +2354,7 @@ Anderson Walter Macedo Calsina - u20201c179
   </tr>
   <tr>
     <th>Date</th>
-    <th>Escribir aquí</th>
+    <th>16/05/2024</th>
   </tr>
   <tr>
     <th>Time</th>
