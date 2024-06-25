@@ -2644,7 +2644,6 @@ Imagenes
 
 
 <h3>5.2.4.7. Software Deployment Evidence for Sprint Review</h3>
-<h3>5.2.4.7. Software Deployment Evidence for Sprint Review</h3>
 <p>A continuación mostramos el deployment del FrontEnd en Firebase</p>
 <img src="./imagenes/TF Imagenes/DE1.png">
 <img src="./imagenes/TF Imagenes/DE2.png">
@@ -2667,6 +2666,7 @@ Imagenes
 <h3>5.2.4.8. Team Collaboration Insights during Sprint.</h3>
 <p>El trabajo en equipo de desarrolló en ramas para cada integrantes de grupo, las entidades principales se trabajaron en la rama main y las demás entidades en las siguientes ramas respectivas. Se realizaron algunos commits de manera convencional de tal forma que se superviso por todos los integrantes del trabajo y fueran implementados sin inconvenientes.
 </p>
+<img src="./imagenes/TF Imagenes/BR1.png">
 
 <h3>5.3. Validation Interviews</h3>
 <h3>5.3.1. Diseño de Entrevistas.</h3>
