@@ -2644,6 +2644,25 @@ Imagenes
 
 
 <h3>5.2.4.7. Software Deployment Evidence for Sprint Review</h3>
+<h3>5.2.4.7. Software Deployment Evidence for Sprint Review</h3>
+<p>A continuación mostramos el deployment del FrontEnd en Firebase</p>
+<img src="./imagenes/TF Imagenes/DE1.png">
+<img src="./imagenes/TF Imagenes/DE2.png">
+<img src="./imagenes/TF Imagenes/DE3.png">
+<P>Enlace al front end desplegado: https://grupo-1-artisania-deployment.web.app/</P>
+
+<p>A continuación mostramos el deployment del Backend en Azure</p>
+<img src="./imagenes/TF Imagenes/DE4.png">
+<img src="./imagenes/TF Imagenes/DE5.png">
+<img src="./imagenes/TF Imagenes/DE6.png">
+<img src="./imagenes/TF Imagenes/DE7.png">
+
+<p>Enlace al deployment del Backend: https://artisania.azurewebsites.net/swagger/index.html</p>
+
+<p>A continuación mostramos el deployment de la base de datos en freemysqldatabase</p>
+<img src="./imagenes/TF Imagenes/DE8.png">
+<img src="./imagenes/TF Imagenes/DE9.png">
+
 
 <h3>5.2.4.8. Team Collaboration Insights during Sprint.</h3>
 <p>El trabajo en equipo de desarrolló en ramas para cada integrantes de grupo, las entidades principales se trabajaron en la rama main y las demás entidades en las siguientes ramas respectivas. Se realizaron algunos commits de manera convencional de tal forma que se superviso por todos los integrantes del trabajo y fueran implementados sin inconvenientes.
