@@ -2637,7 +2637,11 @@ Imagenes
 
 
 <h3>5.2.4.6. Services Documentation Evidence for Sprint Review</h3>
-<p>A continuación se aplica la documentación de los EndPoints generados con Open API mostrados a través de Swagger</p>
+<img src="./imagenes/TF Imagenes/SD1.png">
+<img src="./imagenes/TF Imagenes/SD2.png">
+<img src="./imagenes/TF Imagenes/SD3.png">
+<img src="./imagenes/TF Imagenes/SD4.png">
+
 
 <h3>5.2.4.7. Software Deployment Evidence for Sprint Review</h3>
 
